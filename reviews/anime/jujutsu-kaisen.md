@@ -5,7 +5,7 @@ genres: action, demons, supernatural, school, shounen
 rating: story,artwork,sound,characters
 verdict:
 
-last_seen: 2021-02-06
+last_seen: 2021-03-27
 date:published: 2020
 date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/g1rK2nRXSidcMwNliWDIroWWGTn.jpg
