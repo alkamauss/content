@@ -27,13 +27,13 @@ link:mal: https://myanimelist.net/anime/13759/Sakura-sou_no_Pet_na_Kanojo
 
 <https://www.reddit.com/r/anime/comments/jcoce4/how_phrasing_can_ruin_a_boys_reputation_sakurasou/>
 
-### #{rating:0}!/10 | Story & Plot
+### !{rating:0}/10 | Story & Plot
 
-### #{rating:1}!/10 | Artwork & Animation
+### !{rating:1}/10 | Artwork & Animation
 
-### #{rating:2}!/10 | Sound
+### !{rating:2}/10 | Sound
 
-### #{rating:3}!/10 | Characters
+### !{rating:3}/10 | Characters
 
 ## Verdict
 

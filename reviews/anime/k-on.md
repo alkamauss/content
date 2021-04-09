@@ -24,13 +24,13 @@ link:mal:
 
 ## Highlights
 
-### #{rating:0}!/10 | Story & Plot
+### !{rating:0}/10 | Story & Plot
 
-### #{rating:1}!/10 | Artwork & Animation
+### !{rating:1}/10 | Artwork & Animation
 
-### #{rating:2}!/10 | Sound
+### !{rating:2}/10 | Sound
 
-### #{rating:3}!/10 | Characters
+### !{rating:3}/10 | Characters
 
 ![!Video](https://firebasestorage.googleapis.com/v0/b/devmauss.appspot.com/o/anime%2Fclips%2Fyui-wants-to-do-the-vocals.mp4?alt=media&token=7134a39b-07b8-4ebe-9c10-67c8eda15287 "Yui wants to do the vocals")
 
