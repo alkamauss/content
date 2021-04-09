@@ -8,13 +8,13 @@ Having trouble navigating through the page? Don't know what or where to look fir
 Navigation bar for mobile users are placed at the bottom, click the hamburger icon on the right to expand other pages, and click the square "M" icon to go back to the home page.
 </section>
 
-## [About](about)
+## [About](/about)
 
 I think this is pretty self-explanatory, right? It includes explanation for who I am, what I do, hobbies, socials, some fun facts, and other trivial stuff. Also why I built this website if some of you are curious.
 
-## [Curated](curated)
+## [Curated](/curated)
 
-Curated page consists of things I find interesting or worthwhile to be compiled into its own dedicated timeless post, so it shouldn't matter when it's being read. It also hosts the special [Monthly Digests](curated/digest), subscribe so you'll get the latest digests at the start of every month.
+Curated page consists of things I find interesting or worthwhile to be compiled into its own dedicated timeless post, so it shouldn't matter when it's being read. It also hosts the special [Monthly Digests](/curated/digest), subscribe so you'll get the latest digests at the start of every month.
 
 ### Monthly Digests
 
@@ -33,7 +33,7 @@ See the world through my eyes. A compilation of everything I find interesting, i
 
 These sections above can be accessed or shared immediately by linking their hashes, for example you could add `#music-of-the-month` at the end of the URL to immediately jump to the section. Available for headlines as well, and for detailed monthly recap, just add the date number at the end of it `#24`, but as mentioned before there's no guarantee that every day would have it.
 
-## [Posts](posts)
+## [Posts](/posts)
 
 Posts page are just blog posts for various stuff happening or has happened. Would talk about life in general, have a tutorial post, or just discussing general technology or programming specific.
 
@@ -41,7 +41,7 @@ Posts page are just blog posts for various stuff happening or has happened. Woul
 You can get the link and subscribe to this site's RSS by clicking on the icon at the navigation bar so you don't miss out on any new stuff.
 </section>
 
-## [Reviews](reviews)
+## [Reviews](/reviews)
 
 Reviews page is the place where I try to express myself the most. I try to review all content I consume as objectively as possible and treat each review as a way to show my appreciation for the content that has been made. Even if I don't recommend it, I'm sure there's always something to learn from and take the positive out of it.
 
@@ -55,7 +55,7 @@ Apologies for the huge logo, it automatically fits itself to the available width
 
 I don't have any affiliation with TMDB nor any connection whatsoever, the usage of TMDB here is purely my personal choice and convenience it provides. The reviews, images used, and other stuff I chose does not represent TMDB, any further questions should be asked directly to me through my Twitter or other social links down below.
 
-## [Uses](uses)
+## [Uses](/uses)
 
 Uses page are somewhat [a trend for people who have their own blog or website](https://uses.tech/). Although, I've added a personal touch to my uses page. It doubles down as a living document for all the things I've researched and bought. I could spend hours or days before truly settling on one thing because I'm lazy and I prefer sticking to one thing rather than frequently changing them.
 
