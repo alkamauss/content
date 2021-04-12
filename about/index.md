@@ -5,7 +5,7 @@ date:updated: 2020-06-23
 
 Hey there, my name is Ignatius Bagussuputra and I'm passionate with the applications that I make. I'm also an Open-Source enthusiast that focuses on privacy and transparency, check out my curated page in which I discussed a lot about this topic.
 
-I'm quite a slow typer at 80-90 WPM, perhaps I'm too spoiled by mobile keyboard autocomplete with type swiping and my code editor's IntelliSense. But, I should probably also mention that my current keyboard has a lot of chattering so it gets way harder to type fast and accurately.
+I'm quite a slow typer at 70-80 WPM, perhaps I'm too spoiled by mobile keyboard autocomplete with type swiping and my code editor's IntelliSense. But, I should probably also mention that my current keyboard has a lot of chattering so it gets way harder to type fast and accurately.
 
 All related social are available at the bottom of all page. Huge shout-out to [Favicon.io](https://favicon.io/) that has helped me a lot with their really simple and convenient way of making icons and logos for a temporary or sometimes fixed product. This website's favicon is in fact made with it too.
 
@@ -19,8 +19,4 @@ Other than serving as my online portfolio, that's mainly the reason why this was
 
 Of course, the other reason is so that I have all my stuff compiled and organized in one place where I can easily find them (yes, I've also noticed that I'm quite a clean freak, but I don't think it's a bad thing to be). Also, I think I might have some problems when it comes down to my communication skills, I can't seem to articulate myself properly. But, I feel like I can express myself better through my writings, so I guess this is another reason too. In other words, I made this site to better communicate and improve myself **in hopes** to become a better person. Please don't quote me on that. Anyways, have fun exploring DevMauss!
 
-For more information about this site, visit the [help page](help).
-
-## Fun facts about me
-
-- I lose approximately 0.5&ndash;1.0 kg every night, there's also one time where it's 1.5 kg. Weighted before I sleep and immediately after waking up.
+For more information about this site, visit the [help page](/help).

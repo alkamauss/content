@@ -25,13 +25,13 @@ link:mal: https://myanimelist.net/anime/40679/243__Seiin_Koukou_Danshi_Volley-bu
 
 ## Highlights
 
-### #{rating:0}!/10 | Story & Plot
+### !{rating:0}/10 | Story & Plot
 
-### #{rating:1}!/10 | Artwork & Animation
+### !{rating:1}/10 | Artwork & Animation
 
-### #{rating:2}!/10 | Sound
+### !{rating:2}/10 | Sound
 
-### #{rating:3}!/10 | Characters
+### !{rating:3}/10 | Characters
 
 ## Verdict
 

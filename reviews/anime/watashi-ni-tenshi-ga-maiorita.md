@@ -31,13 +31,13 @@ Although we see mostly everything that happens inside the house from Miyako's pe
 
 ## Highlights
 
-### #{rating:0}!/10 | Story & Plot
+### !{rating:0}/10 | Story & Plot
 
 The story and plot is nothing amazing, it's really just the daily life of two loving sisters and their friends having fun. There's no action or plot-twist to this, it just describes how there's a lot of various families and siblings out there that we might or might not know yet.
 
-Does it sound boring? Probably is. But, do they deliver it spectacularly? Absolutely. I haven't had this much fun watching an anime that I can genuinely laugh and enjoy every single episode it has, ever since [Nichijou](reviews?q=nichijou).
+Does it sound boring? Probably is. But, do they deliver it spectacularly? Absolutely. I haven't had this much fun watching an anime that I can genuinely laugh and enjoy every single episode it has, ever since [Nichijou](/reviews?q=nichijou).
 
-### #{rating:1}!/10 | Artwork & Animation
+### !{rating:1}/10 | Artwork & Animation
 
 I can't seem to see any fault here. It's just good, I don't think there's anything else to add here. It's not really fair to compare every anime to the top-tier studios production, but this is the best that your typical anime can look like.
 
@@ -47,13 +47,13 @@ Each expressions is animated so fluidly and really captures the feelings of thos
 
 One last thing is the food. I can't tell you how much I could suddenly crave for some sweets when foods are involved in the scene. I found this clip while scrolling through Reddit and it immediately made me bought some bread and butter, and this is right at the start of the first episode, so you know of what to expect later on.
 
-### #{rating:2}!/10 | Sound
+### !{rating:2}/10 | Sound
 
 I have a personal sense of appreciation for custom-made soundtracks, especially with a whole dedicated team only for the show, and this is no exception to it. With the actual seiyuus (voice actors/actresses) in it, this was an easy one to score. Definitely a high score from me, not just because the previous points, but the soundtracks itself is really catchy and suits the show so well (duh). Check out the Soundtracks section at the very end to get the sources.
 
 Aside from the soundtracks, the sound engineers itself did a really great job composing unique and fun sounds for each moments, whether it's happy, sad, playful, etc. Combined with the amazing animations, it really brings the environment to life.
 
-### #{rating:3}!/10 | Characters
+### !{rating:3}/10 | Characters
 
 I can't believe how loveable each characters are, it's crazy. The seiyuus did a fantastic job acting their role, it's too good.
 
@@ -63,7 +63,7 @@ Perhaps my one and only complaint is Hana. Even as cute and incompetent as she i
 
 ## Verdict
 
-I know most of you agrees with me, even after the first episode, that Miyako is actually a fun but just socially awkward person. The more you get to know her, the more you'll understand why she acts the way she does and the more you'll love her. I can't say much more before spoiling some stuff you'll get to enjoy discovering for yourself, but I can say for certain that she's my favorite character from the whole show. Hinata is second, and last is Noa, perhaps because she reminds me of Elf Yamada from [Eromanga-sensei](reviews?q=eromanga+sensei) so much.
+I know most of you agrees with me, even after the first episode, that Miyako is actually a fun but just socially awkward person. The more you get to know her, the more you'll understand why she acts the way she does and the more you'll love her. I can't say much more before spoiling some stuff you'll get to enjoy discovering for yourself, but I can say for certain that she's my favorite character from the whole show. Hinata is second, and last is Noa, perhaps because she reminds me of Elf Yamada from [Eromanga-sensei](/reviews?q=eromanga+sensei) so much.
 
 My verdict is definitely **recommended**. This show is just a relaxing and wholesome show you'll definitely love to watch in your free time. There's no one thing that fits everyone, and I'm not forcing you to watch this either. I'm just saying you won't regret watching this. Even if you're the type that *only* watches action themed anime and thought that a show full of kids and girls reduces your testosterone&mdash;feel free to think so, I'm not one to talk about how you should live your life&mdash;I'm still certain you'll get a laugh or two out of this.
 

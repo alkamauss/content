@@ -27,13 +27,13 @@ link:mal: https://myanimelist.net/anime/11843/Danshi_Koukousei_no_Nichijou/
 
 <https://www.reddit.com/r/anime/comments/jhjf8u/frankfurter_daily_lives_of_high_school_boys/>
 
-### #{rating:0}!/10 | Story & Plot
+### !{rating:0}/10 | Story & Plot
 
-### #{rating:1}!/10 | Artwork & Animation
+### !{rating:1}/10 | Artwork & Animation
 
-### #{rating:2}!/10 | Sound
+### !{rating:2}/10 | Sound
 
-### #{rating:3}!/10 | Characters
+### !{rating:3}/10 | Characters
 
 ## Verdict
 
