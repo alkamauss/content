@@ -8,7 +8,7 @@ Contents inside `src` are structured exactly as the URL in the site.
 
 Consider each individual file as each own post or article, inside it should
 
-- Abide default `markdownlint` rules and [specified ones](https://github.com/ignatiusmb/mauss.dev/blob/master/.markdownlint.yml)
+- Abide default `markdownlint` rules and [specified ones](.markdownlint.yml)
 - Have a front matter with at least a `title` property
 - Have a body with only `h2`, `h3`, or `h4` tags
 
