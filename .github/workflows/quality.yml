@@ -18,4 +18,6 @@ jobs:
         with:
           node-version: "14"
       - name: Lint Check
-        run: npx markdownlint src/**/*.md
+        run: |
+          npm i -g markdownlint
+          markdownlint src/**/*.md
