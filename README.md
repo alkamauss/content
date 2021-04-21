@@ -22,7 +22,7 @@ author:link: https://social.media/USERNAME
 ---
 ```
 
-Replace the value of `author:name` with your own name (or the post's author if you're opening a PR for someone else). If it's your first time writing, you can add your own avatar image into [`assets/profile`](https://github.com/ignatiusmb/mauss.dev/tree/master/static/assets/profile) folder, and reference it in `author:img`. Otherwise, just reference the avatar image file again. Lastly, replace the link in `author:link` with any link you want to point readers when clicking your avatar image.
+Replace the value of `author:name` with your own name (or the post's author if you're opening a PR for someone else). If it's your first time writing, you can add your own avatar image into [`assets/profile`](assets/profile) folder, and reference it in `author:img`. Otherwise, just reference the avatar image file again. Lastly, replace the link in `author:link` with any link you want to point readers when clicking your avatar image.
 
 ***
 
