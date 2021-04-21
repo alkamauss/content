@@ -1,8 +1,28 @@
 # Content Repository for DevMauss
 
-All content in mauss.dev lives here.
+Home to all content in mauss.dev.
 
 ## Writing
+
+Contents inside `src` are structured exactly as the URL in the site.
+
+Consider each individual file as each own post or article, inside it should
+
+- Abide default `markdownlint` rules and [specified ones](https://github.com/ignatiusmb/mauss.dev/blob/master/.markdownlint.yml)
+- Have a front matter with at least a `title` property
+- Have a body with only `h2`, `h3`, or `h4` tags
+
+Use your own metadata by adding this template to the front matter when you're writing your own post.
+
+```yaml
+---
+author:name: Kimi No Na Wa
+author:img: assets/profile/USERNAME.ext
+author:link: https://social.media/USERNAME
+---
+```
+
+Replace the value of `author:name` with your own name (or the post's author if you're opening a PR for someone else). If it's your first time writing, you can add your own avatar image into [`assets/profile`](https://github.com/ignatiusmb/mauss.dev/tree/master/static/assets/profile) folder, and reference it in `author:img`. Otherwise, just reference the avatar image file again. Lastly, replace the link in `author:link` with any link you want to point readers when clicking your avatar image.
 
 ***
 
