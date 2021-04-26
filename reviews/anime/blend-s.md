@@ -5,7 +5,7 @@ genres: slice of life, comedy, romance
 rating: story,artwork,sound,characters
 verdict:
 
-last_seen: 2021-02-09
+last_seen: 2021-04-26
 date:published: 2020
 date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/mMsibXak1hJ9tsRYCF7tDYN319w.jpg
