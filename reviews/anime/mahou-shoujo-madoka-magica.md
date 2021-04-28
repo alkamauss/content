@@ -6,7 +6,7 @@ genres: psychological, magic, drama, thriller
 rating: story,artwork,sound,characters
 verdict:
 
-last_seen: 2021-03-20
+last_seen: 2021-04-28
 date:published: 2020
 date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/48GLvRh3lgh5gjl0uVen60bslRM.jpg
