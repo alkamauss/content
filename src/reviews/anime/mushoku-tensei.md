@@ -7,7 +7,7 @@ genres: fantasy, magic, drama, isekai
 rating: story,artwork,sound,characters
 verdict:
 
-last_seen: 2021-03-11
+last_seen: 2021-04-30
 date:published: 2020
 date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/fSHa8kwMPhD29grGX3miBq1BWCN.jpg
