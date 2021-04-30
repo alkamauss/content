@@ -13,3 +13,9 @@ image:en: https://image.tmdb.org/t/p/original/2wxoRovckZPxxFLROZGdujJiNcC.jpg
 
 link:mal: https://myanimelist.net/anime/16498/Shingeki_no_Kyojin
 ---
+
+
+
+## $SEASON 4
+
+<https://www.reddit.com/r/Animemes/comments/ma6q9p/eren_using_too_much_brain_power/>
