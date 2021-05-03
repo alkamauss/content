@@ -8,11 +8,12 @@ verdict:
 last_seen: 2021-04-15
 date:published: 2020
 date:updated: 2020
-image:en:
-image:jp:
-backdrop:
+image:en: https://i.redd.it/aa82mb7ipav01.png
+backdrop: https://wallpapercave.com/wp/wp2501296.jpg
 
-link:site: https://teamsalvato.itch.io/ddlc
+link:site: https://ddlc.moe/
+link:itch: https://teamsalvato.itch.io/ddlc
+link:steam: https://store.steampowered.com/app/698780/Doki_Doki_Literature_Club/
 ---
 
 
@@ -20,7 +21,7 @@ link:site: https://teamsalvato.itch.io/ddlc
 
 ## Plot
 
-![Backdrop#f#fb](link "Source: TMDB")
+![Backdrop#f#fb](https://wallpapercave.com/wp/wp2367709.png "Source: WallpaperCave")
 
 ## Highlights
 
