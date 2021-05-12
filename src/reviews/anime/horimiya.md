@@ -5,7 +5,7 @@ genres: slice of life, romance, comedy, school, shounen
 rating: story,artwork,sound,characters
 verdict:
 
-last_seen: 2021-02-22
+last_seen: 2021-05-01
 date:published: 2020
 date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/zLNnCb6SL2HxyiRsDJ4t4S1mb91.jpg

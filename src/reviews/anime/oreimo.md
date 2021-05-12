@@ -32,7 +32,9 @@ link:mal: https://myanimelist.net/anime/8769/Ore_no_Imouto_ga_Konnani_Kawaii_Wak
 
 ## Verdict
 
-<!-- SPOILERS -->
+## $SPOILERS
+
+<https://www.reddit.com/r/anime/comments/mpbxwj/oreimo_when_youre_too_far_down_the_yaoi_rabbit/>
 
 <!-- CLOSING -->
 

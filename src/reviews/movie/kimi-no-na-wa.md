@@ -24,6 +24,8 @@ link:mal: https://myanimelist.net/anime/32281/kimi_no_na_wa
 
 ## Highlights
 
+<https://www.reddit.com/r/anime/comments/my8u8h/im_single_because_i_want_to_be_kimi_no_na_wa/>
+
 ### !{rating:0}/10 | Story & Plot
 
 ### !{rating:1}/10 | Artwork & Animation
