@@ -15,8 +15,11 @@ backdrop: https://image.tmdb.org/t/p/original/Zzk9YZlNkuOktEZUuaf2HKNc6B.jpg
 link:mal: https://myanimelist.net/anime/36098/Kimi_no_Suizou_wo_Tabetai
 ---
 
+> I want to cry
 
 ## Synopsis
+
+<https://www.reddit.com/r/Animemes/comments/my3z9y/its_actually_more_violent_than_any_violent_movies/>
 
 ## Plot
 
