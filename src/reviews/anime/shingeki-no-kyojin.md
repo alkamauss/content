@@ -6,7 +6,7 @@ genres: action, military, mystery, fantasy, drama, shounen
 rating:
 verdict:
 
-last_seen: 2020-05-12
+seen:first: 2020-05-12
 date:published: 2020
 date:updated:
 image:en: https://image.tmdb.org/t/p/original/2wxoRovckZPxxFLROZGdujJiNcC.jpg

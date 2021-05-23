@@ -6,7 +6,7 @@ genres: animation, action, shounen, super power
 rating: 6,10,8,7
 verdict:
 
-last_seen: 2020-07-19
+seen:first: 2020-07-19
 date:published: 2020
 date:updated:
 image:en: https://image.tmdb.org/t/p/original/hC4nTxdhXqFWzgqynGvvXVMiMNp.jpg

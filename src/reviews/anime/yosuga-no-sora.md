@@ -6,7 +6,7 @@ genres: drama, romance, tsundere, ecchi, harem
 rating: 4,7,10,5
 verdict: 0
 
-last_seen: 2020-06-06
+seen:first: 2020-06-06
 date:published: 2020-06-18
 date:updated: 2020-06-25
 image:en: https://image.tmdb.org/t/p/original/9F80WGUD6WYfoEDMImf988NlXhC.jpg

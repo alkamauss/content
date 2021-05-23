@@ -6,7 +6,7 @@ genres: slice of life, comedy, seinen
 rating: story,artwork,sound,characters
 verdict:
 
-last_seen: 2021-01-01
+seen:first: 2021-01-01
 date:published: 2020
 date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/1WP2MrTIXJ8NI5tvqBk4ZD4ju9O.jpg

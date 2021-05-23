@@ -5,7 +5,7 @@ genres: adventure, sci-fi, shounen
 rating:
 verdict:
 
-last_seen: 2021-05-23
+seen:first: 2021-05-23
 date:published: 2020
 date:updated:
 image:en: https://image.tmdb.org/t/p/original/dLlnzbDCblBXcJqFLXyvN43NIwp.jpg

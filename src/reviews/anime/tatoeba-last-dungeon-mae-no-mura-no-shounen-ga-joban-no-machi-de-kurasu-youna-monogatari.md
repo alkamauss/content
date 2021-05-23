@@ -6,7 +6,7 @@ genres: adventure, comedy, fantasy
 rating: story,artwork,sound,characters
 verdict:
 
-last_seen: 2021-04-29
+seen:first: 2021-04-29
 date:published: 2020
 date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/mvsIMKsSlAu4XgnTsPYQf41Im0H.jpg

@@ -5,7 +5,7 @@ genres: adventure, indie
 rating: story,artwork,sound,characters
 verdict:
 
-last_seen: 2021-05-22
+seen:first: 2021-05-22
 date:published: 2020
 date:updated: 2020
 image:en: https://howlongtobeat.com/games/90830_Before_Your_Eyes.jpg

@@ -5,7 +5,7 @@ genres: drama
 rating: story,artwork,sound,characters
 verdict:
 
-last_seen: 2021-02-06
+seen:first: 2021-02-06
 date:published: 2020
 date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/sGmtNIVyZHqB0MLmbleNG4GmRVV.jpg

@@ -6,7 +6,7 @@ genres: animation, slice of life, supernatural, drama, fantasy, adventure, roman
 rating: 7,10,10,9
 verdict:
 
-last_seen: 2020-08-30
+seen:first: 2020-08-30
 date:published: 2020
 image:en: https://image.tmdb.org/t/p/original/qgrk7r1fV4IjuoeiGS5HOhXNdLJ.jpg
 image:jp: https://image.tmdb.org/t/p/original/sGBRqb0Y3DlUpmYXPGUsy587ofd.jpg

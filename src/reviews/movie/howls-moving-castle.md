@@ -5,7 +5,7 @@ genres: animation, adventure, drama, fantasy, romance
 rating: 9,10,9,9
 verdict:
 
-last_seen: 2020-10-03
+seen:first: 2020-10-03
 date:published: 2020
 date:updated: 2020
 image:en: https://image.tmdb.org/t/p/original/TkTPELv4kC3u1lkloush8skOjE.jpg

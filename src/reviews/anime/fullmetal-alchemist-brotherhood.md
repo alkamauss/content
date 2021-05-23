@@ -5,7 +5,7 @@ genres: action, adventure, fantasy, magic, drama
 rating: 10,9,10,10
 verdict:
 
-last_seen: 2020-06-09
+seen:first: 2020-06-09
 date:published: 2020
 date:updated:
 image:en: https://image.tmdb.org/t/p/original/5ZFUEOULaVml7pQuXxhpR2SmVUw.jpg

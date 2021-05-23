@@ -7,7 +7,7 @@ genres: comedy, romance, school, mystery, supernatural
 rating: 9,9,10,9
 verdict:
 
-last_seen: 2020-07-23
+seen:first: 2020-07-23
 date:published: 2020
 date:updated: 2020
 image:en: https://image.tmdb.org/t/p/original/cU4jHfo1Q9AEPnFqFqtuSA74gdi.jpg

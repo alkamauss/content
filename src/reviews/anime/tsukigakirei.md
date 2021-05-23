@@ -6,7 +6,7 @@ genres: romance, school
 rating: story,artwork,sound,characters
 verdict:
 
-last_seen: 2020
+seen:first: 2020
 date:published: 2020
 date:updated: 2020
 image:en: https://image.tmdb.org/t/p/original/5JtqWxw69IanadNcraJ9v6Ccj2W.jpg

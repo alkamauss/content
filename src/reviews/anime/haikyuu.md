@@ -5,7 +5,7 @@ genres: comedy, sports, drama
 rating:
 verdict:
 
-last_seen: 2020-12-19
+seen:first: 2020-12-19
 date:published: 2020
 date:updated:
 image:en: https://image.tmdb.org/t/p/original/ecQ84z2sR0XapZu435MnFuEBzD8.jpg

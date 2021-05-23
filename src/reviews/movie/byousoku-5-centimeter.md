@@ -6,7 +6,7 @@ genres: animation, drama, romance, slice of life
 rating: 9,10,8,8
 verdict:
 
-last_seen: 2020-08-08
+seen:first: 2020-08-08
 date:published: 2020
 image:en: https://image.tmdb.org/t/p/original/t0ISGhwZtghakg46TWCOWBTIflZ.jpg
 

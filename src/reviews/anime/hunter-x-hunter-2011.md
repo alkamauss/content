@@ -5,7 +5,7 @@ genres: action, adventure, fantasy, shounen, super power
 rating: story,artwork,sound,characters
 verdict:
 
-last_seen: 2021-03-14
+seen:first: 2021-03-14
 date:published: 2020
 date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/tolQj5yffSxkEGXusPwNcvYrbph.jpg

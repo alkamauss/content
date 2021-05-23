@@ -6,7 +6,7 @@ genres: action, horror, supernatural, drama, fantasy
 rating: story,artwork,sound,characters
 verdict:
 
-last_seen: 2021-02-07
+seen:first: 2021-02-07
 date:published: 2020
 date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/uBmcAZ7BRfVzb9nMPYm1MqpvNme.jpg

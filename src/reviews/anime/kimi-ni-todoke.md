@@ -5,7 +5,7 @@ genres: slice of life, drama, romance, school, shoujo
 rating: story,artwork,sound,characters
 verdict:
 
-last_seen: 2021-02-13
+seen:first: 2021-02-13
 date:published: 2020
 date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/2XZ0Ofg1ZUZMFrbyWJuakSJAKZz.jpg
