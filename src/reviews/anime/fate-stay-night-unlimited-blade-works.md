@@ -6,7 +6,7 @@ genres: action, supernatural, magic, fantasy
 rating: story,artwork,sound,characters
 verdict:
 
-seen:first: 2021-03-21
+seen:first: 2021-06-13
 date:published: 2020
 date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/jyqi5BkDoKKIA2WAoz3HBtRHld3.jpg
