@@ -5,7 +5,7 @@ genres: animation, romance, drama, fantasy, supernatural
 rating: story,artwork,sound,characters
 verdict:
 
-last_seen: 2020-07-25
+seen:first: 2020-07-25
 date:published: 2020
 image:en: https://image.tmdb.org/t/p/original/7Ai8vNEv4zEveh12JViGikoVPVV.jpg
 

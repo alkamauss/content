@@ -6,7 +6,7 @@ genres: sports, slice of life, drama, school
 rating: story,artwork,sound,characters
 verdict:
 
-last_seen: 2021-03-26
+seen:first: 2021-03-26
 date:published: 2020
 date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/utYAqKUQdUOVVQlM2FJBTWdONf9.jpg

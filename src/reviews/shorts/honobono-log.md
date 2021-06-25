@@ -5,7 +5,7 @@ genres: animation, slice of life, romance
 rating: story,artwork,sound,characters
 verdict:
 
-last_seen: 2020-12-20
+seen:first: 2020-12-20
 date:published: 2020
 date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/qhjAjkQibM2HhBEKiUgYWsENKux.jpg

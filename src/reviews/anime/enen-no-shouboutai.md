@@ -6,7 +6,7 @@ genres: action, supernatural, shounen, comedy
 rating: story,artwork,sound,characters
 verdict:
 
-last_seen: 2020-12-16
+seen:first: 2020-12-16
 date:published: 2020
 date:updated: 2020
 image:en: https://image.tmdb.org/t/p/original/zLDxWMM0BLImdAsnkqGeeoqjYev.jpg

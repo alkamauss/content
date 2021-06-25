@@ -6,7 +6,7 @@ genres: animation, romance, supernatural, drama, school
 rating: 8,10,10,10
 verdict:
 
-last_seen: 2020-08-29
+seen:first: 2020-08-29
 date:published: 2020
 image:en: https://image.tmdb.org/t/p/original/f7UABkINaQCWMHUOkq1XdB7SFOS.jpg
 image:jp: https://image.tmdb.org/t/p/original/iyGAE2VqsRFT2Yp0e63L90qjHwU.jpg

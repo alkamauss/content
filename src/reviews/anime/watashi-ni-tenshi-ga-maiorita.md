@@ -6,7 +6,7 @@ genres: comedy, slice of life, shoujo ai
 rating: 8,10,9,9
 verdict: 1
 
-last_seen: 2020-08-23
+seen:first: 2020-08-23
 date:published: 2020-08-24
 image:en: https://image.tmdb.org/t/p/original/yaIs7UDJ6Vo7DbWPl4cTdv4bUw7.jpg
 image:jp: https://image.tmdb.org/t/p/original/yaIs7UDJ6Vo7DbWPl4cTdv4bUw7.jpg

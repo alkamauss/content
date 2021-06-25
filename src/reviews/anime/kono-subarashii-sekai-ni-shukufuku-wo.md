@@ -7,7 +7,7 @@ genres: isekai, adventure, comedy, fantasy, parody, supernatural
 rating: story,artwork,sound,characters
 verdict:
 
-last_seen: 2020-09-27
+seen:first: 2020-09-27
 date:published: 2020
 date:updated: 2020
 image:en: https://image.tmdb.org/t/p/original/oRaOeQlwktbGSd2T31FYAcgHZlh.jpg

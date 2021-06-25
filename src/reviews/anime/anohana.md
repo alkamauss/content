@@ -6,7 +6,7 @@ genres: drama, slice of life, supernatural
 rating: story,artwork,sound,characters
 verdict:
 
-last_seen: 2020-06-08
+seen:first: 2020-06-08
 date:published: 2020
 date:updated: 2020
 image:en: https://image.tmdb.org/t/p/original/aonsLV3L49W1zyRGopSFyTV3cOu.jpg

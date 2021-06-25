@@ -6,7 +6,7 @@ genres: action, seinen
 rating: story,artwork,sound,characters
 verdict:
 
-last_seen: 2021-04-27
+seen:first: 2021-04-27
 date:published: 2020
 date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/ehz2kV5YxoIbfD9WQnP5pkSkKUv.jpg

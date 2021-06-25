@@ -7,7 +7,7 @@ genres: action, super power, comedy, ecchi, school
 rating: story,artwork,sound,characters
 verdict:
 
-last_seen: 2020-08-04
+seen:first: 2020-08-04
 date:published: 2020
 date:updated: 2020
 image:en: https://image.tmdb.org/t/p/original/4F1WtP3dFIwLPOfa3u29VEVnNkf.jpg

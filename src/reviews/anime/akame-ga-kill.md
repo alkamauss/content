@@ -5,7 +5,7 @@ genres: action, adventure, drama, fantasy, shounen
 rating: story,artwork,sound,characters
 verdict:
 
-last_seen: 2020
+seen:first: 2020
 date:published: 2020
 date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/3c5BIEfAhTCWrIi4C8WMuwOl6bX.jpg

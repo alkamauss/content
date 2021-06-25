@@ -5,7 +5,7 @@ genres: music, slice of life, comedy, school
 rating: story,artwork,sound,characters
 verdict:
 
-last_seen: 2020
+seen:first: 2020
 date:published: 2020
 date:updated: 2020
 image:en: https://image.tmdb.org/t/p/original/pa5hMcg74yCcqa6NQe4h3z0pyNZ.jpg

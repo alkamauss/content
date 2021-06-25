@@ -6,7 +6,7 @@ genres: drama, music, romance, school, slice of life
 rating: 9,8,10,8
 verdict: 1
 
-last_seen: 2020-08-14
+seen:first: 2020-08-14
 date:published: 2020-06-20
 date:updated: 2020-08-16
 image:en: https://image.tmdb.org/t/p/original/nksFLYTydth9OYVpMuMbtOBkvMO.jpg

@@ -7,7 +7,7 @@ genres: comedy, slapstick, slice of life, school, shounen
 rating: 10,10,10,8
 verdict:
 
-last_seen: 2020-08-09
+seen:first: 2020-08-09
 date:published: 2020
 date:updated: 2020
 image:en: https://image.tmdb.org/t/p/original/qmi1VpOvPFRHg02fbLuc3pVrMbt.jpg

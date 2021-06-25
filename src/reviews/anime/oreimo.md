@@ -7,7 +7,7 @@ genres: comedy, drama, romance, slice of life, harem, ecchi
 rating: 6,8,5,7, 2,8,5,6
 verdict:
 
-last_seen: 2020-06-23
+seen:first: 2020-06-23
 date:published: 2020
 image:en: https://image.tmdb.org/t/p/original/uJFL8PETMI09hj0AJ4oCpRDWRnk.jpg
 

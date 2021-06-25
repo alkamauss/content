@@ -7,7 +7,7 @@ genres: comedy, romance, school, seinen
 rating: 10,9,10,10, 9,9,10,9
 verdict:
 
-last_seen: 2020-07-21
+seen:first: 2020-07-21
 date:published: 2020
 date:updated: 2020
 image:en: https://image.tmdb.org/t/p/original/dA93MnalfNLHMMlDcTCfX4QJb5Q.jpg

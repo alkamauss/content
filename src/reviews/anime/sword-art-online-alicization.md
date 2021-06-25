@@ -5,7 +5,7 @@ genres: action, adventure, fantasy, game
 rating: story,artwork,sound,characters
 verdict:
 
-last_seen: 2020-09-20
+seen:first: 2020-09-20
 date:published: 2020
 date:updated: 2020
 image:en: https://image.tmdb.org/t/p/original/vEeTQpAJkf8ztwL56z5ACe3qd7E.jpg

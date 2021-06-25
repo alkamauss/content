@@ -6,7 +6,7 @@ genres: adventure, mystery, slice of life, supernatural, historical, fantasy, se
 rating: story,artwork,sound,characters
 verdict:
 
-last_seen: 2021-02-10
+seen:first: 2021-02-10
 date:published: 2020
 date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/ianYYQaLkksLGCfeisFNYJE7jIO.jpg

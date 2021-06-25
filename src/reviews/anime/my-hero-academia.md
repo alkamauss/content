@@ -6,7 +6,7 @@ genres: action, comedy, school, shounen
 rating:
 verdict:
 
-last_seen: 2020-07-02
+seen:first: 2020-07-02
 date:published: 2020
 date:updated:
 image:en: https://image.tmdb.org/t/p/original/mWHCII5OWHx5pRSN2VYYLvT8DbB.jpg

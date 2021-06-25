@@ -6,7 +6,7 @@ genres: sci-fi, mystery, horror, psychological, thriller, shounen
 rating: story,artwork,sound,characters
 verdict:
 
-last_seen: 2021-01-21
+seen:first: 2021-01-21
 date:published: 2020
 date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/1sKCm6vJbDq64zcfHNOY67ltLns.jpg
