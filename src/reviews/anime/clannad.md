@@ -6,6 +6,7 @@ genres: comedy, drama, romance, school, slice of life, supernatural
 rating: story,artwork,sound,characters
 verdict:
 
+completed: 2021-06-14
 seen:first: 2021-02-12
 date:published: 2020
 date:updated: 2020

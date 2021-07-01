@@ -5,6 +5,7 @@ genres: action, sci-fi, military, fantasy
 rating: story,artwork,sound,characters
 verdict:
 
+completed: 2021-06-27
 seen:first: 2021-03-14
 date:published: 2020
 date:updated: 2020

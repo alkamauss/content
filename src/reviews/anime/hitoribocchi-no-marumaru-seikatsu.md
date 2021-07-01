@@ -5,6 +5,7 @@ genres: comedy, school, slice of life, shounen
 rating: story,artwork,sound,characters
 verdict:
 
+completed: 2021-06-27
 seen:first: 2020-12-01
 date:published: 2020
 date:updated: 2020

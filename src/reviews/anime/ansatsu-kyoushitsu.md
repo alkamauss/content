@@ -6,6 +6,7 @@ genres: action, comedy, school, shounen
 rating: story,artwork,sound,characters
 verdict:
 
+completed: 2021-06-26
 seen:first: 2021-03-19
 date:published: 2020
 date:updated: 2020

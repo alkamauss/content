@@ -6,6 +6,7 @@ genres: action, horror, supernatural, drama, fantasy
 rating: story,artwork,sound,characters
 verdict:
 
+completed: 2021-06-20
 seen:first: 2021-02-07
 date:published: 2020
 date:updated: 2020

@@ -6,6 +6,7 @@ genres: psychological, magic, thriller, drama
 rating: story,artwork,sound,characters
 verdict:
 
+completed: 2021-06-29
 seen:first: 2020-11-14
 date:published: 2020
 date:updated: 2020
