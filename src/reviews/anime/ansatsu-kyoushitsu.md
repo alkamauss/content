@@ -6,7 +6,8 @@ genres: action, comedy, school, shounen
 rating: story,artwork,sound,characters
 verdict:
 
-seen:first: 2021-06-26
+completed: 2021-06-26
+seen:first: 2021-03-19
 date:published: 2020
 date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/wOd98jDHkoWy2LZ4gSy67X1ihv1.jpg

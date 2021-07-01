@@ -6,7 +6,8 @@ genres: psychological, magic, thriller, drama
 rating: story,artwork,sound,characters
 verdict:
 
-seen:first: 2021-06-29
+completed: 2021-06-29
+seen:first: 2020-11-14
 date:published: 2020
 date:updated: 2020
 image:en: https://image.tmdb.org/t/p/original/2hn2gJnTrntGWwpcugUvpncsNMK.jpg

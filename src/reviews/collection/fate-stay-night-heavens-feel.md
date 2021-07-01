@@ -5,6 +5,7 @@ genres: animation, mystery, supernatural, romance
 rating: story,artwork,sound,characters
 verdict:
 
+completed: 2021-06-28
 seen:first: 2021-06-28
 date:published: 2020
 date:updated: 2020
