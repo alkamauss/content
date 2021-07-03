@@ -5,7 +5,8 @@ genres: action, adventure, sci-fi
 rating: story,artwork,sound,characters
 verdict:
 
-seen:first: 2020
+completed: 2021-07-03
+seen:first: 2020-07-08
 date:published: 2020
 date:updated: 2020
 image:en: https://image.tmdb.org/t/p/original/i0XUehTP9Brtmb8YevpJYMNEWZT.jpg
