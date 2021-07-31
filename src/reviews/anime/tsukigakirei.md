@@ -1,12 +1,13 @@
 ---
 released: 2017-04-07
-title:en: The Moon Is Beautiful, as the Moon, So Beautiful
+title:en: The Moon Is Beautiful
 title:jp: Tsuki ga Kirei
 genres: romance, school
 rating: story,artwork,sound,characters
 verdict:
 
-seen:first: 2020
+completed: 2021-07-06
+seen:first: 2020-12-11
 date:published: 2020
 date:updated: 2020
 image:en: https://image.tmdb.org/t/p/original/5JtqWxw69IanadNcraJ9v6Ccj2W.jpg
@@ -17,7 +18,9 @@ link:mal: https://myanimelist.net/anime/34822/Tsuki_ga_Kirei
 ---
 
 
-> The Moon Is Beautiful, as the Moon, So Beautiful
+> As the Moon, So Beautiful
+
+Previews are shown on the OP of every episode instead of the usual after credits, which kind of defeats the purpose of previews. But, after credits are replaced by short episodes and it's so worth it because they are amazing, be sure to not miss them.
 
 ## Synopsis
 

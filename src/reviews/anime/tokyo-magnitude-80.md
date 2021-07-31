@@ -5,6 +5,7 @@ genres: drama
 rating: story,artwork,sound,characters
 verdict:
 
+completed: 2021-07-30T20:54:08
 seen:first: 2021-02-06
 date:published: 2020
 date:updated: 2020
