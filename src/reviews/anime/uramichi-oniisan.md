@@ -9,9 +9,9 @@ verdict:
 seen:first: 2021-07-31T12:58:29
 date:published: 2020
 date:updated: 2020
-image:en:
-image:jp:
-backdrop:
+image:en: https://www.themoviedb.org/t/p/original/8D7QUo2w4TwfLXsC6Riy7TMhyje.jpg
+image:jp: https://www.themoviedb.org/t/p/original/bh3yjvHZodeVMtI8NitZIcbrIUK.jpg
+backdrop: https://www.themoviedb.org/t/p/original/py5DjCbDekHpQkauSJToeO2FWjS.jpg
 
 link:mal: https://myanimelist.net/anime/40620/Uramichi_Oniisan
 ---
