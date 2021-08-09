@@ -6,6 +6,7 @@ genres: adventure, mystery, slice of life, supernatural, historical, fantasy, se
 rating: story,artwork,sound,characters
 verdict:
 
+completed: 2021-07-05
 seen:first: 2021-02-10
 date:published: 2020
 date:updated: 2020

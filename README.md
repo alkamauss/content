@@ -17,7 +17,7 @@ Use your own metadata by adding this template to the front matter when you're wr
 ```yaml
 ---
 author:name: Kimi no Na wa
-author:img: assets/profile/USERNAME.ext
+author:img: /assets/profile/USERNAME.(jpg|png)
 author:link: https://social.media/USERNAME
 ---
 ```

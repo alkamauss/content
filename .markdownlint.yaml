@@ -1,8 +1,12 @@
 # MD013/line-length
 MD013: false
 
+# MD024/no-duplicate-heading
+MD024:
+  siblings_only: true
+
 # MD026/no-trailing-punctuation
-no-trailing-punctuation:
+MD026:
   # Allowed: !
   punctuation: .,;:。，；：！
 
