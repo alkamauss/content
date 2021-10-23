@@ -9,7 +9,7 @@ date:updated: 2020-06-23
     <ul>
         <li><a href="https://keybase.io/mauss">Keybase</a></li>
         <li><a href="https://t.me/ignatiusmb">Telegram</a></li>
-        <li><a href="https://twitter.com/devmauss">Twitter</a></li>
+        <li><a href="https://twitter.com/alchemauss">Twitter</a></li>
         <li><a href="https://www.linkedin.com/in/ignatiusmb">LinkedIn</a></li>
     </ul>
     <h4>Unreachable but present:</h4>

@@ -64,7 +64,7 @@ Because of that, I want the best for the job so I won't have to worry about its 
 It could also serve as my personal reviews with testimonies for your reference on deciding what to use. Also, it induces a bit of personal nostalgia knowing your old stuffs.
 
 <section class="info-box note">
-DevMauss automatically detects your device's preferred theme and changes to it, but if you decide to use another theme for this website, you can simply click the icon on the navigation bar to toggle through the available themes.
+This site automatically detects your device's preferred theme and changes to it, but if you decide to use another theme for this website, you can simply click the icon on the navigation bar to toggle through the available themes.
 </section>
 
 ## Site Info
