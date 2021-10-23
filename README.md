@@ -1,4 +1,4 @@
-# Content Repository for DevMauss
+# Content Repository for Alchemauss
 
 Home to all content in mauss.dev.
 
@@ -26,4 +26,4 @@ Replace the value of `author:name` with your own name (or the post's author if y
 
 ***
 
-<h3 align="center"><pre>DevMauss Content</pre></h3>
+<h3 align="center"><pre>Alchemauss Content</pre></h3>
