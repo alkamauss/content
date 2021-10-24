@@ -5,6 +5,7 @@ genres: sci-fi, super power
 rating: story,artwork,sound,characters
 verdict:
 
+completed: 2021-10-02T10:25:45
 seen:first: 2021-07-31T20:11:30
 date:published: 2020
 date:updated: 2020

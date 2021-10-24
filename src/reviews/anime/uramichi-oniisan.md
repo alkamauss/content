@@ -6,6 +6,7 @@ genres: slice of life, comedy
 rating: story,artwork,sound,characters
 verdict:
 
+completed: 2021-09-30T18:20:42
 seen:first: 2021-07-31T12:58:29
 date:published: 2020
 date:updated: 2020

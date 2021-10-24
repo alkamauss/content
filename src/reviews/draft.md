@@ -7,6 +7,7 @@ genres:
 rating: story,artwork,sound,characters
 verdict:
 
+completed:
 seen:first: 2020
 date:published: 2020
 date:updated: 2020

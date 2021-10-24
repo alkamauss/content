@@ -5,7 +5,8 @@ genres: slice of life, drama, fantasy
 rating: story,artwork,sound,characters
 verdict:
 
-seen:first: 2020
+completed:
+seen:first: 2021-10-17T19:35:17
 date:published: 2020
 date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/ImvHbM4GsJJykarnOzhtpG6ax6.jpg
