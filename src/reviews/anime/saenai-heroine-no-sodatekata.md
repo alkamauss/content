@@ -6,7 +6,8 @@ genres: comedy, harem, romance, ecchi, school
 rating: story,artwork,sound,characters
 verdict:
 
-seen:first: 2021-03-20
+completed:0: 2021-11-02T23:34:42
+seen:first:0: 2021-03-20
 date:published: 2020
 date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/eTeE1JiS2DugsL13cUSVkROXBP9.jpg
