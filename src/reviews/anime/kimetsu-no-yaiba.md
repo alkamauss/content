@@ -6,6 +6,7 @@ genres: action, demons, historical, shounen, supernatural
 rating:
 verdict:
 
+completed: 2021-12-20T01:37:00
 seen:first: 2020-04-20
 date:published: 2020
 image:en: https://image.tmdb.org/t/p/original/wrCVHdkBlBWdJUZPvnJWcBRuhSY.jpg
