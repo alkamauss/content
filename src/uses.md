@@ -154,7 +154,7 @@ A nice and lightweight mouse to carry and use. Its small but comfortable to the 
 
 ## Raspberry Pi Server Setup
 
-### `2020-01` Raspberry Pi 4 Model B (4GB) - Private Home Server
+### `2020-01` Raspberry Pi 4 Model B (4GB) - Personal Home Server
 
 - `2020-01` | [ORICO NS400U3 4-Bay Hard Drive Enclosure](https://www.tokopedia.com/co-store/orico-ns400u3-3-5-inch-4-bay-usb3-0-hard-drive-enclosure)
 - `2020-01` | 1 x 4TB WD RED WD40EFRX
