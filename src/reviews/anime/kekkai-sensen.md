@@ -6,6 +6,7 @@ genres: action, super power, supernatural, comedy, vampire, fantasy, shounen
 rating: story,artwork,sound,characters
 verdict:
 
+completed:0: 2022-01-09T14:38:44
 seen:first: 2021-02-07
 date:published: 2020
 date:updated: 2020
