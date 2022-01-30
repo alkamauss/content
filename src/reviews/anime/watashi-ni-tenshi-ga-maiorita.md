@@ -4,7 +4,7 @@ title:en: WATATEN!: an Angel Flew Down to Me
 title:jp: Watashi ni Tenshi ga Maiorita!
 genres: comedy, slice of life, shoujo ai
 rating: 8,10,9,9
-verdict: 1
+verdict: recommended
 
 seen:first: 2020-08-23
 date:published: 2020-08-24

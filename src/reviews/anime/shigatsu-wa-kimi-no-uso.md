@@ -4,7 +4,7 @@ title:en: Your Lie in April
 title:jp: Shigatsu wa Kimi no Uso
 genres: drama, music, romance, school, slice of life
 rating: 9,8,10,8
-verdict: 1
+verdict: recommended
 
 seen:first: 2020-08-14
 date:published: 2020-06-20
