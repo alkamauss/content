@@ -13,6 +13,8 @@ date:updated: 2020
 image:en: https://image.tmdb.org/t/p/original/j8RZC51i5aH3UektH0ViKES2Ux3.jpg
 image:jp:
 
+delineation: Cry on demand
+
 link:mal: https://myanimelist.net/anime/2167/Clannad/
 ---
 
