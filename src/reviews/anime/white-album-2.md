@@ -15,6 +15,7 @@ backdrop: https://www.themoviedb.org/t/p/original/8zpgSUqiYbMP3UPMKBnNbiB32c5.jp
 link:mal: https://myanimelist.net/anime/18245/White_Album_2
 ---
 
+> Heaviest heartbreak in anime history
 
 ## Synopsis
 
@@ -43,5 +44,6 @@ link:mal: https://myanimelist.net/anime/18245/White_Album_2
 ***
 Reference(s):
 
-- 1
-- 2
+- <https://wa2analysis.com/>
+- <http://wrongeverytime.com/2014/01/13/white-album-2-and-the-futility-of-everything/>
+- <https://www.reddit.com/r/anime/comments/2q6qh2/white_album_2_rant_spoilers/>
