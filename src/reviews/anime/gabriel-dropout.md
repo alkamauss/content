@@ -41,6 +41,9 @@ link:mal: https://myanimelist.net/anime/33731/Gabriel_DropOut
 
 ## Soundtracks
 
+1. Gabriel DropKick
+2. Hallelujah☆Essaim
+
 ***
 Reference(s):
 
