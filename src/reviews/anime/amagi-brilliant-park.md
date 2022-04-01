@@ -41,6 +41,8 @@ link:mal: https://myanimelist.net/anime/22147/Amagi_Brilliant_Park
 
 ## Soundtracks
 
+1. OP: [Extra Magic Hour](https://www.youtube.com/watch?v=H8LZko3oZpo)
+
 ***
 Reference(s):
 
