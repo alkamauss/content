@@ -6,7 +6,7 @@ genres: romance, slice of life
 rating: story,artwork,sound,characters
 verdict:
 
-completed:
+completed: 2022-03-27T09:28:55
 seen:first: 2022-02-17T00:14:44
 date:published: 2020
 date:updated: 2020
