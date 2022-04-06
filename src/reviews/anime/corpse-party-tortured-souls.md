@@ -5,7 +5,7 @@ genres: horror, mystery, supernatural
 rating: story,artwork,sound,characters
 verdict:
 
-completed:
+completed: 2022-04-01T23:25:24
 seen:first: 2022-03-29T23:11:11
 date:published: 2020
 date:updated: 2020
