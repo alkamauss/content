@@ -6,6 +6,7 @@ genres: comedy, ecchi
 rating: story,artwork,sound,characters
 verdict:
 
+completed: 2022-04-04T23:00:32
 seen:first: 2022-04-02T13:36:33
 date:published: 2020
 date:updated: 2020

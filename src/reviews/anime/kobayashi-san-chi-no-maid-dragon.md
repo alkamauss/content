@@ -6,6 +6,7 @@ genres: fantasy, slice of life
 rating: story,artwork,sound,characters
 verdict:
 
+completed:0: 2022-04-09T14:10:40
 seen:first: 2022-04-06T21:55:05
 date:published: 2020
 date:updated: 2020
