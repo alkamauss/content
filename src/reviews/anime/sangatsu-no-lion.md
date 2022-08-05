@@ -6,7 +6,10 @@ genres: slice of life, drama, seinen
 rating: story,artwork,sound,characters
 verdict:
 
-seen:first: 2020
+completed:0: 2022-07-23T21:16:20
+completed:1: 2022-08-01T11:17:18
+seen:first:0: 2022-03-18T22:11:20
+seen:first:1: 2022-07-25T23:00:32
 date:published: 2020
 date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/z7XceZ0n0f032yaq8R2zSimsjVl.jpg
