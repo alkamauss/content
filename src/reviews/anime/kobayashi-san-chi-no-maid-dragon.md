@@ -7,7 +7,9 @@ rating: story,artwork,sound,characters
 verdict:
 
 completed:0: 2022-04-09T14:10:40
-seen:first: 2022-04-06T21:55:05
+completed:1: 2022-05-14T16:44:04
+seen:first:0: 2022-04-06T21:55:05
+seen:first:1: 2022-04-09T23:14:41
 date:published: 2020
 date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/tNznuhcf7WKzEmPQEsIgGMrB3Az.jpg
