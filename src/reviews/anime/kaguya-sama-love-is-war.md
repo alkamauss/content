@@ -7,6 +7,7 @@ genres: comedy, romance, school, seinen
 rating: 10,9,10,10, 9,9,10,9
 verdict:
 
+completed: 2022-07-10T23:30:00
 seen:first: 2020-07-21
 date:published: 2020
 date:updated: 2020
