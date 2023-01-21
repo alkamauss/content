@@ -4,7 +4,7 @@ title:short:
 title:en:
 title:jp:
 genres:
-rating: story,artwork,sound,characters
+rating: [story,artwork,sound,characters]
 verdict:
 
 completed:

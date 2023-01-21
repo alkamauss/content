@@ -2,8 +2,8 @@
 released: 2017-04-07
 title:en: The Moon Is Beautiful
 title:jp: Tsuki ga Kirei
-genres: romance, school
-rating: story,artwork,sound,characters
+genres: [romance, school]
+rating: [story,artwork,sound,characters]
 verdict:
 
 completed: 2021-07-06

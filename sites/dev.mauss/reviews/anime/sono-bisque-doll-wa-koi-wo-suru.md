@@ -2,8 +2,8 @@
 released: 2022-01-09
 title:en: My Dress-Up Darling
 title:jp: Sono Bisque Doll wa Koi wo Suru
-genres: romance, slice of life
-rating: story,artwork,sound,characters
+genres: [romance, slice of life]
+rating: [story,artwork,sound,characters]
 verdict:
 
 completed: 2022-03-27T09:04:10

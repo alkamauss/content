@@ -2,8 +2,8 @@
 released: 2016-04-08
 title:en: Kabaneri of the Iron Fortress
 title:jp: Koutetsujou no Kabaneri
-genres: action, horror, supernatural, drama, fantasy
-rating: story,artwork,sound,characters
+genres: [action, horror, supernatural, drama, fantasy]
+rating: [story,artwork,sound,characters]
 verdict:
 
 completed: 2021-06-20

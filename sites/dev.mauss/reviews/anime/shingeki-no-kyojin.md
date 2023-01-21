@@ -2,7 +2,7 @@
 released: 2013-04-07
 title:en: Attack on Titan
 title:jp: Shingeki no Kyojin
-genres: action, military, mystery, fantasy, drama, shounen
+genres: [action, military, mystery, fantasy, drama, shounen]
 rating:
 verdict:
 

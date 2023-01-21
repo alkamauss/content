@@ -2,8 +2,8 @@
 released: 2020-10-11
 title:en: The Day I Become a God
 title:jp: Kamisama ni Natta Hi
-genres: comedy, drama, fantasy
-rating: story,artwork,sound,characters
+genres: [comedy, drama, fantasy]
+rating: [story,artwork,sound,characters]
 verdict:
 
 seen:first: 2020-12-27

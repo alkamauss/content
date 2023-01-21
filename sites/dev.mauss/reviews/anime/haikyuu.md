@@ -1,7 +1,7 @@
 ---
 released: 2014-04-06
 title:en: Haikyuu!!
-genres: comedy, sports, drama
+genres: [comedy, sports, drama]
 rating:
 verdict:
 

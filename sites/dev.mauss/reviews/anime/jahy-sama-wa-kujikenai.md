@@ -2,8 +2,8 @@
 released: 2021-08-01
 title:en: The Great Jahy Will Not Be Defeated!
 title:jp: Jahy-sama wa Kujikenai!
-genres: comedy, supernatural, shounen
-rating: story,artwork,sound,characters
+genres: [comedy, supernatural, shounen]
+rating: [story,artwork,sound,characters]
 verdict:
 
 completed: 2022-01-02T22:54:57

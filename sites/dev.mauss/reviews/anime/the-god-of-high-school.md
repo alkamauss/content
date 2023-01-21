@@ -1,8 +1,8 @@
 ---
 released: 2020-07-06
 title:en: The God of High School
-genres: action, adventure, supernatural, martial arts, fantasy, comedy
-rating: story,artwork,sound,characters
+genres: [action, adventure, supernatural, martial arts, fantasy, comedy]
+rating: [story,artwork,sound,characters]
 verdict:
 
 seen:first: 2020-09-28

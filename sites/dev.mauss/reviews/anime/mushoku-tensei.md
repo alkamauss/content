@@ -3,8 +3,8 @@ released: 2021-01-11
 title:short: Mushoku Tensei
 title:en: Mushoku Tensei: Jobless Reincarnation
 title:jp: Mushoku Tensei: Isekai Ittara Honki Dasu
-genres: fantasy, magic, drama, isekai
-rating: story,artwork,sound,characters
+genres: [fantasy, magic, drama, isekai]
+rating: [story,artwork,sound,characters]
 verdict:
 
 seen:first: 2021-04-30

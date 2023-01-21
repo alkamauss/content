@@ -1,8 +1,8 @@
 ---
 released: 2020-07-08
 title:en: Deca-Dence
-genres: action, adventure, sci-fi
-rating: story,artwork,sound,characters
+genres: [action, adventure, sci-fi]
+rating: [story,artwork,sound,characters]
 verdict:
 
 completed: 2021-07-03

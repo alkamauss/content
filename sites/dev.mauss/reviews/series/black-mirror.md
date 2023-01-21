@@ -1,8 +1,8 @@
 ---
 released: 2011-12-04
 title:en: Black Mirror
-genres: drama, sci-fi, thriller
-rating: story,artwork,sound,characters
+genres: [drama, sci-fi, thriller]
+rating: [story,artwork,sound,characters]
 verdict:
 
 seen:first: 2020

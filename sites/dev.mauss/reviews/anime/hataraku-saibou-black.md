@@ -2,8 +2,8 @@
 released: 2021-01-10
 title:en: Cells at Work! CODE BLACK!
 title:jp: Hataraku Saibou Black
-genres: action, seinen
-rating: story,artwork,sound,characters
+genres: [action, seinen]
+rating: [story,artwork,sound,characters]
 verdict:
 
 seen:first: 2021-04-27

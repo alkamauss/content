@@ -1,7 +1,7 @@
 ---
 released: 2012-07-08
 title:en: Sword Art Online
-genres: action, adventure, fantasy, game, romance
+genres: [action, adventure, fantasy, game, romance]
 rating:
 verdict:
 

@@ -1,8 +1,8 @@
 ---
 released: 2018-10-07
 title:en: Sword Art Online: Alicization
-genres: action, adventure, fantasy, game
-rating: story,artwork,sound,characters
+genres: [action, adventure, fantasy, game]
+rating: [story,artwork,sound,characters]
 verdict:
 
 seen:first: 2020-09-20

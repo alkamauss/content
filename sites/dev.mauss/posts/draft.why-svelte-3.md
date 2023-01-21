@@ -1,6 +1,6 @@
 ---
 title: Svelte 3 - Why I Use It
-tags: tech, svelte, javascript, framework
+tags: [tech, svelte, javascript, framework]
 description: Why I use Svelte 3 and what's so great about it
 ---
 

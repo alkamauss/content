@@ -2,8 +2,8 @@
 released: 2018-06-14
 title:en: Grand Blue Dreaming
 title:jp: Grand Blue
-genres: slice of life, comedy, seinen
-rating: story,artwork,sound,characters
+genres: [slice of life, comedy, seinen]
+rating: [story,artwork,sound,characters]
 verdict:
 
 seen:first: 2021-01-01

@@ -2,8 +2,8 @@
 released: 2020-10-01
 title:en: Higurashi: When They Cry – Gou
 title:jp: Higurashi no Naku Koro ni Gou
-genres: horror, mystery, supernatural, suspense
-rating: story,artwork,sound,characters
+genres: [horror, mystery, supernatural, suspense]
+rating: [story,artwork,sound,characters]
 verdict:
 
 seen:first: 2020-12-01

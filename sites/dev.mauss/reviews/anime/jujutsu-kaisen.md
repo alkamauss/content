@@ -1,8 +1,8 @@
 ---
 released: 2020-10-03
 title:en: Jujutsu Kaisen
-genres: action, demons, supernatural, school, shounen
-rating: story,artwork,sound,characters
+genres: [action, demons, supernatural, school, shounen]
+rating: [story,artwork,sound,characters]
 verdict:
 
 seen:first: 2021-03-27
