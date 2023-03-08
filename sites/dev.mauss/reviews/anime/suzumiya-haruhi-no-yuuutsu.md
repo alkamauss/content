@@ -2,8 +2,8 @@
 released: 2006-04-03
 title:en: The Melancholy of Haruhi Suzumiya
 title:jp: Suzumiya Haruhi no Yuuutsu
-genres: slice of life, mystery, comedy, school, sci-fi
-rating: story,artwork,sound,characters
+genres: [slice of life, mystery, comedy, school, sci-fi]
+rating: [story,artwork,sound,characters]
 verdict:
 
 seen:first: 2021-02-17

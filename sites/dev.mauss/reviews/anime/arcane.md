@@ -1,8 +1,8 @@
 ---
 released: 2021-11-06
 title:en: Arcane
-genres: animation, action, adventure, drama, sci-fi, steampunk
-rating: story,artwork,sound,characters
+genres: [animation, action, adventure, drama, sci-fi, steampunk]
+rating: [story,artwork,sound,characters]
 verdict:
 
 completed: 2022-09-03T23:09:00+07:00

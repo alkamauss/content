@@ -1,8 +1,8 @@
 ---
 released: 2019-01-07
 title:en: Dororo
-genres: action, adventure, demons, historical, samurai, supernatural, shounen
-rating: story,artwork,sound,characters
+genres: [action, adventure, demons, historical, samurai, supernatural, shounen]
+rating: [story,artwork,sound,characters]
 verdict:
 
 completed: 2022-01-31T00:56:13

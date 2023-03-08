@@ -1,8 +1,8 @@
 ---
 released: 2009-07-10
 title:en: Tokyo Magnitude 8.0
-genres: drama
-rating: story,artwork,sound,characters
+genres: [drama]
+rating: [story,artwork,sound,characters]
 verdict:
 
 completed: 2021-07-30T20:54:08

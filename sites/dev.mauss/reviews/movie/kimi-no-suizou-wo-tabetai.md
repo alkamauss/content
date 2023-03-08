@@ -2,8 +2,8 @@
 released: 2018-09-01
 title:en: I want to eat your pancreas
 title:jp: Kimi no Suizou wo Tabetai
-genres: animation, drama, romance
-rating: 8,8,8,8
+genres: [animation, drama, romance]
+rating: [8,8,8,8]
 verdict:
 
 seen:first: 2020-09-05

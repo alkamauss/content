@@ -1,8 +1,8 @@
 ---
 released: 2009-10-07
 title:en: Kimi ni Todoke: From Me to You
-genres: slice of life, drama, romance, school, shoujo
-rating: story,artwork,sound,characters
+genres: [slice of life, drama, romance, school, shoujo]
+rating: [story,artwork,sound,characters]
 verdict:
 
 seen:first: 2021-02-13

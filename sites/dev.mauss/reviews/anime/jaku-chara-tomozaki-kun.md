@@ -2,8 +2,8 @@
 released: 2021-01-08
 title:en: Bottom-Tier Character Tomozaki
 title:jp: Jaku-Chara Tomozaki-kun
-genres: drama, romance, school
-rating: story,artwork,sound,characters
+genres: [drama, romance, school]
+rating: [story,artwork,sound,characters]
 verdict:
 
 seen:first: 2021-05-17

@@ -2,8 +2,8 @@
 released: 2021-04-11
 title:en: Don't Toy with Me, Miss Nagatoro
 title:jp: Ijiranaide, Nagatoro-san
-genres: slice of life, comedy, romance
-rating: story,artwork,sound,characters
+genres: [slice of life, comedy, romance]
+rating: [story,artwork,sound,characters]
 verdict:
 
 completed: 2021-06-27

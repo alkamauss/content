@@ -2,8 +2,8 @@
 released: 2014-10-12
 title:en: Fate/stay night [Unlimited Blade Works]
 title:jp: Fate/stay night: Unlimited Blade Works
-genres: action, supernatural, magic, fantasy
-rating: story,artwork,sound,characters
+genres: [action, supernatural, magic, fantasy]
+rating: [story,artwork,sound,characters]
 verdict:
 
 seen:first: 2021-06-13

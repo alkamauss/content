@@ -2,8 +2,8 @@
 released: 2021-04-06
 title:en: Oddtaxi
 title:jp: Odd Taxi
-genres: mystery
-rating: story,artwork,sound,characters
+genres: [mystery]
+rating: [story,artwork,sound,characters]
 verdict:
 
 completed: 2021-07-26T22:41:24

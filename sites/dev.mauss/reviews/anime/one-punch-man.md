@@ -1,8 +1,8 @@
 ---
 released: 2015-10-05
 title:en: One Punch Man
-genres: action, sci-fi, comedy, super power, supernatural
-rating: story,artwork,sound,characters
+genres: [action, sci-fi, comedy, super power, supernatural]
+rating: [story,artwork,sound,characters]
 verdict:
 
 seen:first: 2020

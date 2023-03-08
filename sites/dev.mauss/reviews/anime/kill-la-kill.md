@@ -3,8 +3,8 @@ released: 2013-10-04
 title:short:
 title:en: Kill la Kill
 title:jp:
-genres: action, super power, comedy, ecchi, school
-rating: story,artwork,sound,characters
+genres: [action, super power, comedy, ecchi, school]
+rating: [story,artwork,sound,characters]
 verdict:
 
 seen:first: 2020-08-04

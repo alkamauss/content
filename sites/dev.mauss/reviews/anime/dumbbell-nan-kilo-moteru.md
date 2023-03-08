@@ -2,8 +2,8 @@
 released: 2019-07-03
 title:en: How Heavy Are the Dumbbells You Lift?
 title:jp: Dumbbell Nan Kilo Moteru?
-genres: comedy, ecchi
-rating: story,artwork,sound,characters
+genres: [comedy, ecchi]
+rating: [story,artwork,sound,characters]
 verdict:
 
 completed: 2022-04-04T23:00:32

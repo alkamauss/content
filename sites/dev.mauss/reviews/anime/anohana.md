@@ -2,8 +2,8 @@
 released: 2011-04-15
 title:en: anohana: The Flower We Saw That Day
 title:jp:
-genres: drama, slice of life, supernatural
-rating: story,artwork,sound,characters
+genres: [drama, slice of life, supernatural]
+rating: [story,artwork,sound,characters]
 verdict:
 
 seen:first: 2020-06-08

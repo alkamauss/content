@@ -1,8 +1,8 @@
 ---
 released: 2011-10-02
 title:en: Hunter x Hunter (2011)
-genres: action, adventure, fantasy, shounen, super power
-rating: story,artwork,sound,characters
+genres: [action, adventure, fantasy, shounen, super power]
+rating: [story,artwork,sound,characters]
 verdict:
 
 seen:first: 2021-03-14

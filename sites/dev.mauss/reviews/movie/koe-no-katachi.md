@@ -2,8 +2,8 @@
 released: 2016-09-17
 title:en: A Silent Voice
 title:jp: Koe no Katachi
-genres: animation, drama
-rating: story,artwork,sound,characters
+genres: [animation, drama]
+rating: [story,artwork,sound,characters]
 verdict:
 
 completed: 2021-10-16T14:21:57

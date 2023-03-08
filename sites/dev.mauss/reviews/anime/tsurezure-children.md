@@ -2,8 +2,8 @@
 released: 2017-07-04
 title:en: Tsuredure Children
 title:jp: Tsurezure Children
-genres: comedy, romance, school, shounen
-rating: story,artwork,sound,characters
+genres: [comedy, romance, school, shounen]
+rating: [story,artwork,sound,characters]
 verdict:
 
 seen:first: 2021-02-03

@@ -1,7 +1,7 @@
 ---
 released: 2012-08-14
 title:en: The Heroes of Olympus: The Demigod Diaries
-genres: adventure, fantasy, mystery
+genres: [adventure, fantasy, mystery]
 rating:
 verdict:
 

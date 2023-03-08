@@ -2,7 +2,7 @@
 released: 2018-04-08
 title:short: Sword Art Online - GGO
 title:en: Sword Art Online Alternative: Gun Gale Online
-genres: action, fantasy, game, sci-fi
+genres: [action, fantasy, game, sci-fi]
 rating:
 verdict:
 

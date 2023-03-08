@@ -1,8 +1,8 @@
 ---
 released: 2017-10-08
 title:en: BLEND-S
-genres: slice of life, comedy, romance
-rating: story,artwork,sound,characters
+genres: [slice of life, comedy, romance]
+rating: [story,artwork,sound,characters]
 verdict:
 
 seen:first: 2021-04-26

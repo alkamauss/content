@@ -2,7 +2,7 @@
 released: 2012-04-08
 title:en: Kuroko's Basketball
 title:jp: Kuroko no Basuke
-genres: sports, school, comedy
+genres: [sports, school, comedy]
 rating:
 verdict:
 

@@ -3,8 +3,8 @@ released: 2016-01-14
 title:short: KonoSuba
 title:en: KonoSuba: God's Blessing on This Wonderful World!
 title:jp: Kono Subarashii Sekai ni Shukufuku wo!
-genres: isekai, adventure, comedy, fantasy, parody, supernatural
-rating: story,artwork,sound,characters
+genres: [isekai, adventure, comedy, fantasy, parody, supernatural]
+rating: [story,artwork,sound,characters]
 verdict:
 
 seen:first: 2020-09-27

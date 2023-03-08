@@ -1,8 +1,8 @@
 ---
 released: 2013-10-06
 title:en: White Album 2
-genres: drama, music, romance, slice of life
-rating: story,artwork,sound,characters
+genres: [drama, music, romance, slice of life]
+rating: [story,artwork,sound,characters]
 verdict:
 
 completed: 2022-03-10T14:12:18

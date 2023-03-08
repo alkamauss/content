@@ -1,8 +1,8 @@
 ---
 released: 1995-10-04
 title:en: Neon Genesis Evangelion
-genres: action, drama, mecha, psychological, sci-fi, suspense
-rating: story,artwork,sound,characters
+genres: [action, drama, mecha, psychological, sci-fi, suspense]
+rating: [story,artwork,sound,characters]
 verdict:
 
 completed: 2022-10-31T00:34:00+07:00

@@ -1,8 +1,8 @@
 ---
 released: 2018-04-06
 title:en: Hinamatsuri
-genres: comedy, sci-fi, slice of life, supernatural
-rating: story,artwork,sound,characters
+genres: [comedy, sci-fi, slice of life, supernatural]
+rating: [story,artwork,sound,characters]
 verdict:
 
 completed: 2021-10-17T01:01:36

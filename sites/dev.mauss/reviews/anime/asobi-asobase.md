@@ -1,8 +1,8 @@
 ---
 released: 2018-07-08
 title:en: Asobi Asobase
-genres: comedy, school
-rating: story,artwork,sound,characters
+genres: [comedy, school]
+rating: [story,artwork,sound,characters]
 verdict:
 
 completed: 2022-02-12T22:23:22

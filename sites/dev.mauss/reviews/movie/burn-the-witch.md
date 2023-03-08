@@ -1,8 +1,8 @@
 ---
 released: 2020-10-02
 title:en: Burn the Witch
-genres: animation, action, magic, fantasy, shounen
-rating: story,artwork,sound,characters
+genres: [animation, action, magic, fantasy, shounen]
+rating: [story,artwork,sound,characters]
 verdict:
 
 seen:first: 2021-01-27

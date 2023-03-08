@@ -2,8 +2,8 @@
 released: 2020-10-08
 title:en: Akudama Drive
 title:jp:
-genres: action, sci-fi
-rating: story,artwork,sound,characters
+genres: [action, sci-fi]
+rating: [story,artwork,sound,characters]
 verdict:
 
 seen:first: 2020-12-25

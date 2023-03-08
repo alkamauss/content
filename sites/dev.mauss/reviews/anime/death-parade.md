@@ -1,8 +1,8 @@
 ---
 released: 2015-01-10
 title:en: Death Parade
-genres: drama, mystery, suspense
-rating: story,artwork,sound,characters
+genres: [drama, mystery, suspense]
+rating: [story,artwork,sound,characters]
 verdict:
 
 completed: 2021-11-01T22:08:08

@@ -2,8 +2,8 @@
 released: 2021-07-03
 title:en: Girlfriend, Girlfriend
 title:jp: Kanojo mo Kanojo
-genres: harem, comedy, romance, school, shounen
-rating: story,artwork,sound,characters
+genres: [harem, comedy, romance, school, shounen]
+rating: [story,artwork,sound,characters]
 verdict:
 
 completed: 2021-09-19T12:05:30

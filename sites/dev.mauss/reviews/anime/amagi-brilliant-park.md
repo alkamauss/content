@@ -1,8 +1,8 @@
 ---
 released: 2014-10-07
 title:en: Amagi Brilliant Park
-genres: comedy, drama, fantasy
-rating: story,artwork,sound,characters
+genres: [comedy, drama, fantasy]
+rating: [story,artwork,sound,characters]
 verdict:
 
 completed: 2022-03-31T01:35:10
