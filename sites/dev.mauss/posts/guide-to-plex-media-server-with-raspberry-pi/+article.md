@@ -163,7 +163,7 @@ Even if you're going to work with a monitor, it is convenient to have a VNC conn
 
 1. Add your media folders to your external hard drive, I suggest structuring your folders like so
 
-    ```terminal
+    ```
     E:.
     ├───Movies
     │   ├───Animated

@@ -97,7 +97,8 @@ We'll be using docker to build our image and docker hub to store it. We could go
 
 To build the image, we first need to have docker install on our system. Once we got it set up, we create a `Dockerfile` and build our image locally
 
-```dockerfile
+<!-- ```dockerfile TODO https://github.com/shikijs/shiki/issues/458  -->
+```docker
 ~Dockerfile
 FROM ubuntu:latest
 

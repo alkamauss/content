@@ -109,7 +109,8 @@ pm2 restart web
 
 Now here comes the crucial part, because most hosting providers won't allow you to connect to a specific port, or I'll assume all of you want your users to go to your website without adding `:3000` to the end of the domain, we'll need to route the traffic using the built-in Apache proxy server with an `.htaccess` file located in our `public_html` folder. You should be able to just copy the configuration below and paste it in yours.
 
-```htaccess
+```properties
+~.htaccess
 RewriteEngine On
 
 RewriteCond %{HTTPS} off

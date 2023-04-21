@@ -40,12 +40,12 @@ _Tip_ - Try enabling Universal Plug and Play (UPnP) first before attempting to m
 
 Another way is to manually count the first 2 hops of your packet using the `traceroute` command
 
-```terminal
+```shell
 ~Windows
 tracert 8.8.8.8
 ```
 
-```terminal
+```bash
 ~Linux
 traceroute 8.8.8.8
 ```
@@ -60,7 +60,7 @@ In Double-NAT situations, one of the devices can often be set to **Bridge Mode**
 
 _Note_ - Try setting the first router you're connected to in Bridge Mode. This might allow you to skip port forwarding all the way.
 
-```terminal
+```shell
 ~Windows
 ipconfig /all
 ```
