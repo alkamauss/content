@@ -1,7 +1,7 @@
 ---
 released: 2011-04-03
 title:short: Nichijou
-title:en: Nichijou: My Ordinary Life
+title:en: "Nichijou: My Ordinary Life"
 title:jp:
 genres: [comedy, slapstick, slice of life, school, shounen]
 rating: [10,10,10,8]

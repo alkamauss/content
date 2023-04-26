@@ -1,7 +1,7 @@
 ---
 released: 2019-12-20
-title:en: My Hero Academia: Heroes Rising
-title:jp: Boku no Hero Academia: Heroes:Rising
+title:en: "My Hero Academia: Heroes Rising"
+title:jp: "Boku no Hero Academia: Heroes:Rising"
 genres: [animation]
 rating: [5,10,9,8]
 verdict:

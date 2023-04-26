@@ -1,7 +1,7 @@
 ---
 released: 2020-10-02
 title:short: The Journey of Elaina
-title:en: Wandering Witch: The Journey of Elaina
+title:en: "Wandering Witch: The Journey of Elaina"
 title:jp: Majo no Tabitabi
 genres: [adventure, fantasy]
 rating: [story,artwork,sound,characters]

@@ -1,6 +1,6 @@
 ---
 released: 2018-02-24
-title:en: Maquia: When the Promised Flower Blooms
+title:en: "Maquia: When the Promised Flower Blooms"
 title:jp: Sayonara no Asa ni Yakusoku no Hana wo Kazarou
 genres: [animation, drama, fantasy]
 rating: [story,artwork,sound,characters]

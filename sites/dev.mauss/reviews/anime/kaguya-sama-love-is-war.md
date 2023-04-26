@@ -1,8 +1,8 @@
 ---
 released: 2019-01-12
-title:short: Kaguya-sama: Love is War
-title:en: Kaguya-sama: Love is War
-title:jp: Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen
+title:short: "Kaguya-sama: Love is War"
+title:en: "Kaguya-sama: Love is War"
+title:jp: "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen"
 genres: [comedy, romance, school, seinen]
 rating: [10,9,10,10, 9,9,10,9]
 verdict:

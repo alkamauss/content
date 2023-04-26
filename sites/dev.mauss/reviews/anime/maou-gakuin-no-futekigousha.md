@@ -1,8 +1,8 @@
 ---
 released: 2020-07-04
 title:short: The Misfit of Demon King Academy
-title:en: The Misfit of Demon King Academy: History's Strongest Demon King Reincarnates and Goes to School with His Descendants
-title:jp: Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e
+title:en: "The Misfit of Demon King Academy: History's Strongest Demon King Reincarnates and Goes to School with His Descendants"
+title:jp: "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e"
 genres: [action, adventure, comedy, demons, magic, fantasy, school]
 rating: [story,artwork,sound,characters]
 verdict:

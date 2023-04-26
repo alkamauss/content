@@ -1,6 +1,6 @@
 ---
 released: 2013-07-24
-title:en: Corpse Party: Tortured Souls
+title:en: "Corpse Party: Tortured Souls"
 genres: [horror, mystery, supernatural]
 rating: [story,artwork,sound,characters]
 verdict:
