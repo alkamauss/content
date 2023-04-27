@@ -34,7 +34,7 @@ Sublime Text has the ability to install and use different color schemes as some 
 ## PART C &bull; License Keys
 
 ```
-~Build 3176
+#$ file: Build 3176
 ----- BEGIN LICENSE -----
 sgbteam
 Single User License
@@ -57,7 +57,7 @@ Sublime Text Build 3176 is the latest update at the time of writing this post. S
 Failing to [block internet access](/posts/block-internet-access-to-program) to it before restarting the software will instantly deactivate the license; therefore, your version will revert back to evaluation version.
 
 ```
-~Build 3141
+#$ file: Build 3141
 —– BEGIN LICENSE —–
 TwitterInc
 200 User License
@@ -74,7 +74,7 @@ E36B85CC 84991F19 7575D828 470A92AB
 ```
 
 ```
-~Build 390x +
+#$ file: Build 390x +
 —– BEGIN LICENSE —–
 MinBan
 Single User License
@@ -91,7 +91,7 @@ E529AECA 92A96B60 72AE8928 8A240AAC
 ```
 
 ```
-~Build 3126
+#$ file: Build 3126
 —– BEGIN LICENSE —–
 riku
 Single User License
@@ -108,7 +108,7 @@ BC6CB3B5B6D183FF5C755DE7007C6C41
 ```
 
 ```
-~Build 3114
+#$ file: Build 3114
 —– BEGIN LICENSE —–
 Michael Barnes
 Single User License

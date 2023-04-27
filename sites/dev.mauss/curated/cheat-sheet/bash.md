@@ -52,7 +52,7 @@ du -a path/to/start | sort -nr | head -n 10
 `Copy method`, it creates a hard link for the file or everything in the folder to the desired destination. Hard linking is crucial for media management so that you won't have a lot of wasted space with duplicates or multiple files with similar data and different file names.
 
 ```bash
-~Copy Method
+#$ file: Copy Method
 # This will create a complete hard linked copy instead of traditional one
 cp -al /path/to/source /path/to/destination
 ```
@@ -66,7 +66,7 @@ cp -al /path/to/source /path/to/destination
 - and many more...
 
 ```bash
-~Find Method
+#$ file: Find Method
 # (find .) <- dot meaning relative from current path
 
 # Find all empty files and directories
@@ -99,7 +99,7 @@ find . -type f -perm 777 -exec chmod -x {} \;
 `Rename method`, it renames multiple files or folders with a specific regex pattern. One of the most useful scripts to have for media management.
 
 ```bash
-~Rename Method
+#$ file: Rename Method
 # Get the package first if you don't have it yet
 sudo apt install rename
 

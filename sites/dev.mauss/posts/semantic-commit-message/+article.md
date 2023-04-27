@@ -9,7 +9,6 @@ image:en: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcodereview
 This will be a quick and short post, so feel free to spare a minute to read how I summarize changes within my code, and what style guide I'm referring to.
 
 ```
-~Style Guide
 <type>(<scope>): <subject>
 
 [optional body]
