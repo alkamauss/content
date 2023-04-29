@@ -1,9 +1,9 @@
 ---
-date: 2020-06-19T17:38:25+07:00
+date: "2020-06-19T17:38:25+07:00"
 title: Configure Static Site Hosting with your Custom Domain
 description: Quickly setup your custom domain in just a couple of steps
 tags: [tutorial, tech, nameservers]
-image:en: https://cdn.pixabay.com/photo/2019/01/31/20/52/web-3967926_960_720.jpg
+thumbnail: https://cdn.pixabay.com/photo/2019/01/31/20/52/web-3967926_960_720.jpg
 ---
 
 You've just bought a custom domain to use for your personal website, specifically a static site using some static site hosting provider like Netlify, Vercel (formerly ZEIT Now), GitHub Pages, or other selected providers. But, you can't seem to connect the pieces together, or you've done it but the website in your domain doesn't seem as responsive or quick as if you didn't use your domain. We'll be discussing on how to solve those problems here.

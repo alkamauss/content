@@ -1,5 +1,5 @@
 ---
-date: 2019-01-07T17:38:25+07:00
+date: "2019-01-07T17:38:25+07:00"
 title: Get The Newest Windows 10 Update A.S.A.P
 tags: [tutorial, windows]
 ---

@@ -1,11 +1,11 @@
 ---
-released: 2020-10-03
+released: "2020-10-03"
 title:en: Jujutsu Kaisen
 genres: [action, demons, supernatural, school, shounen]
 rating: [story,artwork,sound,characters]
 verdict:
 
-seen:first: 2021-03-27
+seen:first: "2021-03-27"
 date:published: 2020
 date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/g1rK2nRXSidcMwNliWDIroWWGTn.jpg

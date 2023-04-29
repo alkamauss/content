@@ -1,12 +1,12 @@
 ---
-released: 2012-10-09
+released: "2012-10-09"
 title:en: The Pet Girl of Sakurasou
 title:jp: Sakura-sou no Pet na Kanojo
 genres: [slice of life, comedy, drama, romance, school]
 rating: [story,artwork,sound,characters]
 verdict:
 
-seen:first: 2021-03-20
+seen:first: "2021-03-20"
 date:published: 2020
 date:updated: 2020
 image:en: https://image.tmdb.org/t/p/original/6XQ2F5bZLWfAmayKyJtZKxn5Tcl.jpg

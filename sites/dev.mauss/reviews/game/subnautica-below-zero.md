@@ -1,11 +1,11 @@
 ---
-released: 2021-05-14
+released: "2021-05-14"
 title:en: "Subnautica: Below Zero"
 genres: [open world, survival]
 rating: [story,artwork,sound,characters]
 verdict:
 
-seen:first: 2021-05-27
+seen:first: "2021-05-27"
 date:published: 2020
 date:updated: 2020
 image:en: https://upload.wikimedia.org/wikipedia/en/a/a3/Subnautica_Below_Zero_cover_art.jpg

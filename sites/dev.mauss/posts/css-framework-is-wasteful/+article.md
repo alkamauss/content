@@ -1,9 +1,8 @@
 ---
-date: 2021-02-26T17:38:25+07:00
+date: "2021-02-26T17:38:25+07:00"
 title: CSS Framework Is Wasteful
 description: Do you really need a CSS framework? Here's why I think I don't
 tags: [coding, css, framework]
-image:en:
 ---
 
 I'm not here to argue or shame anyone, this is just my thoughts and what I see from my experiences. If there's anything you think is missing or feel should be here, please understand that it was specifically done to spite you personally<sub>/s</sub>

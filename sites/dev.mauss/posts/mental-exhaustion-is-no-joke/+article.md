@@ -1,9 +1,8 @@
 ---
-date: 2020-11-11T17:38:25+07:00
+date: "2020-11-11T17:38:25+07:00"
 title: Mental Exhaustion Is No Joke
 description: This is probably the lowest point in my life, so far. I managed to survive and get back but at what cost?
 tags: [life, health]
-image:en:
 ---
 
 I truly believe mental fatigue (illness included, duh) is real, I also know that it is curable as long as the person wanted to be cured, you can't help someone who doesn't want to be helped. But, I'd never doubt anyone that actually suffers from these things, especially when they come and personally ask their friends for help.

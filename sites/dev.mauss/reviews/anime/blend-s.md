@@ -1,13 +1,13 @@
 ---
-released: 2017-10-08
+released: "2017-10-08"
 title:en: BLEND-S
 genres: [slice of life, comedy, romance]
 rating: [story,artwork,sound,characters]
 verdict:
 
-seen:first: 2021-04-26
-date:published: 2020
-date:updated: 2020
+seen:first: "2021-04-26"
+date:published: "2020"
+date:updated: "2020"
 image:en: https://www.themoviedb.org/t/p/original/mMsibXak1hJ9tsRYCF7tDYN319w.jpg
 image:jp: https://www.themoviedb.org/t/p/original/tnXia9NMALayM8RVoymTsaO5VqK.jpg
 backdrop: https://www.themoviedb.org/t/p/original/olaQVzQsMGVvcOWzekUsRhMJlXJ.jpg

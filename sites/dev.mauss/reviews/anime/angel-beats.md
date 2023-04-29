@@ -1,13 +1,13 @@
 ---
-released: 2010-04-03
+released: "2010-04-03"
 title:en: Angel Beats!
 genres: [action, comedy, drama, school, supernatural]
 rating: [story,artwork,sound,characters]
 verdict:
 
-seen:first: 2020-06-30
-date:published: 2020
-date:updated: 2020
+seen:first: "2020-06-30"
+date:published: "2020"
+date:updated: "2020"
 image:en: https://image.tmdb.org/t/p/original/skQ8qieQPRHXeE4NW5PjVpwsAj8.jpg
 
 link:mal: https://myanimelist.net/anime/6547/Angel_Beats

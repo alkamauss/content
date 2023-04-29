@@ -1,9 +1,8 @@
 ---
-date: 2020-04-30T17:38:25+07:00
+date: "2020-04-30T17:38:25+07:00"
 title: Complete Flutter Development Automation
 description: Check out how to automate your Flutter development workflow
 tags: [ppl2020, flutter, devops, gitlab]
-
 ---
 
 ![Flutter Logo](https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png)
@@ -44,7 +43,7 @@ Either that, or the startup you're aiming for is using one technology (usually j
 
 I really can't think of any other reasons why we shouldn't start using Flutter to develop any **future** mobile apps. It is, in fact, the fastest and hottest rising stack in the current mobile development world.
 
-[![Flutter trend comparison](/assets/uploads/ppl2020/flutter-trend.svg)](https://insights.stackoverflow.com/trends?tags=flutter%2Creact-native%2Cionic-framework%2Ckotlin%2Cswift%2Cxamarin.android)
+[![Flutter trend comparison](./flutter-trend.svg)](https://insights.stackoverflow.com/trends?tags=flutter%2Creact-native%2Cionic-framework%2Ckotlin%2Cswift%2Cxamarin.android)
 
 If you're still not convinced yet... excluding Swift, which is slowly going down on the trend, Flutter is the highest on the chart! It is on its way to beat native languages like Swift, Java, and Kotlin.
 

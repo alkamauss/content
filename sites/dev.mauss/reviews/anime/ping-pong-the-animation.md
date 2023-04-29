@@ -1,11 +1,11 @@
 ---
-released: 2014-04-11
+released: "2014-04-11"
 title:en: Ping Pong the Animation
 genres: [sports, drama, seinen]
 rating: [10,8,10,10]
 verdict:
 
-seen:first: 2020-07-19
+seen:first: "2020-07-19"
 date:published: 2020
 image:en: https://fanart.tv/fanart/tv/277464/tvposter/ping-pong-54b1f27191477.jpg
 

@@ -1,14 +1,14 @@
 ---
-released: 2018-07-08
+released: "2018-07-08"
 title:en: Asobi Asobase
 genres: [comedy, school]
 rating: [story,artwork,sound,characters]
 verdict:
 
-completed: 2022-02-12T22:23:22
-seen:first: 2022-01-31T11:01:15
-date:published: 2020
-date:updated: 2020
+completed: "2022-02-12T22:23:22"
+seen:first: "2022-01-31T11:01:15"
+date:published: "2020"
+date:updated: "2020"
 image:en: https://www.themoviedb.org/t/p/original/zWE3bnCILcRpfQCsxBkMsgcEjOE.jpg
 image:jp: https://www.themoviedb.org/t/p/original/pVbrwGwXLuapeQCVbZgdXFfwceB.jpg
 backdrop: https://www.themoviedb.org/t/p/original/8VN3MyfoFCdFTR9GDh5Tx9pbdCV.jpg

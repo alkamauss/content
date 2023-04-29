@@ -1,9 +1,9 @@
 ---
-date: 2020-10-13T17:38:25+07:00
+date: "2020-10-13T17:38:25+07:00"
 title: Style Guide to a Semantic Commit Message
 description: How to write semantic commit message and summarize your changes in under 50 characters
 tags: [tutorial, git]
-image:en: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcodereviewvideos.com%2Fblog%2Fwp-content%2Fuploads%2F2015%2F06%2Fgit-goodness.gif&f=1&nofb=1
+thumbnail: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcodereviewvideos.com%2Fblog%2Fwp-content%2Fuploads%2F2015%2F06%2Fgit-goodness.gif&f=1&nofb=1
 ---
 
 This will be a quick and short post, so feel free to spare a minute to read how I summarize changes within my code, and what style guide I'm referring to.

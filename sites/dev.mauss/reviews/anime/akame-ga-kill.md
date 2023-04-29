@@ -1,13 +1,13 @@
 ---
-released: 2014-07-07
+released: "2014-07-07"
 title:en: Akame ga Kill!
 genres: [action, adventure, drama, fantasy, shounen]
 rating: [story,artwork,sound,characters]
 verdict:
 
-seen:first: 2020
-date:published: 2020
-date:updated: 2020
+seen:first: "2020"
+date:published: "2020"
+date:updated: "2020"
 image:en: https://www.themoviedb.org/t/p/original/3c5BIEfAhTCWrIi4C8WMuwOl6bX.jpg
 backdrop: https://www.themoviedb.org/t/p/original/oczFTWRBhKrJ4rNNhqKgp1O1PAu.jpg
 

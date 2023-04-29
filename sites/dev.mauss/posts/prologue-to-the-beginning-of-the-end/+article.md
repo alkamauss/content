@@ -1,9 +1,8 @@
 ---
-date: 2021-10-24T00:00:00+07:00
+date: "2021-10-24T00:00:00+07:00"
 title: Prologue to the Beginning of the End
 description: A start to the beginning of the end
 tags: [life]
-image:en:
 ---
 
 

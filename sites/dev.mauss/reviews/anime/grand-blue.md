@@ -1,12 +1,12 @@
 ---
-released: 2018-06-14
+released: "2018-06-14"
 title:en: Grand Blue Dreaming
 title:jp: Grand Blue
 genres: [slice of life, comedy, seinen]
 rating: [story,artwork,sound,characters]
 verdict:
 
-seen:first: 2021-01-01
+seen:first: "2021-01-01"
 date:published: 2020
 date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/1WP2MrTIXJ8NI5tvqBk4ZD4ju9O.jpg

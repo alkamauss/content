@@ -1,11 +1,11 @@
 ---
-released: 2009-10-07
+released: "2009-10-07"
 title:en: "Kimi ni Todoke: From Me to You"
 genres: [slice of life, drama, romance, school, shoujo]
 rating: [story,artwork,sound,characters]
 verdict:
 
-seen:first: 2021-02-13
+seen:first: "2021-02-13"
 date:published: 2020
 date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/2XZ0Ofg1ZUZMFrbyWJuakSJAKZz.jpg

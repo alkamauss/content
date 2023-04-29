@@ -1,12 +1,12 @@
 ---
-released: 2007-03-03
+released: "2007-03-03"
 title:en: 5 Centimeters per Second
 title:jp: Byousoku 5 Centimeter
 genres: [animation, drama, romance, slice of life]
 rating: [9,10,8,8]
 verdict:
 
-seen:first: 2020-08-08
+seen:first: "2020-08-08"
 date:published: 2020
 image:en: https://image.tmdb.org/t/p/original/t0ISGhwZtghakg46TWCOWBTIflZ.jpg
 

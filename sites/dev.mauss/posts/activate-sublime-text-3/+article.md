@@ -1,5 +1,5 @@
 ---
-date: 2018-12-07T17:38:25+07:00
+date: "2018-12-07T17:38:25+07:00"
 title: Activate Sublime Text 3 with Free License
 tags: [tutorial]
 ---

@@ -1,13 +1,13 @@
 ---
-released: 2005-10-23
+released: "2005-10-23"
 title:en: Mushi-Shi
 title:jp: Mushishi
 genres: [adventure, mystery, slice of life, supernatural, historical, fantasy, seinen]
 rating: [story,artwork,sound,characters]
 verdict:
 
-completed: 2021-07-05
-seen:first: 2021-02-10
+completed: "2021-07-05"
+seen:first: "2021-02-10"
 date:published: 2020
 date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/ianYYQaLkksLGCfeisFNYJE7jIO.jpg

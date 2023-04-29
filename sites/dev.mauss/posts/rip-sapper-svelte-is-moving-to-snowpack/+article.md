@@ -1,9 +1,8 @@
 ---
-date: 2020-10-20T17:38:25+07:00
+date: "2020-10-20T17:38:25+07:00"
 title: RIP Sapper - Svelte Is Moving to Snowpack
 description: It's been a fun ride using Sapper but all good things must come to an end. Svelte is moving to Snowpack and ditching bundlers
 tags: [tech, svelte, sapper, snowpack]
-image:en:
 ---
 
 Sapper is the official framework for Svelte to build full-fledged applications with the ability to do SSR, be a SSG, and have SPA functionality all together. It has been on early development stage for some time now and finally, on Sunday night (or Monday morning my time) 18 October 2018 at Svelte Summit 2020, Rich Harris announced that Sapper 1.0 will **never come**.

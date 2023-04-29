@@ -1,12 +1,12 @@
 ---
-released: 2017-01-09
+released: "2017-01-09"
 title:en: Gabriel DropOut
 genres: [comedy, supernatural]
 rating: [story,artwork,sound,characters]
 verdict:
 
-completed: 2022-03-29T00:32:30
-seen:first: 2022-03-20T11:13:20
+completed: "2022-03-29T00:32:30"
+seen:first: "2022-03-20T11:13:20"
 date:published: 2020
 date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/dS5dut05RFNi3fOCn6iO31Eag9x.jpg

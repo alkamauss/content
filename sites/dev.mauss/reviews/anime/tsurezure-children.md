@@ -1,12 +1,12 @@
 ---
-released: 2017-07-04
+released: "2017-07-04"
 title:en: Tsuredure Children
 title:jp: Tsurezure Children
 genres: [comedy, romance, school, shounen]
 rating: [story,artwork,sound,characters]
 verdict:
 
-seen:first: 2021-02-03
+seen:first: "2021-02-03"
 date:published: 2020
 date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/7cCFzTvhpU27G2hK1aIFQ6DLVlJ.jpg

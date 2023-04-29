@@ -1,5 +1,5 @@
 ---
-released: 2015-01-16
+released: "2015-01-16"
 title:en: "Saekano: How to Raise a Boring Girlfriend"
 title:jp: Saenai Heroine no Sodatekata
 genres: [comedy, harem, romance, ecchi, school]

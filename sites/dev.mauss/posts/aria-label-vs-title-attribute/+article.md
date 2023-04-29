@@ -1,9 +1,8 @@
 ---
-date: 2020-09-26T17:38:25+07:00
+date: "2020-09-26T17:38:25+07:00"
 title: Accessibility! aria-label vs. title attribute
 description: What's the difference and which one should you choose between these two.
 tags: [accessibility, html]
-image:en:
 ---
 
 The title attribute is read by screen readers, but so does aria-label. They seem to serve the same purpose, so what's the difference?

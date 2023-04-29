@@ -1,5 +1,5 @@
 ---
-released: 2015-04-05
+released: "2015-04-05"
 title:short:
 title:en: Plastic Memories
 title:jp:
@@ -7,7 +7,7 @@ genres: [romance, sci-fi, drama]
 rating: [story,artwork,sound,characters]
 verdict:
 
-seen:first: 2020-08-03
+seen:first: "2020-08-03"
 date:published: 2020
 date:updated: 2020
 image:en: https://image.tmdb.org/t/p/original/ypQKH5Q1ifDaRKoo6oQozmtFIvN.jpg

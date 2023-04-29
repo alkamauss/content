@@ -1,14 +1,14 @@
 ---
-released: 2013-10-06
+released: "2013-10-06"
 title:en: White Album 2
 genres: [drama, music, romance, slice of life]
 rating: [story,artwork,sound,characters]
 verdict:
 
-completed: 2022-03-10T14:12:18
-seen:first: 2021-07-31T22:30:40
-date:published: 2020
-date:updated: 2020
+completed: "2022-03-10T14:12:18"
+seen:first: "2021-07-31T22:30:40"
+date:published: "2020"
+date:updated: "2020"
 image:en: https://www.themoviedb.org/t/p/original/lwRNHfZyPWOI2oFNfIoaXsiwGJB.jpg
 backdrop: https://www.themoviedb.org/t/p/original/8zpgSUqiYbMP3UPMKBnNbiB32c5.jpg
 

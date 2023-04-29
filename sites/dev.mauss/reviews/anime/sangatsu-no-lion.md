@@ -1,5 +1,5 @@
 ---
-released: 2016-10-08
+released: "2016-10-08"
 title:en: March comes in like a lion
 title:jp: 3-gatsu no Lion
 genres: [slice of life, drama, seinen]

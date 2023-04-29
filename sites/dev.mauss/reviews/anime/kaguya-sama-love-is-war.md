@@ -1,5 +1,5 @@
 ---
-released: 2019-01-12
+released: "2019-01-12"
 title:short: "Kaguya-sama: Love is War"
 title:en: "Kaguya-sama: Love is War"
 title:jp: "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen"
@@ -7,8 +7,8 @@ genres: [comedy, romance, school, seinen]
 rating: [10,9,10,10, 9,9,10,9]
 verdict:
 
-completed: 2022-07-10T23:30:00
-seen:first: 2020-07-21
+completed: "2022-07-10T23:30:00"
+seen:first: "2020-07-21"
 date:published: 2020
 date:updated: 2020
 image:en: https://image.tmdb.org/t/p/original/dA93MnalfNLHMMlDcTCfX4QJb5Q.jpg

@@ -1,12 +1,12 @@
 ---
-released: 2015-07-12
+released: "2015-07-12"
 title:en: God Eater
 genres: [action, sci-fi, military, fantasy]
 rating: [story,artwork,sound,characters]
 verdict:
 
-completed: 2021-06-27
-seen:first: 2021-03-14
+completed: "2021-06-27"
+seen:first: "2021-03-14"
 date:published: 2020
 date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/5H2XJUqkuLdhoYAxUOpa3NYLo8T.jpg

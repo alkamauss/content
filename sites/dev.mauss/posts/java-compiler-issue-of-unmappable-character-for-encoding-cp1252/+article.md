@@ -1,5 +1,5 @@
 ---
-date: 2018-11-30T17:38:25+07:00
+date: "2018-11-30T17:38:25+07:00"
 title: Get Rid of Un-mappable Character for Encoding Cp1252 when Compiling Java
 tags: [tutorial, coding]
 ---

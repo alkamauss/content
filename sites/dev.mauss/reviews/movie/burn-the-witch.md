@@ -1,11 +1,11 @@
 ---
-released: 2020-10-02
+released: "2020-10-02"
 title:en: Burn the Witch
 genres: [animation, action, magic, fantasy, shounen]
 rating: [story,artwork,sound,characters]
 verdict:
 
-seen:first: 2021-01-27
+seen:first: "2021-01-27"
 date:published: 2020
 date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/ySCAoHkQZPlcmux6ZhkIiBRmEOI.jpg

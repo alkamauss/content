@@ -1,5 +1,5 @@
 ---
-released: 2009-07-03
+released: "2009-07-03"
 title:en: The Monogatari Series
 genres: [animation, mystery, supernatural, romance]
 rating: [story,artwork,sound,characters]

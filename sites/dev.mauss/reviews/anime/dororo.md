@@ -1,12 +1,12 @@
 ---
-released: 2019-01-07
+released: "2019-01-07"
 title:en: Dororo
 genres: [action, adventure, demons, historical, samurai, supernatural, shounen]
 rating: [story,artwork,sound,characters]
 verdict:
 
-completed: 2022-01-31T00:56:13
-seen:first: 2021-02-10
+completed: "2022-01-31T00:56:13"
+seen:first: "2021-02-10"
 date:published: 2020
 date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/jyFHtqYeVvc2A9nLhFGvM49xGPg.jpg

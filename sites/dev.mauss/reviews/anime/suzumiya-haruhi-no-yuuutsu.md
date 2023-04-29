@@ -1,12 +1,12 @@
 ---
-released: 2006-04-03
+released: "2006-04-03"
 title:en: The Melancholy of Haruhi Suzumiya
 title:jp: Suzumiya Haruhi no Yuuutsu
 genres: [slice of life, mystery, comedy, school, sci-fi]
 rating: [story,artwork,sound,characters]
 verdict:
 
-seen:first: 2021-02-17
+seen:first: "2021-02-17"
 date:published: 2020
 date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/5rbehM5zkF8xlLce4F9kJZWhqmU.jpg
