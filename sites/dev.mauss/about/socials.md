@@ -1,6 +1,6 @@
 ---
 title: About - Socials
-date:updated: 2020-06-23
+date:updated: "2020-06-23"
 ---
 
 <section class="info-box" id="objective">

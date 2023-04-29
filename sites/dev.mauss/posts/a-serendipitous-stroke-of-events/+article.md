@@ -1,9 +1,8 @@
 ---
-date: 2022-02-02T11:48:11+07:00
+date: "2022-02-02T11:48:11+07:00"
 title: A Serendipitous Stroke of Events
 description: What a delightful year it has been
 tags: [life]
-image:en:
 ---
 
 > luck that takes the form of finding valuable or pleasant things that are not looked for
