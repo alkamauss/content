@@ -1,6 +1,6 @@
 ---
+date: "2020-10-14"
 title: CSS Learning Resources
-date:updated: "2020-10-14"
 ---
 
 ## In-depth Articles
