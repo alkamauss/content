@@ -67,7 +67,7 @@ There's of course other components that have more logic than just a plain button
 
 Let's take a look at our previous project structure with Sapper.
 
-![ssr-structure](./ssr.png)
+![ssr-structure](./ssr-structure.png)
 
 It's quite bloated in my opinion, with repeated files in `routes` folder, it's required by Sapper to create the defined routes for the client to navigate to. Though Sapper makes it easy for us to create a path using files as routers, it's not really needed for our case here.
 
@@ -110,7 +110,7 @@ src
 
 Now here's the current project structure after our migration to Svelte.
 
-![spa-structure](./spa.png)
+![spa-structure](./spa-structure.png)
 
 Quite the trim isn't it? We've successfully removed many unnecessary files and even converted our app into a single-page application that could run independently without a backend server. This means we could host our website anywhere that supports static site hosting like GitHub Pages, Netlify, Now, Surge, or others alike.
 
