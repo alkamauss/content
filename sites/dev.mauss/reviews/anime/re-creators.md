@@ -1,6 +1,6 @@
 ---
 released: "2017-04-08"
-title:en: Re:Creators
+title:en: "Re:Creators"
 genres: [action, sci-fi, fantasy, mecha]
 rating: [story,artwork,sound,characters]
 verdict:
