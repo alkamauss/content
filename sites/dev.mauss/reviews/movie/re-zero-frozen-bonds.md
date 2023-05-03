@@ -1,12 +1,12 @@
 ---
-released: 2019-11-08
-title:short: Re:ZERO - Frozen Bonds
-title:en: Re:ZERO -Starting Life in Another World-: Frozen Bonds
+released: "2019-11-08"
+title:short: "Re:ZERO - Frozen Bonds"
+title:en: "Re:ZERO -Starting Life in Another World-: Frozen Bonds"
 genres: [animation, drama, thriller, fantasy]
 rating: [story,artwork,sound,characters]
 verdict:
 
-seen:first: 2020-10-04
+seen:first: "2020-10-04"
 date:published: 2020
 image:en: https://image.tmdb.org/t/p/original/4fkROBkc3zHVRbmf65A4V46pznD.jpg
 backdrop: https://image.tmdb.org/t/p/original/9K1zhrS8jZ3NFZwzc5RgtwxskLT.jpg

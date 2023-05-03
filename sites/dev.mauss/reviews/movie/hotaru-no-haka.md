@@ -1,12 +1,12 @@
 ---
-released: 1988-04-16
+released: "1988-04-16"
 title:en: Grave of the Fireflies
 title:jp: Hotaru no Haka
 genres: [animation, drama, historical]
 rating: [story,artwork,sound,characters]
 verdict:
 
-seen:first: 2020-09-06
+seen:first: "2020-09-06"
 date:published: 2020
 date:updated: 2020
 image:en: https://image.tmdb.org/t/p/original/wcNkHDbyc290hcWk7KXbBZUuXpq.jpg

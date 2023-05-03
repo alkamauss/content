@@ -1,5 +1,5 @@
 ---
-date: 2018-10-19T17:38:25+07:00
+date: "2018-10-19T17:38:25+07:00"
 title: Plex Media Server Setup Guide with Raspberry Pi
 tags: [tutorial, raspi]
 ---
@@ -146,11 +146,11 @@ Even if you're going to work with a monitor, it is convenient to have a VNC conn
 
 4. Navigate to Interfacing Options and enable the VNC server
 
-    ![Raspberry Pi Main Config](/assets/uploads/tutorial/raspi-config-main.jpg)
+    ![Raspberry Pi Main Config](./raspi-config-main.jpg)
 
-    ![Raspberry Pi Interfacing Config](/assets/uploads/tutorial/raspi-config-interfacing.jpg)
+    ![Raspberry Pi Interfacing Config](./raspi-config-interfacing.jpg)
 
-    ![Raspberry Pi VNC Config](/assets/uploads/tutorial/raspi-config-vnc.jpg)
+    ![Raspberry Pi VNC Config](./raspi-config-vnc.jpg)
 
 5. Open RealVNC from the top right icon and log in with your account
 6. Now, every time you want to connect to any of your device from any device, just log in and click on your device

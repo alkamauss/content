@@ -1,6 +1,6 @@
 ---
+date: 202X-XX-01
 title: Monthly Digest - {Month} {Year}
-date:published: 202X-XX-01
 ---
 
 Hey folks, welcome back to our monthly digest! As always, feel free to skip ahead to your preferred content by using the quick links provided above to jump to your the section.

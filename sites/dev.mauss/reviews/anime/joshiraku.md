@@ -1,11 +1,11 @@
 ---
-released: 2012-07-06
+released: "2012-07-06"
 title:en: Joshiraku
 genres: [comedy, slice of life]
 rating: [story,artwork,sound,characters]
 verdict:
 
-seen:first: 2022-02-06T13:45:35
+seen:first: "2022-02-06T13:45:35"
 date:published: 2020
 date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/67zsN2RRa187v8fwYxlN8c8T19X.jpg

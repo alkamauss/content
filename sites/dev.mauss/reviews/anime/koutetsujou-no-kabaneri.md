@@ -1,13 +1,13 @@
 ---
-released: 2016-04-08
+released: "2016-04-08"
 title:en: Kabaneri of the Iron Fortress
 title:jp: Koutetsujou no Kabaneri
 genres: [action, horror, supernatural, drama, fantasy]
 rating: [story,artwork,sound,characters]
 verdict:
 
-completed: 2021-06-20
-seen:first: 2021-02-07
+completed: "2021-06-20"
+seen:first: "2021-02-07"
 date:published: 2020
 date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/uBmcAZ7BRfVzb9nMPYm1MqpvNme.jpg

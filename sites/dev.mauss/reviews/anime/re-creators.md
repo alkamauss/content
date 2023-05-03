@@ -1,11 +1,11 @@
 ---
-released: 2017-04-08
-title:en: Re:Creators
+released: "2017-04-08"
+title:en: "Re:Creators"
 genres: [action, sci-fi, fantasy, mecha]
 rating: [story,artwork,sound,characters]
 verdict:
 
-seen:first: 2021-03-14
+seen:first: "2021-03-14"
 date:published: 2020
 date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/kVxFvpttZ8V3zog5eoFmzMVFppy.jpg

@@ -89,7 +89,7 @@ Need to make a form, capture and prevent it's default submit event, while also b
 Need a variable to be accessible across the whole app or between components? Super easy.
 
 ```javascript
-~stores.js
+#$ file: stores.js
 import { writable } from 'svelte/store';
 export const counter = writable(0);
 ```

@@ -1,5 +1,5 @@
 ---
-released: 2009-10-03
+released: "2009-10-03"
 title:en: A Certain Scientific Railgun
 title:jp: Toaru Kagaku no Railgun
 genres: [action, sci-fi, super power]
@@ -7,7 +7,7 @@ rating: [story,artwork,sound,characters]
 verdict:
 
 completed:
-seen:first: 2021-08-10T23:28:25
+seen:first: "2021-08-10T23:28:25"
 date:published: 2020
 date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/dZt1dqw0K4JGhwcqTh8yExHYK9w.jpg

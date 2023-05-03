@@ -1,9 +1,8 @@
 ---
-date: 2020-09-28T17:38:25+07:00
+date: "2020-09-28T17:38:25+07:00"
 title: What Is JWT and Do You Really Need It?
 description: What is a JSON Web Token and do you really need it for your app.
 tags: [jwt, javascript, session]
-image:en:
 ---
 
 JSON Web Token (JWT) is technically just a secure wrapper for some JSON data. It's an encoded string that's URL safe, can contain unlimited data unlike cookie, and cryptographically signed. It's great because no middleman can modify a JWT once it's sent and the server can always guarantee the data by checking the signature. Hence, it's so popular that [sessions can become stateless now](https://auth0.com/blog/stateless-auth-for-stateful-minds/).

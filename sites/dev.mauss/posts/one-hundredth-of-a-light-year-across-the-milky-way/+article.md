@@ -1,9 +1,8 @@
 ---
-date: 2020-10-24T17:38:25+07:00
+date: "2020-10-24T17:38:25+07:00"
 title: One-Hundredth of a Light-Year Across the Milky Way
 description: My journey after more than one-hundredth of a light-year across the Milky Way or over 20 revolutions around the sun
 tags: [life]
-image:en:
 ---
 
 It's sad to know that after all these years, I've only traveled a little more than one-hundredth of a light-year across the Milky Way, what a minuscule amount it is. Even after over 20 revolutions around the sun, seeing how small that number is, it just shows how tiny we are in the galaxy, just a speck of dust in the vast space of the universe.

@@ -1,11 +1,11 @@
 ---
-released: 2006-10-04
+released: "2006-10-04"
 title:en: Death Note
 genres: [mystery, psychological, supernatural, thriller, shounen]
 rating: [story,artwork,sound,characters]
 verdict:
 
-seen:first: 2021-02-21
+seen:first: "2021-02-21"
 date:published: 2020
 date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/qwuisvcM1H0iE5ov6DdkkWxuHvK.jpg

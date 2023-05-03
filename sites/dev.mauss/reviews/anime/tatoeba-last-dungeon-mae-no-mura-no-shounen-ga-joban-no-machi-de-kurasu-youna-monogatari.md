@@ -1,12 +1,12 @@
 ---
-released: 2021-01-04
+released: "2021-01-04"
 title:en: Suppose a Kid from the Last Dungeon Boonies moved to a starter town?
 title:jp: Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari
 genres: [adventure, comedy, fantasy]
 rating: [story,artwork,sound,characters]
 verdict:
 
-seen:first: 2021-04-29
+seen:first: "2021-04-29"
 date:published: 2020
 date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/mvsIMKsSlAu4XgnTsPYQf41Im0H.jpg

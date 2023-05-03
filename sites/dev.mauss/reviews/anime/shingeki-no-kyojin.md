@@ -1,12 +1,12 @@
 ---
-released: 2013-04-07
+released: "2013-04-07"
 title:en: Attack on Titan
 title:jp: Shingeki no Kyojin
 genres: [action, military, mystery, fantasy, drama, shounen]
 rating:
 verdict:
 
-seen:first: 2020-05-12
+seen:first: "2020-05-12"
 date:published: 2020
 date:updated:
 image:en: https://image.tmdb.org/t/p/original/2wxoRovckZPxxFLROZGdujJiNcC.jpg

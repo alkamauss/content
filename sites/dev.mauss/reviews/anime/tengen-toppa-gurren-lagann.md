@@ -1,12 +1,12 @@
 ---
-released: 2007-04-01
+released: "2007-04-01"
 title:en: Gurren Lagann
 title:jp: Tengen Toppa Gurren Lagann
 genres: [action, adventure, comedy, mecha, sci-fi]
 rating: [story,artwork,sound,characters]
 verdict:
 
-seen:first: 2021-01-24
+seen:first: "2021-01-24"
 date:published: 2020
 date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/1KNHEhMTzQoQnCco0lTOEsTYRtT.jpg

@@ -1,11 +1,11 @@
 ---
-released: 2016-04-04
-title:en: Re:Zero -Starting Life in Another World-
+released: "2016-04-04"
+title:en: "Re:Zero -Starting Life in Another World-"
 genres: [isekai, drama, comedy, fantasy, adventure, thriller, action]
 rating: [story,artwork,sound,characters]
 verdict:
 
-seen:first: 2021-03-25
+seen:first: "2021-03-25"
 date:published: 2020
 image:en: https://image.tmdb.org/t/p/original/5DZa4aDH5MZGcZDf8ouTxm2kH2Y.jpg
 

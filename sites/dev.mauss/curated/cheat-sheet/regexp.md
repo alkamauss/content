@@ -1,6 +1,6 @@
 ---
+date: "2020-08-09"
 title: Complete Regular Expression (RegExp) Cheat Sheet
-date:updated: 2020-08-09
 ---
 
 > Work in Progress

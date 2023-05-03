@@ -1,6 +1,6 @@
 ---
+date: "2020-08-30"
 title: Sapper Learning Resources
-date:updated: 2020-08-30
 ---
 
 ## General

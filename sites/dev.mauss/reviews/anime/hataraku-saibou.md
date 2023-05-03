@@ -1,5 +1,5 @@
 ---
-released: 2018-07-08
+released: "2018-07-08"
 title:en: Cells at Work!
 title:jp: Hataraku Saibou
 genres: [comedy, shounen]

@@ -1,9 +1,9 @@
 ---
-date: 2020-06-19T17:38:25+07:00
+date: "2020-06-19T17:38:25+07:00"
 title: Configure Static Site Hosting with your Custom Domain
 description: Quickly setup your custom domain in just a couple of steps
 tags: [tutorial, tech, nameservers]
-image:en: https://cdn.pixabay.com/photo/2019/01/31/20/52/web-3967926_960_720.jpg
+thumbnail: https://cdn.pixabay.com/photo/2019/01/31/20/52/web-3967926_960_720.jpg
 ---
 
 You've just bought a custom domain to use for your personal website, specifically a static site using some static site hosting provider like Netlify, Vercel (formerly ZEIT Now), GitHub Pages, or other selected providers. But, you can't seem to connect the pieces together, or you've done it but the website in your domain doesn't seem as responsive or quick as if you didn't use your domain. We'll be discussing on how to solve those problems here.
@@ -58,19 +58,19 @@ To prevent that from happening, we'll need to reroute the whole domain to our se
 Remember from our previous steps where they gave us their name servers, another easier way is to immediately add your custom domain to their domain management tabs. Use one of the following url for your selected provider.
 
 ```
-~Netlify Domain Management
+#$ file: Netlify Domain Management
 https://app.netlify.com/teams/TEAM_NAME/dns
 ```
 
 ```
-~Vercel Domain Management
+#$ file: Vercel Domain Management
 https://vercel.com/dashboard/domains
 ```
 
 After adding our custom domain, we could simply go to their settings and get the name servers. Netlify usually have 4 to be assigned, and Vercel has 2. It might be different for some of you, but they usually have numbers in it.
 
 ```
-~Netlify Nameservers
+#$ file: Netlify Nameservers
 dns1.p05.nsone.net
 dns2.p05.nsone.net
 dns3.p05.nsone.net
@@ -78,7 +78,7 @@ dns4.p05.nsone.net
 ```
 
 ```
-~Vercel Nameservers
+#$ file: Vercel Nameservers
 ns1.vercel-dns.com
 ns2.vercel-dns.com
 ```

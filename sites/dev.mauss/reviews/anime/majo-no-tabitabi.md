@@ -1,13 +1,13 @@
 ---
-released: 2020-10-02
+released: "2020-10-02"
 title:short: The Journey of Elaina
-title:en: Wandering Witch: The Journey of Elaina
+title:en: "Wandering Witch: The Journey of Elaina"
 title:jp: Majo no Tabitabi
 genres: [adventure, fantasy]
 rating: [story,artwork,sound,characters]
 verdict:
 
-seen:first: 2020-12-20
+seen:first: "2020-12-20"
 date:published: 2020
 date:updated: 2020
 image:en: https://image.tmdb.org/t/p/original/z5DovowisN9CKl9JYM0HXtQX1O2.jpg

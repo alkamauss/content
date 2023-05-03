@@ -1,5 +1,5 @@
 ---
-date: 2021-03-07T17:38:25+07:00
+date: "2021-03-07T17:38:25+07:00"
 title: Scheduling a Routine - a Disciplinary Process
 description: A take on a disciplinary start at life and in general
 tags: [life, discipline]

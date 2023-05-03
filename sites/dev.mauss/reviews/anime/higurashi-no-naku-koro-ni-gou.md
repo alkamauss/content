@@ -1,12 +1,12 @@
 ---
-released: 2020-10-01
-title:en: Higurashi: When They Cry – Gou
+released: "2020-10-01"
+title:en: "Higurashi: When They Cry – Gou"
 title:jp: Higurashi no Naku Koro ni Gou
 genres: [horror, mystery, supernatural, suspense]
 rating: [story,artwork,sound,characters]
 verdict:
 
-seen:first: 2020-12-01
+seen:first: "2020-12-01"
 date:published: 2020
 date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/3NiRdFXb9xz7ZFgmZ0RmoWjkTvz.jpg

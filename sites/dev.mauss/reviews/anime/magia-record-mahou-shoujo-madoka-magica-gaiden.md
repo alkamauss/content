@@ -1,13 +1,13 @@
 ---
-released: 2020-01-05
-title:en: Magia Record: Puella Magi Madoka Magica Side Story
-title:jp: Magia Record: Mahou Shoujo Madoka☆Magica Gaiden
+released: "2020-01-05"
+title:en: "Magia Record: Puella Magi Madoka Magica Side Story"
+title:jp: "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden"
 genres: [psychological, magic, thriller, drama]
 rating: [story,artwork,sound,characters]
 verdict:
 
-completed: 2021-06-29
-seen:first: 2020-11-14
+completed: "2021-06-29"
+seen:first: "2020-11-14"
 date:published: 2020
 date:updated: 2020
 image:en: https://image.tmdb.org/t/p/original/2hn2gJnTrntGWwpcugUvpncsNMK.jpg

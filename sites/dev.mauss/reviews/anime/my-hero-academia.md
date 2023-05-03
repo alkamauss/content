@@ -1,13 +1,13 @@
 ---
-released: 2016-04-03
+released: "2016-04-03"
 title:en: My Hero Academia
 title:jp: Boku no Hero Academia
 genres: [action, comedy, school, shounen]
 rating:
 verdict:
 
-completed:4: 2021-09-26T18:04:14
-seen:first: 2020-07-02
+completed:4: "2021-09-26T18:04:14"
+seen:first: "2020-07-02"
 date:published: 2020
 date:updated:
 image:en: https://image.tmdb.org/t/p/original/mWHCII5OWHx5pRSN2VYYLvT8DbB.jpg

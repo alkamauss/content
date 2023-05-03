@@ -1,9 +1,9 @@
 ---
-date: 2020-10-14T17:38:25+07:00
+date: "2020-10-14T17:38:25+07:00"
 title: Protect Your Cookies
 description: Learn why you should care about your cookies and how you can protect by securing it
 tags: [tech, cookies, http]
-image:en: https://cdn.pixabay.com/photo/2016/11/17/22/53/biscuit-1832917_960_720.jpg
+thumbnail: https://cdn.pixabay.com/photo/2016/11/17/22/53/biscuit-1832917_960_720.jpg
 ---
 
 Most modern web application would certainly use cookies to send and receive data between client and server. But, it's not always the safest solution if it isn't implemented correctly. Read on to learn more on why you need to protect your cookies and how you can do it.
@@ -23,7 +23,7 @@ Cross-site scripting (XSS) is one the most dangerous vulnerabilities an applicat
 Browsers do provide a way to protect cookies from the most malicious JavaScript, but it's still up to us to utilize those tools as the developers, it's called HttpOnly cookies. This flag tells the browser that this particular cookie should only be accessible by the server, it means no JavaScript executed from the client-side would be able to access this. Of course, this only works with the assumption that it's a modern browser that implements HttpOnly correctly.
 
 ```javascript
-~Sapper-flavoured Express
+#$ file: Sapper-flavoured Express
 export async function post(req, res) {
   ...
   res.cookie('token', 'my-token-string', { httpOnly: true }); // Set-Cookie with httpOnly

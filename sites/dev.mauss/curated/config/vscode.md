@@ -1,6 +1,6 @@
 ---
+date: "2020-08-08"
 title: VS Code Configuration - Extensions and Settings
-date:updated: 2020-08-08
 ---
 
 This is my curated list of VS Code extensions that I have installed and its corresponding settings, fully synced on all of my machines. Each extensions has its own purpose and unique perks, I'll explain it briefly for each item in this list.
@@ -10,7 +10,7 @@ I will list all the extensions complete with its name and url link to the market
 ## Editor Enhancements
 
 ```json
-~Built-in settings
+#$ file: Built-in settings
 "editor.suggest.snippetsPreventQuickSuggestions": false,
 ```
 
@@ -38,7 +38,7 @@ I only use this to format my `html` files, everything else uses Prettier.
 From [editorconfig.org](https://editorconfig.org/), it helps maintain consistent coding styles for multiple developers across various editors and IDEs. A lot of editors should natively support this, but VS Code doesn't, so this is where the plugin comes in. Below is my current goto config, will be updated frequently as I get used to it.
 
 ```ini
-~.editorconfig
+#$ file: .editorconfig
 root = true
 
 [*]
@@ -343,7 +343,7 @@ XML and YAML language support with syntax highlighting by Red Hat.
 ## Complete User Configuration
 
 ```json
-~VS Code Version 1.47.3
+#$ file: VS Code Version 1.47.3
 {
   "beautify.language": {
     "js": {},

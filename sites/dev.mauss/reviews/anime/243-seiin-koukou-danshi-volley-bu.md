@@ -1,14 +1,14 @@
 ---
-released: 2021-01-08
-title:en: 2.43: Seiin High School Boys Volleyball Team
-title:jp: 2.43: Seiin Koukou Danshi Volley-bu
+released: "2021-01-08"
+title:en: "2.43: Seiin High School Boys Volleyball Team"
+title:jp: "2.43: Seiin Koukou Danshi Volley-bu"
 genres: [sports, slice of life, drama, school]
 rating: [story,artwork,sound,characters]
 verdict:
 
-seen:first: 2021-03-26
-date:published: 2020
-date:updated: 2020
+seen:first: "2021-03-26"
+date:published: "2020"
+date:updated: "2020"
 image:en: https://www.themoviedb.org/t/p/original/utYAqKUQdUOVVQlM2FJBTWdONf9.jpg
 image:jp: https://www.themoviedb.org/t/p/original/5YPnuuDYqRTkdmeNUzb52ZwW9JT.jpg
 backdrop: https://www.themoviedb.org/t/p/original/3X96zO7PnN0iIWubiI2tAThrhqL.jpg

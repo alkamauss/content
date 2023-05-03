@@ -1,9 +1,9 @@
 ---
-date: 2020-07-03T17:38:25+07:00
+date: "2020-07-03T17:38:25+07:00"
 title: How to Set up Sapper With cPanel
 description: Setup your Node app with cPanel hosting
 tags: [tutorial, cPanel, nodejs, pm2, sapper, hosting]
-image:en: https://cdn.pixabay.com/photo/2018/05/16/18/16/cloud-3406627_960_720.jpg
+thumbnail: https://cdn.pixabay.com/photo/2018/05/16/18/16/cloud-3406627_960_720.jpg
 ---
 
 I don't think I've seen a single post on how to properly set up a Node.js application in a shared or dedicated hosting with cPanel. Especially with what small community Svelte has, I thought I may as well contribute by sharing my experience on setting up a production-ready application bundle.
@@ -18,11 +18,11 @@ It's today I'm finally successful on setting up my Sapper application in my host
 
 Let's get started by first making sure that your hosting provider **provides a Node.js development environment and SSH access**. You should be able to find it in their pricing and features page they provide. If you can't find it, either contact the support first or make sure they provide a guaranteed refund so you can buy and test it for yourself first.
 
-![Software list provided in cPanel](/assets/uploads/tutorial/cpanel-software.png)
+![Software list provided in cPanel](./cpanel-software.png)
 
 You should then be able to find this section in your cPanel page, click on the `Setup Node.js App` and click on `Create Application`. You'll see a form like presented below, fill each one according to your needs and preference.
 
-![Node app setup configuration](/assets/uploads/tutorial/cpanel-node-setup.png)
+![Node app setup configuration](./cpanel-node-setup.png)
 
 Here's the explanation for each field,
 
@@ -65,7 +65,7 @@ npm install
 This will install all our required server dependencies to run it. While waiting for it to finish, create `server.js`. This is the file we defined as the `application startup file` when creating our Node application. It should only contain one line that points it to the server index file.
 
 ```javascript
-~server.js
+#$ file: server.js
 require('__sapper__/build/index.js');
 ```
 
@@ -87,7 +87,7 @@ npx pm2 start server.js
 If you want more customizability, you can run `pm2 init` and it will generate a file called `ecosystem.config.js` that you can customize for you liking. Below is my configuration file
 
 ```javascript
-~ecosystem.config.js
+#$ file: ecosystem.config.js
 module.exports = {
   apps : [{
     name: 'web',
@@ -110,7 +110,7 @@ pm2 restart web
 Now here comes the crucial part, because most hosting providers won't allow you to connect to a specific port, or I'll assume all of you want your users to go to your website without adding `:3000` to the end of the domain, we'll need to route the traffic using the built-in Apache proxy server with an `.htaccess` file located in our `public_html` folder. You should be able to just copy the configuration below and paste it in yours.
 
 ```properties
-~.htaccess
+#$ file: .htaccess
 RewriteEngine On
 
 RewriteCond %{HTTPS} off

@@ -1,6 +1,6 @@
 ---
-released: 2011-10-04
-title:en: The Heroes of Olympus: The Son of Neptune
+released: "2011-10-04"
+title:en: "The Heroes of Olympus: The Son of Neptune"
 genres: [adventure, fantasy, mystery]
 rating:
 verdict:

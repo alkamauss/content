@@ -1,13 +1,13 @@
 ---
-released: 2021-01-11
+released: "2021-01-11"
 title:short: Mushoku Tensei
-title:en: Mushoku Tensei: Jobless Reincarnation
-title:jp: Mushoku Tensei: Isekai Ittara Honki Dasu
+title:en: "Mushoku Tensei: Jobless Reincarnation"
+title:jp: "Mushoku Tensei: Isekai Ittara Honki Dasu"
 genres: [fantasy, magic, drama, isekai]
 rating: [story,artwork,sound,characters]
 verdict:
 
-seen:first: 2021-04-30
+seen:first: "2021-04-30"
 date:published: 2020
 date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/fSHa8kwMPhD29grGX3miBq1BWCN.jpg

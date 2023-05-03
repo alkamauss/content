@@ -1,12 +1,12 @@
 ---
-released: 2018-01-02
+released: "2018-01-02"
 title:en: A Place Further Than The Universe
 title:jp: Sora yori mo Tooi Basho
 genres: [slice of life, adventure, comedy, drama]
 rating: [story,artwork,sound,characters]
 verdict:
 
-seen:first: 2020-12-25
+seen:first: "2020-12-25"
 date:published: 2020
 date:updated: 2020
 image:en: https://image.tmdb.org/t/p/original/iERXyBf0K6DfAQ8oKEYrdjf1vIs.jpg

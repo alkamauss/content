@@ -1,12 +1,12 @@
 ---
-released: 2011-01-07
+released: "2011-01-07"
 title:en: Puella Magi Madoka Magica
 title:jp: Mahou Shoujo Madoka★Magica
 genres: [psychological, magic, drama, thriller]
 rating: [story,artwork,sound,characters]
 verdict:
 
-seen:first: 2021-04-28
+seen:first: "2021-04-28"
 date:published: 2020
 date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/48GLvRh3lgh5gjl0uVen60bslRM.jpg

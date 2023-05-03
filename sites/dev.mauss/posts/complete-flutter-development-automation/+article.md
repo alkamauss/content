@@ -1,9 +1,8 @@
 ---
-date: 2020-04-30T17:38:25+07:00
+date: "2020-04-30T17:38:25+07:00"
 title: Complete Flutter Development Automation
 description: Check out how to automate your Flutter development workflow
 tags: [ppl2020, flutter, devops, gitlab]
-
 ---
 
 ![Flutter Logo](https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png)
@@ -44,7 +43,7 @@ Either that, or the startup you're aiming for is using one technology (usually j
 
 I really can't think of any other reasons why we shouldn't start using Flutter to develop any **future** mobile apps. It is, in fact, the fastest and hottest rising stack in the current mobile development world.
 
-[![Flutter trend comparison](/assets/uploads/ppl2020/flutter-trend.svg)](https://insights.stackoverflow.com/trends?tags=flutter%2Creact-native%2Cionic-framework%2Ckotlin%2Cswift%2Cxamarin.android)
+[![Flutter trend comparison](./flutter-trend.svg)](https://insights.stackoverflow.com/trends?tags=flutter%2Creact-native%2Cionic-framework%2Ckotlin%2Cswift%2Cxamarin.android)
 
 If you're still not convinced yet... excluding Swift, which is slowly going down on the trend, Flutter is the highest on the chart! It is on its way to beat native languages like Swift, Java, and Kotlin.
 
@@ -99,7 +98,7 @@ To build the image, we first need to have docker install on our system. Once we 
 
 <!-- ```dockerfile TODO https://github.com/shikijs/shiki/issues/458  -->
 ```docker
-~Dockerfile
+#$ file: Dockerfile
 FROM ubuntu:latest
 
 RUN mkdir /development
@@ -178,7 +177,7 @@ Thankfully, we have automation in our side! Flutter's linter is so verbose and e
 Like any other projects, having to wait and download the same exact stuff again and again is tedious and time-wasting. So, we're going to use our own image that we built in the previous section.
 
 ```yaml
-~.gitlab-ci.yml
+#$ file: .gitlab-ci.yml
 image: ignatiusmb/ppl2020-flutter:latest
 
 # This is optional, you can follow this stages exactly or have your own
@@ -193,7 +192,7 @@ stages:
 If all your needs are all covered by the `Dockerfile`, you can absolutely use this exact image too. Then, all you have to do is specify your stages according to your needs, this one's for linting and it's the first stage (lint).
 
 ```yaml
-~.gitlab-ci.yml
+#$ file: .gitlab-ci.yml
 lint:codebase:
   stage: lint
   script:
@@ -203,7 +202,7 @@ lint:codebase:
 That's it! Now every time you commit and pushed new code to the repository, it will automatically run as a new job in the pipelines and lint the newly added code. That's not the only fun part though, we're going to add automated tests and coverage too, this is the second stage (test).
 
 ```yaml
-~.gitlab-ci.yml
+#$ file: .gitlab-ci.yml
 test:coverage:
   stage: test
   script:
@@ -218,7 +217,7 @@ test:coverage:
 You'll need to pass the results as an artifact for the next stage which they need to create the analysis, we'll save it in the $CI_PROJECT_DIR in the coverage folder. We'll also show the coverage in the terminal at line 5. We're going to use the artifact to create our analysis as well as send it to the server, this is the fourth stage (analysis).
 
 ```yaml
-~.gitlab-ci.yml
+#$ file: .gitlab-ci.yml
 analysis:quality:
   image: ignatiusmb/sonarscanner-flutter:1.0.0
   stage: analysis
@@ -265,7 +264,7 @@ Before we continue, we're going to create a helper script so in case we want to 
 This is absolutely optional, if you only have one deployment stage, you can just immediately write this in the `before_script`
 
 ```yaml
-~.gitlab-ci.yml
+#$ file: .gitlab-ci.yml
 .before_deploy:
   before_script:
     - appcenter login --token $APP_CENTER_API_KEY
@@ -278,7 +277,7 @@ This is absolutely optional, if you only have one deployment stage, you can just
 Then, all we have to do is extend our pre-made script, build the apk on release mode, and use appcenter cli to distribute it, this is the final stage (deploy).
 
 ```yaml
-~.gitlab-ci.yml
+#$ file: .gitlab-ci.yml
 deploy:production:
   extends: .before_deploy
   stage: deploy

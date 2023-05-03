@@ -1,12 +1,12 @@
 ---
-released: 2019-08-30
+released: "2019-08-30"
 title:short: KONOSUBA - Legend of Crimson
 title:en: KONOSUBA -God's blessing on this wonderful world!- Legend of Crimson
 genres: [animation, adventure, comedy, fantasy, magic]
 rating: [story,artwork,sound,characters]
 verdict:
 
-seen:first: 2020-11-05
+seen:first: "2020-11-05"
 date:published: 2020
 date:updated: 2020
 image:en: https://image.tmdb.org/t/p/original/fv5BgcfkpWh3V6Pb1qVlXESBOdl.jpg

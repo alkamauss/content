@@ -1,12 +1,12 @@
 ---
-date: 2018-12-19T17:38:25+07:00
+date: "2018-12-19T17:38:25+07:00"
 title: Monitor your Raspberry Pi in Real Time with RPi-Monitor
 tags: [tutorial, raspi]
 ---
 
 Have you ever wanted to see the statistics of your mini-server or any IoT device that works 24/7 and wondered what happened during all those time? Well, lucky you found this post.
 
-![RPi-Monitor Interface](/assets/uploads/tutorial/thumbnail/raspberry-pi-real-time-monitoring.jpg)
+![RPi-Monitor Interface](./thumbnail.jpg)
 
 **RPi-Monitor** is an application designed to perform real time monitoring embedded devices. It provides a lot of feature such as Embedded Web server, Alert messaging, SNMP integration, etc.
 

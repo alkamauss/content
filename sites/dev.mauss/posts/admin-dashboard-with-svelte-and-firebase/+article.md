@@ -1,11 +1,11 @@
 ---
-date: 2020-05-11T17:38:25+07:00
+date: "2020-05-11T17:38:25+07:00"
 title: Admin Dashboard with Svelte and Firebase
 description: Creating a full-fledged admin dashboard in under 3 hours
 tags: [ppl2020, svelte, firebase, sapper, javascript, audit, lighthouse]
 ---
 
-![Admin Dashboard Login](/assets/uploads/ppl2020/admin-login.png)
+![Admin Dashboard Login](./admin-login.png)
 
 A full-fledged admin dashboard in under 3 hours. Can you really believe it?! It's not really magic, it's just Svelte and good programming practices. This could fall as a massive refactor, though some might say its a rewrite, both points before still stands.
 
@@ -24,7 +24,7 @@ This admin dashboard is a simple web application for admins to simply view and u
 For example, one of our components is this `Button.svelte` that scopes the style and encapsulates any logic that happens to just this component.
 
 ```svelte
-~Button.svelte
+#$ file: Button.svelte
 <span on:click>
   <slot />
 </span>
@@ -47,7 +47,7 @@ For example, one of our components is this `Button.svelte` that scopes the style
 Then, we can just import that component and use it wherever we need to. That `on:click` we declare in `Button.svelte` component is used to forward the event so we can call it where we import it, like so
 
 ```svelte
-~App.svelte
+#$ file: App.svelte
 <script>
   import Button from './Button.svelte';
 </script>
@@ -67,14 +67,14 @@ There's of course other components that have more logic than just a plain button
 
 Let's take a look at our previous project structure with Sapper.
 
-![ssr-structure](/assets/uploads/ppl2020/ssr.png)
+![ssr-structure](./ssr-structure.png)
 
 It's quite bloated in my opinion, with repeated files in `routes` folder, it's required by Sapper to create the defined routes for the client to navigate to. Though Sapper makes it easy for us to create a path using files as routers, it's not really needed for our case here.
 
 Our components are no different, but all of those files serve as the foundations of our application structure. It may look like a lot of files, but it allows us to reduce our LOC (especially duplicated ones) significantly. So we'll ignore it from our comparison.
 
 ```
-~SSR Project Structure
+#$ file: SSR Project Structure
 src
 ├── components
 │   ├── BackButton.svelte
@@ -110,14 +110,14 @@ src
 
 Now here's the current project structure after our migration to Svelte.
 
-![spa-structure](/assets/uploads/ppl2020/spa.png)
+![spa-structure](./spa-structure.png)
 
 Quite the trim isn't it? We've successfully removed many unnecessary files and even converted our app into a single-page application that could run independently without a backend server. This means we could host our website anywhere that supports static site hosting like GitHub Pages, Netlify, Now, Surge, or others alike.
 
 Choosing to host a server or use a static site is still much of a debate right now, although the majority of developers seems to prefer static site now since it provides a lot more benefits. Keep in mind, it doesn't backend servers are completely obsolete now, but we just don't need it for this project.
 
 ```
-~SPA Project Structure
+#$ file: SPA Project Structure
 src
 ├── components
 │   ├── BackButton.svelte
@@ -146,7 +146,7 @@ Because our components are self-contained too, I've literally copy and pasted th
 The only new component I added was `Loader.svelte` to give a more lively app for the user to see while the app is loading. You can see it for yourself or even use this for your own app. Just copy the code below and paste it to the [Svelte REPL](https://svelte.dev/repl)
 
 ```svelte
-~Loader.svelte
+#$ file: Loader.svelte
 <script>
   // https://github.com/sw-yx/svelte-data-fetching/blob/master/src/Spinner.svelte
   // courtesy of @sw-yx, modified by @ignatiusmb
@@ -203,7 +203,7 @@ In short, we had a hard time developing and our users are going to have a hard t
 For some reason, Firebase can't be bundled together with the others and as such requires us to put it in through the `<script>` tags in its `template.html` file to be loaded through a CDN. We then created a function to check to if `firestore` is loaded yet.
 
 ```javascript
-~client.js
+#$ file: client.js
 import * as sapper from '@sapper/app';
 import { firebaseConfig } from './firebaseConfig';
 
@@ -219,7 +219,7 @@ sapper.start({
 `client.js` is Sapper's file of saying anything in this file will be loaded on the client-side. We're initializing firebase here and appending the auth and firestore function to the global `window` object.
 
 ```javascript
-~firebase.js
+#$ file: firebase.js
 import { firebaseConfig } from './firebaseConfig';
 
 export async function firestore() {
@@ -238,7 +238,7 @@ By using Sapper, we're relying on its backend server to render the page for the 
 Because Sapper's SSR uses node engine from the `<script context="module">` and doesn't have access to the global `window` object, we're going to use the `firebase.js` to check which Firebase instance we're going to use. That's a special script tag that is executed before the page is mounted, Sapper makes use of this to preload its data so it takes the weight for the server to handle.
 
 ```svelte
-~kasus/index.svelte
+#$ file: kasus/index.svelte
 <script context="module">
   import { firestore } from '../../firebase';
   export async function preload(page, session) {
@@ -267,7 +267,7 @@ Because Sapper's SSR uses node engine from the `<script context="module">` and d
 Because we're importing Firebase every time the route changes, it puts unnecessary load and time just to check and load Firebase again. Our main problem comes with the layout
 
 ```svelte
-~_layout.svelte
+#$ file: _layout.svelte
 <script>
   export let segment;
   import Sidebar from '../components/Sidebar.svelte';
@@ -324,15 +324,15 @@ Of course, the performance difference is significant as well, especially after w
 
 This is the audit results for our SSR application
 
-![SSR Lighthouse Audit](/assets/uploads/ppl2020/ssr-lighthouse.png)
-![SSR Lighthouse Performance](/assets/uploads/ppl2020/ssr-performance.png)
+![SSR Lighthouse Audit](./ssr-lighthouse.png)
+![SSR Lighthouse Performance](./ssr-performance.png)
 
 ---
 
 This is the audit results for our SPA application
 
-![SPA Lighthouse Audit](/assets/uploads/ppl2020/spa-lighthouse.png)
-![SPA Lighthouse Performance](/assets/uploads/ppl2020/spa-performance.png)
+![SPA Lighthouse Audit](./spa-lighthouse.png)
+![SPA Lighthouse Performance](./spa-performance.png)
 
 Let's ignore Accessibility and SEO since this is specifically made for desktop use and we don't really intend this for public use. Best Practices on the other hand is the exact same so you know that we literally migrated the app with no major changes between it.
 
@@ -347,7 +347,7 @@ Looking at the opportunities, diagnostics, and passed audits, our SPA app perfor
 Just Svelte itself is so simple and easy to use. It provides quick application development workflow and its results are so good. Here's how we integrate Firebase with Svelte and we'll be using a package called `sveltefire`
 
 ```svelte
-~App.svelte
+#$ file: App.svelte
 <script>
   import { FirebaseApp, User, Doc, Collection } from 'sveltefire';
   import firebase from 'firebase/app';
@@ -377,7 +377,7 @@ Just Svelte itself is so simple and easy to use. It provides quick application d
 Inside the `<FirebaseApp>` tag, we'll handle everything including our sign-in handling and signed in user data.
 
 ```svelte
-~App.svelte
+#$ file: App.svelte
 <script>
   import Login from './components/Login.svelte';
 
@@ -426,7 +426,7 @@ Inside the `<FirebaseApp>` tag, we'll handle everything including our sign-in ha
 When the user is logged in, it enters the `<main>` tag and they're given a `<Sidebar>` with `auth` prop from `<User>` for signing out and `admin` data from `<Doc>` to get the `currentUser` email and data such as role and authorities.
 
 ```javascript
-~store.js
+#$ file: store.js
 import { writable } from 'svelte/store';
 
 export const tab = writable('kasus');
@@ -437,7 +437,7 @@ export const assign = writable(null);
 `store.js` just contains writable stores for all svelte files to use. It's basically a global state container to pass data without passing props up and down through the tree.
 
 ```svelte
-~Login.svelte
+#$ file: Login.svelte
 <script>
   export let error;
 
@@ -470,12 +470,12 @@ export const assign = writable(null);
 
 `Login.svelte` receives an `error` prop to show when it's not an empty string. It also passes a dispatched event on form submit with `preventDefault` preventing the default behavior from executing. Using Svelte's two-way binding `bind:value`, we pass the inputs from the filled in form as an object to dispatch for `App.svelte` to be processed.
 
-![Admin Dashboard Kasus Page](/assets/uploads/ppl2020/admin-kasus.png)
+![Admin Dashboard Kasus Page](./admin-kasus.png)
 
-![Admin Dashboard Advokat Page](/assets/uploads/ppl2020/admin-advokat.png)
+![Admin Dashboard Advokat Page](./admin-advokat.png)
 
 ```svelte
-~App.svelte
+#$ file: App.svelte
 <script>
   import { tab, action, assign } from './store';
 </script>
@@ -522,7 +522,7 @@ Using and managing svelte store is quite tricky to do manually, so we'll be usin
 Here's one of the pages with actions and sub-action (assign), one of the tricky ones for me
 
 ```svelte
-~App.svelte
+#$ file: App.svelte
 <script>
   import { tab, action, assign } from './store';
 
@@ -596,7 +596,7 @@ We also check if the advocate `isVerified`, does not have the same `id` as the `
 `<PromptUser>` is a modal that receives a `show` prop and `on:click` event.
 
 ```svelte
-~PromptUser.svelte
+#$ file: PromptUser.svelte
 <script>
   export let show;
   import { fly } from 'svelte/transition';

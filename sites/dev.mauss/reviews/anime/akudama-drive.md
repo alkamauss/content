@@ -1,14 +1,14 @@
 ---
-released: 2020-10-08
+released: "2020-10-08"
 title:en: Akudama Drive
 title:jp:
 genres: [action, sci-fi]
 rating: [story,artwork,sound,characters]
 verdict:
 
-seen:first: 2020-12-25
-date:published: 2020
-date:updated: 2020
+seen:first: "2020-12-25"
+date:published: "2020"
+date:updated: "2020"
 image:en: https://image.tmdb.org/t/p/original/1s3fwsH3AjuyzObYHiptiYRgFa.jpg
 image:jp: https://image.tmdb.org/t/p/original/e0xNHFFiMJbU1eGu9d1fMKFecr7.jpg
 backdrop: https://image.tmdb.org/t/p/original/iUJpT94rezsCxM57sgo4egMTOyz.jpg

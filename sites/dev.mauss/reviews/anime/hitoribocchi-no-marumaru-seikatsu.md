@@ -1,12 +1,12 @@
 ---
-released: 2019-04-06
+released: "2019-04-06"
 title:en: Hitoribocchi no Marumaru Seikatsu
 genres: [comedy, school, slice of life, shounen]
 rating: [story,artwork,sound,characters]
 verdict:
 
-completed: 2021-06-27
-seen:first: 2020-12-01
+completed: "2021-06-27"
+seen:first: "2020-12-01"
 date:published: 2020
 date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/q1Z1zzbcUfPWW2bdUqra5iJ2MiS.jpg

@@ -1,12 +1,12 @@
 ---
-released: 2018-04-06
+released: "2018-04-06"
 title:en: Hinamatsuri
 genres: [comedy, sci-fi, slice of life, supernatural]
 rating: [story,artwork,sound,characters]
 verdict:
 
-completed: 2021-10-17T01:01:36
-seen:first: 2021-10-02T11:12:14
+completed: "2021-10-17T01:01:36"
+seen:first: "2021-10-02T11:12:14"
 date:published: 2020
 date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/1RLXQqX3Lv50uBECZIzuqGW887t.jpg

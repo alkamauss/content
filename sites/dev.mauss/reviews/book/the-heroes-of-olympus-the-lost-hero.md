@@ -1,6 +1,6 @@
 ---
-released: 2010-10-12
-title:en: The Heroes of Olympus: The Lost Hero
+released: "2010-10-12"
+title:en: "The Heroes of Olympus: The Lost Hero"
 genres: [adventure, fantasy, mystery]
 rating:
 verdict:

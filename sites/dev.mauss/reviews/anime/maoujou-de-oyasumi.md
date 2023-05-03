@@ -1,12 +1,12 @@
 ---
-released: 2020-10-06
+released: "2020-10-06"
 title:en: Sleepy Princess in the Demon Castle
 title:jp: Maoujou de Oyasumi
 genres: [slice of life, comedy, supernatural, magic, fantasy, shounen]
 rating: [story,artwork,sound,characters]
 verdict:
 
-seen:first: 2020-12-22
+seen:first: "2020-12-22"
 date:published: 2020
 date:updated: 2020
 image:en: https://image.tmdb.org/t/p/original/3bmu7Mg7Sc6IfHgvt98WNChaOkR.jpg

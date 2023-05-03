@@ -1,13 +1,13 @@
 ---
-released: 2017-04-07
+released: "2017-04-07"
 title:en: The Moon Is Beautiful
 title:jp: Tsuki ga Kirei
 genres: [romance, school]
 rating: [story,artwork,sound,characters]
 verdict:
 
-completed: 2021-07-06
-seen:first: 2020-12-11
+completed: "2021-07-06"
+seen:first: "2020-12-11"
 date:published: 2020
 date:updated: 2020
 image:en: https://image.tmdb.org/t/p/original/5JtqWxw69IanadNcraJ9v6Ccj2W.jpg
