@@ -4,7 +4,7 @@ title:en: Sound! Euphonium
 title:jp: Hibike! Euphonium
 genres: [music, school, drama]
 rating: [story,artwork,sound,characters]
-verdict:
+verdict: pending
 
 seen:first: 2020
 date:published: 2020

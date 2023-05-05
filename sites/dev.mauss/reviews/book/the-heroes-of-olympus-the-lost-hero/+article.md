@@ -3,7 +3,7 @@ released: "2010-10-12"
 title:en: "The Heroes of Olympus: The Lost Hero"
 genres: [adventure, fantasy, mystery]
 rating:
-verdict:
+verdict: pending
 
 seen:first: 2020
 date:published: 2020

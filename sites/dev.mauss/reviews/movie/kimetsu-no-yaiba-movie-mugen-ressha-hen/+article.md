@@ -4,7 +4,7 @@ title:en: "Demon Slayer the Movie: Mugen Train"
 title:jp: "Kimetsu no Yaiba Movie: Mugen Ressha-hen"
 genres: [animation, action, demons, supernatural, shounen]
 rating: [9,10,10,10]
-verdict:
+verdict: pending
 
 seen:first: "2021-01-15"
 date:published: 2020

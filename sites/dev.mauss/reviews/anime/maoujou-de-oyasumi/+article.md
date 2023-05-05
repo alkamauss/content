@@ -4,7 +4,7 @@ title:en: Sleepy Princess in the Demon Castle
 title:jp: Maoujou de Oyasumi
 genres: [slice of life, comedy, supernatural, magic, fantasy, shounen]
 rating: [story,artwork,sound,characters]
-verdict:
+verdict: pending
 
 seen:first: "2020-12-22"
 date:published: 2020

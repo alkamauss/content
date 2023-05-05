@@ -3,7 +3,7 @@ released: "2011-10-04"
 title:en: "The Heroes of Olympus: The Son of Neptune"
 genres: [adventure, fantasy, mystery]
 rating:
-verdict:
+verdict: pending
 
 seen:first: 2020
 date:published: 2020

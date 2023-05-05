@@ -4,7 +4,7 @@ title:en: Fire Force
 title:jp: Enen no Shouboutai
 genres: [action, supernatural, shounen, comedy]
 rating: [story,artwork,sound,characters]
-verdict:
+verdict: pending
 
 seen:first: "2020-12-16"
 date:published: 2020

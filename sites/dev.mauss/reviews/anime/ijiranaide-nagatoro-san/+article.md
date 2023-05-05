@@ -4,7 +4,7 @@ title:en: Don't Toy with Me, Miss Nagatoro
 title:jp: Ijiranaide, Nagatoro-san
 genres: [slice of life, comedy, romance]
 rating: [story,artwork,sound,characters]
-verdict:
+verdict: pending
 
 completed: "2021-06-27"
 seen:first: "2021-04-11"

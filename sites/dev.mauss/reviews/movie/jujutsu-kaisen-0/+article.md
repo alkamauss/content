@@ -3,7 +3,7 @@ released: "2021-12-24"
 title:en: Jujutsu Kaisen 0
 genres: [animation]
 rating: [story,artwork,sound,characters]
-verdict:
+verdict: pending
 
 completed: "2022-03-14T18:04:00"
 seen:first: "2022-03-14T16:26:00"

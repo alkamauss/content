@@ -3,7 +3,7 @@ released: "2016-07-02"
 title:en: ReLIFE
 genres: [slice of life, romance, drama]
 rating:
-verdict:
+verdict: pending
 
 seen:first: "2020-05-30"
 date:published: 2020

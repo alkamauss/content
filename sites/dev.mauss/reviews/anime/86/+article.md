@@ -3,7 +3,7 @@ released: "2021-04-11"
 title:en: "86: Eighty Six"
 genres: [action, drama, sci-fi]
 rating: [story,artwork,sound,characters]
-verdict:
+verdict: pending
 
 completed: "2022-10-07T20:50:00+07:00"
 seen:first: "2022-10-06T17:58:00+07:00"

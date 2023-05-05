@@ -4,7 +4,7 @@ title:en: "My Hero Academia: Two Heroes"
 title:jp: "Boku no Hero Academia: Futari no Hero"
 genres: [animation, action, shounen, super power]
 rating: [6,10,8,7]
-verdict:
+verdict: pending
 
 seen:first: "2020-07-19"
 date:published: 2020

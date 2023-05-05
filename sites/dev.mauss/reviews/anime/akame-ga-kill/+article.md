@@ -3,7 +3,7 @@ released: "2014-07-07"
 title:en: Akame ga Kill!
 genres: [action, adventure, drama, fantasy, shounen]
 rating: [story,artwork,sound,characters]
-verdict:
+verdict: pending
 
 seen:first: "2020"
 date:published: "2020"

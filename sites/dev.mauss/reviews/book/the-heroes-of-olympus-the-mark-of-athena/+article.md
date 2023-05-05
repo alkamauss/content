@@ -3,7 +3,7 @@ released: "2012-10-02"
 title:en: "The Heroes of Olympus: The Mark of Athena"
 genres: [adventure, fantasy, mystery]
 rating:
-verdict:
+verdict: pending
 
 seen:first: 2020
 date:published: 2020

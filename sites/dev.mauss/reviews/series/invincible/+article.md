@@ -3,7 +3,7 @@ released: "2021-03-26"
 title:en: Invincible
 genres: [animation, action, sci-fi, fantasy]
 rating: [story,artwork,sound,characters]
-verdict:
+verdict: pending
 
 seen:first: "2021-05-15"
 date:published: 2020

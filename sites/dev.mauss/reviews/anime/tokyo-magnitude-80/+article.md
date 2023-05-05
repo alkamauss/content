@@ -3,7 +3,7 @@ released: "2009-07-10"
 title:en: Tokyo Magnitude 8.0
 genres: [drama]
 rating: [story,artwork,sound,characters]
-verdict:
+verdict: pending
 
 completed: "2021-07-30T20:54:08"
 seen:first: "2021-02-06"

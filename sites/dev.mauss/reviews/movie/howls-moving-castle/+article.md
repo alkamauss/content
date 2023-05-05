@@ -3,7 +3,7 @@ released: "2004-11-20"
 title:en: Howl's Moving Castle
 genres: [animation, adventure, drama, fantasy, romance]
 rating: [9,10,9,9]
-verdict:
+verdict: pending
 
 seen:first: "2020-10-03"
 date:published: 2020

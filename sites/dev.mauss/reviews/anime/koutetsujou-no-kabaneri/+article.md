@@ -4,7 +4,7 @@ title:en: Kabaneri of the Iron Fortress
 title:jp: Koutetsujou no Kabaneri
 genres: [action, horror, supernatural, drama, fantasy]
 rating: [story,artwork,sound,characters]
-verdict:
+verdict: pending
 
 completed: "2021-06-20"
 seen:first: "2021-02-07"

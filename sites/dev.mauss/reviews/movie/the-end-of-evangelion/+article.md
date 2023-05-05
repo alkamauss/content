@@ -3,7 +3,7 @@ released: "1997-07-19"
 title:en: "Neon Genesis Evangelion: The End of Evangelion"
 genres: [animation, drama, mecha, psychological, sci-fi]
 rating: [story,artwork,sound,characters]
-verdict:
+verdict: pending
 
 completed: "2022-11-02T00:37:00+07:00"
 seen:first: "2022-11-01T23:02:00+07:00"

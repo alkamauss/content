@@ -3,7 +3,7 @@ released: "2016-07-11"
 title:en: Mob Psycho 100
 genres: [action, comedy, supernatural]
 rating: [10,9,10,10]
-verdict:
+verdict: pending
 
 seen:first: "2020-07-14"
 date:published: 2020

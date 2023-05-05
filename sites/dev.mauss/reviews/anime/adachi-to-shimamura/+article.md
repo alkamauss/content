@@ -4,7 +4,7 @@ title:en: Adachi and Shimamura
 title:jp: Adachi to Shimamura
 genres: [slice of life, romance, school, shoujo ai]
 rating: [story,artwork,sound,characters]
-verdict:
+verdict: pending
 
 seen:first: "2020-12-27"
 date:published: "2020"

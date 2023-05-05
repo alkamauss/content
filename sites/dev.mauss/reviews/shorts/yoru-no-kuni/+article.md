@@ -4,7 +4,7 @@ title:en: Night World
 title:jp: Yoru no Kuni
 genres: [animation, slice of life, romance]
 rating: [story,artwork,sound,characters]
-verdict:
+verdict: pending
 
 seen:first: "2021-05-10"
 date:published: 2020

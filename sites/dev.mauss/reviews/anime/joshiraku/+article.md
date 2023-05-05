@@ -3,7 +3,7 @@ released: "2012-07-06"
 title:en: Joshiraku
 genres: [comedy, slice of life]
 rating: [story,artwork,sound,characters]
-verdict:
+verdict: pending
 
 seen:first: "2022-02-06T13:45:35"
 date:published: 2020

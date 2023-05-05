@@ -4,7 +4,7 @@ title:en: My Hero Academia
 title:jp: Boku no Hero Academia
 genres: [action, comedy, school, shounen]
 rating:
-verdict:
+verdict: pending
 
 completed:4: "2021-09-26T18:04:14"
 seen:first: "2020-07-02"

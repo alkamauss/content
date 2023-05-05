@@ -3,7 +3,7 @@ released: "2017-01-09"
 title:en: Gabriel DropOut
 genres: [comedy, supernatural]
 rating: [story,artwork,sound,characters]
-verdict:
+verdict: pending
 
 completed: "2022-03-29T00:32:30"
 seen:first: "2022-03-20T11:13:20"

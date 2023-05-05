@@ -4,7 +4,7 @@ title:en: The Day I Become a God
 title:jp: Kamisama ni Natta Hi
 genres: [comedy, drama, fantasy]
 rating: [story,artwork,sound,characters]
-verdict:
+verdict: pending
 
 seen:first: "2020-12-27"
 date:published: 2020

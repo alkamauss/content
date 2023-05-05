@@ -4,7 +4,7 @@ title:en: A Silent Voice
 title:jp: Koe no Katachi
 genres: [animation, drama]
 rating: [story,artwork,sound,characters]
-verdict:
+verdict: pending
 
 completed: "2021-10-16T14:21:57"
 seen:first: "2021-10-16T09:00:00"

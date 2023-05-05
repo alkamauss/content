@@ -4,7 +4,7 @@ title:en: Puella Magi Madoka Magica
 title:jp: Mahou Shoujo Madoka★Magica
 genres: [psychological, magic, drama, thriller]
 rating: [story,artwork,sound,characters]
-verdict:
+verdict: pending
 
 seen:first: "2021-04-28"
 date:published: 2020

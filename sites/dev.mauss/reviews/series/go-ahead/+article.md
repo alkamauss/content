@@ -4,7 +4,7 @@ title:en: Go Ahead
 title:cn: 以家人之名
 genres: [drama, comedy, romance, family]
 rating: [story,artwork,sound,characters]
-verdict:
+verdict: pending
 
 seen:first: "2021-05-01"
 date:published: 2020

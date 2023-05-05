@@ -4,7 +4,7 @@ title:en: "Maquia: When the Promised Flower Blooms"
 title:jp: Sayonara no Asa ni Yakusoku no Hana wo Kazarou
 genres: [animation, drama, fantasy]
 rating: [story,artwork,sound,characters]
-verdict:
+verdict: pending
 
 seen:first: "2020-11-22"
 date:published: 2020

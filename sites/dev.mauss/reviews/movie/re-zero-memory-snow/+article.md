@@ -4,7 +4,7 @@ title:short: "Re:ZERO - Memory Snow"
 title:en: "Re:ZERO -Starting Life in Another World-: Memory Snow"
 genres: [animation, adventure, fantasy]
 rating: [story,artwork,sound,characters]
-verdict:
+verdict: pending
 
 seen:first: "2020-07-14"
 date:published: 2020

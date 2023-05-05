@@ -3,7 +3,7 @@ released: "2015-07-12"
 title:en: God Eater
 genres: [action, sci-fi, military, fantasy]
 rating: [story,artwork,sound,characters]
-verdict:
+verdict: pending
 
 completed: "2021-06-27"
 seen:first: "2021-03-14"

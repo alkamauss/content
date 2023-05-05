@@ -5,7 +5,7 @@ title:en: "Mushoku Tensei: Jobless Reincarnation"
 title:jp: "Mushoku Tensei: Isekai Ittara Honki Dasu"
 genres: [fantasy, magic, drama, isekai]
 rating: [story,artwork,sound,characters]
-verdict:
+verdict: pending
 
 seen:first: "2021-04-30"
 date:published: 2020

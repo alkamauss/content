@@ -4,7 +4,7 @@ title:en: The Melancholy of Haruhi Suzumiya
 title:jp: Suzumiya Haruhi no Yuuutsu
 genres: [slice of life, mystery, comedy, school, sci-fi]
 rating: [story,artwork,sound,characters]
-verdict:
+verdict: pending
 
 seen:first: "2021-02-17"
 date:published: 2020

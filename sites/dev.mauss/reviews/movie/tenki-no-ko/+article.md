@@ -4,7 +4,7 @@ title:en: Weathering With You
 title:jp: Tenki no Ko
 genres: [animation, slice of life, supernatural, drama, fantasy, adventure, romance]
 rating: [7,10,10,9]
-verdict:
+verdict: pending
 
 seen:first: "2020-08-30"
 date:published: 2020

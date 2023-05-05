@@ -4,7 +4,7 @@ title:en: Clannad
 title:jp: CLANNAD
 genres: [comedy, drama, romance, school, slice of life, supernatural]
 rating: [story,artwork,sound,characters]
-verdict:
+verdict: pending
 
 completed: "2021-06-14"
 seen:first: "2021-02-12"

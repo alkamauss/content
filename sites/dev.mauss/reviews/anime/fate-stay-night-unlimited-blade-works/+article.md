@@ -4,7 +4,7 @@ title:en: Fate/stay night [Unlimited Blade Works]
 title:jp: "Fate/stay night: Unlimited Blade Works"
 genres: [action, supernatural, magic, fantasy]
 rating: [story,artwork,sound,characters]
-verdict:
+verdict: pending
 
 seen:first: "2021-06-13"
 date:published: 2020

@@ -5,7 +5,7 @@ title:en: Plastic Memories
 title:jp:
 genres: [romance, sci-fi, drama]
 rating: [story,artwork,sound,characters]
-verdict:
+verdict: pending
 
 seen:first: "2020-08-03"
 date:published: 2020

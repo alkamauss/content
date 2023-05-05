@@ -4,7 +4,7 @@ title:en: Tower of God
 title:jp: Kami no Tou
 genres: [action, adventure, mystery, drama, fantasy]
 rating: [story,artwork,sound,characters]
-verdict:
+verdict: pending
 
 seen:first: "2020-07-07"
 date:published: 2020

@@ -3,7 +3,7 @@ released: "2017-09-22"
 title:en: Doki Doki Literature Club!
 genres: [visual novel]
 rating: [story,artwork,sound,characters]
-verdict:
+verdict: pending
 
 seen:first: "2021-04-15"
 date:published: 2020

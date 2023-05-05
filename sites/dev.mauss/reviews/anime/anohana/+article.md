@@ -4,7 +4,7 @@ title:en: "anohana: The Flower We Saw That Day"
 title:jp:
 genres: [drama, slice of life, supernatural]
 rating: [story,artwork,sound,characters]
-verdict:
+verdict: pending
 
 seen:first: "2020-06-08"
 date:published: "2020"

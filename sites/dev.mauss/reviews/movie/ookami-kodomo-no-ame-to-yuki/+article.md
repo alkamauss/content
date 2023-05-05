@@ -4,7 +4,7 @@ title:en: Wolf Children
 title:jp: Ookami Kodomo no Ame to Yuki
 genres: [animation, fantasy, slice of life]
 rating: [story,artwork,sound,characters]
-verdict:
+verdict: pending
 
 seen:first: 2020
 date:published: 2020

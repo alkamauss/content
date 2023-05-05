@@ -5,7 +5,7 @@ title:en: Rascal Does Not Dream of Bunny Girl Senpai
 title:jp: Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
 genres: [comedy, romance, school, mystery, supernatural]
 rating: [9,9,10,9]
-verdict:
+verdict: pending
 
 seen:first: "2020-07-23"
 date:published: 2020

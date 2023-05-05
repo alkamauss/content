@@ -3,7 +3,7 @@ released: "2012-07-08"
 title:en: Sword Art Online
 genres: [action, adventure, fantasy, game, romance]
 rating:
-verdict:
+verdict: pending
 
 seen:first: "2020-04-01"
 date:published: 2020

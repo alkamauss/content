@@ -3,7 +3,7 @@ released: "2021-01-10"
 title:en: Horimiya
 genres: [slice of life, romance, comedy, school, shounen]
 rating: [story,artwork,sound,characters]
-verdict:
+verdict: pending
 
 seen:first: "2021-05-01"
 date:published: 2020

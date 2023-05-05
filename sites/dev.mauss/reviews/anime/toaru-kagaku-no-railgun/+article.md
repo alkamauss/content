@@ -4,7 +4,7 @@ title:en: A Certain Scientific Railgun
 title:jp: Toaru Kagaku no Railgun
 genres: [action, sci-fi, super power]
 rating: [story,artwork,sound,characters]
-verdict:
+verdict: pending
 
 completed:
 seen:first: "2021-08-10T23:28:25"

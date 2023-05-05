@@ -3,7 +3,7 @@ released: "2013-10-06"
 title:en: White Album 2
 genres: [drama, music, romance, slice of life]
 rating: [story,artwork,sound,characters]
-verdict:
+verdict: pending
 
 completed: "2022-03-10T14:12:18"
 seen:first: "2021-07-31T22:30:40"

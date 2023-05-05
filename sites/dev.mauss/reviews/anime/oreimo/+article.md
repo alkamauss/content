@@ -5,7 +5,7 @@ title:en: My Little Sister Can't Be This Cute
 title:jp: Ore no Imouto ga Konnani Kawaii Wake ga Nai
 genres: [comedy, drama, romance, slice of life, harem, ecchi]
 rating: [6,8,5,7, 2,8,5,6]
-verdict:
+verdict: pending
 
 seen:first: "2020-06-23"
 date:published: 2020

@@ -4,7 +4,7 @@ title:en: March comes in like a lion
 title:jp: 3-gatsu no Lion
 genres: [slice of life, drama, seinen]
 rating: [story,artwork,sound,characters]
-verdict:
+verdict: pending
 
 completed: [2022-07-23T21:16:20, 2022-08-01T11:17:18]
 seen:first: [2022-03-18T22:11:20, 2022-07-25T23:00:32]

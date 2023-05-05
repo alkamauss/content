@@ -3,7 +3,7 @@ released: "2020-08-15"
 title:en: "Fate/stay night: Heaven's Feel Trilogy"
 genres: [animation, mystery, supernatural, romance]
 rating: [story,artwork,sound,characters]
-verdict:
+verdict: pending
 
 completed: "2021-06-28"
 seen:first: "2021-06-28"

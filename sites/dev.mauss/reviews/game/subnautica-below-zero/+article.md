@@ -3,7 +3,7 @@ released: "2021-05-14"
 title:en: "Subnautica: Below Zero"
 genres: [open world, survival]
 rating: [story,artwork,sound,characters]
-verdict:
+verdict: pending
 
 seen:first: "2021-05-27"
 date:published: 2020

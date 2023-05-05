@@ -4,7 +4,7 @@ title:en: "Saekano: How to Raise a Boring Girlfriend"
 title:jp: Saenai Heroine no Sodatekata
 genres: [comedy, harem, romance, ecchi, school]
 rating: [story,artwork,sound,characters]
-verdict:
+verdict: pending
 
 completed: [2021-11-02T23:34:42]
 seen:first: [2021-03-20]

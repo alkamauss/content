@@ -4,7 +4,7 @@ title:en: Cells at Work!
 title:jp: Hataraku Saibou
 genres: [comedy, shounen]
 rating: [story,artwork,sound,characters]
-verdict:
+verdict: pending
 
 completed: [2021-07-04]
 seen:first: [2021-02-10, 2021-10-17T17:31:13]

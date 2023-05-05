@@ -4,7 +4,7 @@ title:en: The Pet Girl of Sakurasou
 title:jp: Sakura-sou no Pet na Kanojo
 genres: [slice of life, comedy, drama, romance, school]
 rating: [story,artwork,sound,characters]
-verdict:
+verdict: pending
 
 seen:first: "2021-03-20"
 date:published: 2020

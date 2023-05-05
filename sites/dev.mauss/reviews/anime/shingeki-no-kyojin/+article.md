@@ -4,7 +4,7 @@ title:en: Attack on Titan
 title:jp: Shingeki no Kyojin
 genres: [action, military, mystery, fantasy, drama, shounen]
 rating:
-verdict:
+verdict: pending
 
 seen:first: "2020-05-12"
 date:published: 2020

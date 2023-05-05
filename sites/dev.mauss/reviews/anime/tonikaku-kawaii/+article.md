@@ -4,7 +4,7 @@ title:en: "TONIKAWA: Over the Moon For You"
 title:jp: Tonikaku Kawaii
 genres: [comedy, romance, shounen]
 rating: [story,artwork,sound,characters]
-verdict:
+verdict: pending
 
 seen:first: "2020-12-19"
 date:published: 2020

@@ -4,7 +4,7 @@ title:en: Grave of the Fireflies
 title:jp: Hotaru no Haka
 genres: [animation, drama, historical]
 rating: [story,artwork,sound,characters]
-verdict:
+verdict: pending
 
 seen:first: "2020-09-06"
 date:published: 2020

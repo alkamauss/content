@@ -4,7 +4,7 @@ title:en: "My Hero Academia: Heroes Rising"
 title:jp: "Boku no Hero Academia: Heroes:Rising"
 genres: [animation]
 rating: [5,10,9,8]
-verdict:
+verdict: pending
 
 seen:first: "2020-07-12"
 date:published: 2020

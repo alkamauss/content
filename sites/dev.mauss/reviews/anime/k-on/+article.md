@@ -3,7 +3,7 @@ released: "2009-04-03"
 title:en: K-ON!
 genres: [music, slice of life, comedy, school]
 rating: [story,artwork,sound,characters]
-verdict:
+verdict: pending
 
 completed: "2021-10-06T01:18:28"
 seen:first: [2020-12-11, 2021-07-10]

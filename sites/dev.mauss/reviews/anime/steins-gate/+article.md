@@ -3,7 +3,7 @@ released: "2011-04-06"
 title:en: Steins;Gate
 genres: [drama, sci-fi, suspense, psychological]
 rating: [story,artwork,sound,characters]
-verdict:
+verdict: pending
 
 completed: "2022-08-05T23:58:40"
 seen:first: "2022-08-04T17:14:20"

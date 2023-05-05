@@ -4,7 +4,7 @@ title:en: Tsuredure Children
 title:jp: Tsurezure Children
 genres: [comedy, romance, school, shounen]
 rating: [story,artwork,sound,characters]
-verdict:
+verdict: pending
 
 seen:first: "2021-02-03"
 date:published: 2020

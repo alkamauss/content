@@ -4,7 +4,7 @@ title:en: 5 Centimeters per Second
 title:jp: Byousoku 5 Centimeter
 genres: [animation, drama, romance, slice of life]
 rating: [9,10,8,8]
-verdict:
+verdict: pending
 
 seen:first: "2020-08-08"
 date:published: 2020

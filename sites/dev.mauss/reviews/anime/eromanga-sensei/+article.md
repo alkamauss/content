@@ -4,7 +4,7 @@ title:en: Eromanga-sensei
 title:jp:
 genres: [comedy, drama, romance, ecchi]
 rating: [8,9,10,9]
-verdict:
+verdict: pending
 
 seen:first: "2020-06-07"
 date:published: 2020

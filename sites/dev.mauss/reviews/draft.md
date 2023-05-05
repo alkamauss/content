@@ -5,7 +5,7 @@ title:en:
 title:jp:
 genres:
 rating: [story,artwork,sound,characters]
-verdict:
+verdict: pending
 
 completed:
 seen:first: 2020

@@ -3,7 +3,7 @@ released: "2018-01-11"
 title:en: Violet Evergarden
 genres: [slice of life, drama, fantasy]
 rating: [story,artwork,sound,characters]
-verdict:
+verdict: pending
 
 completed: "2021-10-31T22:58:58"
 seen:first: "2021-10-17T19:35:17"

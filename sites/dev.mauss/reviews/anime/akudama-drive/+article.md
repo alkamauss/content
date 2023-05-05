@@ -4,7 +4,7 @@ title:en: Akudama Drive
 title:jp:
 genres: [action, sci-fi]
 rating: [story,artwork,sound,characters]
-verdict:
+verdict: pending
 
 seen:first: "2020-12-25"
 date:published: "2020"

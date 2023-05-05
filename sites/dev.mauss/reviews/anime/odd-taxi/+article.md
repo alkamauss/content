@@ -4,7 +4,7 @@ title:en: Oddtaxi
 title:jp: Odd Taxi
 genres: [mystery]
 rating: [story,artwork,sound,characters]
-verdict:
+verdict: pending
 
 completed: "2021-07-26T22:41:24"
 seen:first: "2021-07-18T17:16:15"

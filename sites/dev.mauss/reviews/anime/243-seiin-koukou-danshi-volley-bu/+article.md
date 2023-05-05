@@ -4,7 +4,7 @@ title:en: "2.43: Seiin High School Boys Volleyball Team"
 title:jp: "2.43: Seiin Koukou Danshi Volley-bu"
 genres: [sports, slice of life, drama, school]
 rating: [story,artwork,sound,characters]
-verdict:
+verdict: pending
 
 seen:first: "2021-03-26"
 date:published: "2020"

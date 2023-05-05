@@ -5,7 +5,7 @@ title:en: "The Misfit of Demon King Academy: History's Strongest Demon King Rein
 title:jp: "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e"
 genres: [action, adventure, comedy, demons, magic, fantasy, school]
 rating: [story,artwork,sound,characters]
-verdict:
+verdict: pending
 
 seen:first: "2020-09-27"
 date:published: 2020
