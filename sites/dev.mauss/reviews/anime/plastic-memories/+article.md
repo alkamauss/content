@@ -13,7 +13,8 @@ date:updated: 2020
 image:en: https://image.tmdb.org/t/p/original/ypQKH5Q1ifDaRKoo6oQozmtFIvN.jpg
 image:jp:
 
-link:mal: https://myanimelist.net/anime/27775/Plastic_Memories
+link:
+  MyAnimeList: https://myanimelist.net/anime/27775/Plastic_Memories
 ---
 
 ![Backdrop]()

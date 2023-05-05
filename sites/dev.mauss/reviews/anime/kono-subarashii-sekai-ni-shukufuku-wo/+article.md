@@ -14,7 +14,8 @@ image:en: https://image.tmdb.org/t/p/original/oRaOeQlwktbGSd2T31FYAcgHZlh.jpg
 image:jp: https://image.tmdb.org/t/p/original/ekQD9ItsjglqlCvoJiXqGXJb5Jz.jpg
 backdrop: https://image.tmdb.org/t/p/original/lmZAguzTv7cxzkRMH7M4fJ0UnJl.jpg
 
-link:mal: https://myanimelist.net/anime/30831/Kono_Subarashii_Sekai_ni_Shukufuku_wo
+link:
+  MyAnimeList: https://myanimelist.net/anime/30831/Kono_Subarashii_Sekai_ni_Shukufuku_wo
 ---
 
 

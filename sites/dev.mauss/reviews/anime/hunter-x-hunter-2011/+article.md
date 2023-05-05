@@ -11,7 +11,8 @@ date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/tolQj5yffSxkEGXusPwNcvYrbph.jpg
 backdrop: https://www.themoviedb.org/t/p/original/A702KA1gXlI3hB33hdhwPM708pY.jpg
 
-link:mal: https://myanimelist.net/anime/11061/Hunter_x_Hunter_2011
+link:
+  MyAnimeList: https://myanimelist.net/anime/11061/Hunter_x_Hunter_2011
 ---
 
 

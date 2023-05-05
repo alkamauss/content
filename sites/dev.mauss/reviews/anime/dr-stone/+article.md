@@ -10,5 +10,6 @@ date:published: 2020
 date:updated:
 image:en: https://image.tmdb.org/t/p/original/dLlnzbDCblBXcJqFLXyvN43NIwp.jpg
 
-link:mal: https://myanimelist.net/anime/38691/Dr_Stone
+link:
+  MyAnimeList: https://myanimelist.net/anime/38691/Dr_Stone
 ---

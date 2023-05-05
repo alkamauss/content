@@ -13,7 +13,8 @@ image:en: https://www.themoviedb.org/t/p/original/qeD9wDenN7CPA99FScSErJCvcWb.jp
 image:jp: https://www.themoviedb.org/t/p/original/pgnHXXTn2Uy0unuNCKFKHhL7BHR.jpg
 backdrop: https://www.themoviedb.org/t/p/original/kE4DhDPgjzxvv2BJCHhs0xbdwun.jpg
 
-link:mal: https://myanimelist.net/anime/28223/Death_Parade
+link:
+  MyAnimeList: https://myanimelist.net/anime/28223/Death_Parade
 ---
 
 

@@ -13,7 +13,8 @@ date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/sgwwEGvNy7vCJN8IVnl44tuVlMZ.jpg
 backdrop: https://www.themoviedb.org/t/p/original/znwEvECDz94pc3ZWML4OettkPto.jpg
 
-link:mal: https://myanimelist.net/anime/37141/Hataraku_Saibou_TV/
+link:
+  MyAnimeList: https://myanimelist.net/anime/37141/Hataraku_Saibou_TV/
 ---
 
 

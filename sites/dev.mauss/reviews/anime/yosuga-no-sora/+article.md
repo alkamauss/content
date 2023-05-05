@@ -12,7 +12,8 @@ date:updated: "2020-06-25"
 image:en: https://image.tmdb.org/t/p/original/9F80WGUD6WYfoEDMImf988NlXhC.jpg
 backdrop: https://image.tmdb.org/t/p/original/sY7HH2gbcTa9fTvyxopvo1Wiqbr.jpg
 
-link:mal: https://myanimelist.net/anime/8861/Yosuga_no_Sora__In_Solitude_Where_We_Are_Least_Alone
+link:
+  MyAnimeList: https://myanimelist.net/anime/8861/Yosuga_no_Sora__In_Solitude_Where_We_Are_Least_Alone
 ---
 
 

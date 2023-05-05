@@ -13,7 +13,8 @@ image:en: https://www.themoviedb.org/t/p/original/1KNHEhMTzQoQnCco0lTOEsTYRtT.jp
 image:jp: https://www.themoviedb.org/t/p/original/geFiRX5g4nHNaw0uvA9wHZfPWIS.jpg
 backdrop: https://www.themoviedb.org/t/p/original/9IAfHmcPcQjKEzlAwnY777iItbi.jpg
 
-link:mal: https://myanimelist.net/anime/2001/Tengen_Toppa_Gurren_Lagann/
+link:
+  MyAnimeList: https://myanimelist.net/anime/2001/Tengen_Toppa_Gurren_Lagann/
 ---
 
 

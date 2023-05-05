@@ -14,7 +14,8 @@ image:en: https://image.tmdb.org/t/p/original/pa5hMcg74yCcqa6NQe4h3z0pyNZ.jpg
 image:jp: https://image.tmdb.org/t/p/original/kjun1ktN6Xdkk94ejhhZp9jAo3G.jpg
 backdrop: https://image.tmdb.org/t/p/original/8UwpclMJMPbJV0FCgDd8R8XilRY.jpg
 
-link:mal:
+link:
+  MyAnimeList: https://myanimelist.net/anime/5680/K-On
 ---
 
 

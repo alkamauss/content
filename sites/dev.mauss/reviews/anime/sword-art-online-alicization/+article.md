@@ -12,7 +12,8 @@ image:en: https://image.tmdb.org/t/p/original/vEeTQpAJkf8ztwL56z5ACe3qd7E.jpg
 image:jp: https://image.tmdb.org/t/p/original/7SRkYdOsIdpEOchJU4iVVxktxtE.jpg
 backdrop: https://image.tmdb.org/t/p/original/z9bJdyQwQqp141eEGbaQvW1IZhR.jpg
 
-link:mal: https://myanimelist.net/anime/36474/Sword_Art_Online__Alicization
+link:
+  MyAnimeList: https://myanimelist.net/anime/36474/Sword_Art_Online__Alicization
 ---
 
 

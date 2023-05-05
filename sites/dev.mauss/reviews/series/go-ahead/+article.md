@@ -12,5 +12,6 @@ image:en: https://www.themoviedb.org/t/p/original/c9TNv9KryKb16eDDBzFg9eKwtDC.jp
 image:cn: https://www.themoviedb.org/t/p/original/26POFm6j6hveKRY4T87IcPlZioc.jpg
 backdrop: https://www.themoviedb.org/t/p/original/5sWFfvKcETyNBNfmniLk8b3kOS3.jpg
 
-link:mdl: https://mydramalist.com/40911-go-ahead
+link:
+  MyDramaList: https://mydramalist.com/40911-go-ahead
 ---

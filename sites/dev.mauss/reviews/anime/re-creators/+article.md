@@ -11,7 +11,8 @@ date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/kVxFvpttZ8V3zog5eoFmzMVFppy.jpg
 backdrop: https://www.themoviedb.org/t/p/original/A695xuEj2MJgAxMn5EfvbbHPyBx.jpg
 
-link:mal: https://myanimelist.net/anime/34561/Re_Creators
+link:
+  MyAnimeList: https://myanimelist.net/anime/34561/Re_Creators
 ---
 
 

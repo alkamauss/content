@@ -13,7 +13,8 @@ image:en: https://www.themoviedb.org/t/p/original/zWE3bnCILcRpfQCsxBkMsgcEjOE.jp
 image:jp: https://www.themoviedb.org/t/p/original/pVbrwGwXLuapeQCVbZgdXFfwceB.jpg
 backdrop: https://www.themoviedb.org/t/p/original/8VN3MyfoFCdFTR9GDh5Tx9pbdCV.jpg
 
-link:mal: https://myanimelist.net/anime/37171/Asobi_Asobase
+link:
+  MyAnimeList: https://myanimelist.net/anime/37171/Asobi_Asobase
 ---
 
 > Nichijou but it's R-rated

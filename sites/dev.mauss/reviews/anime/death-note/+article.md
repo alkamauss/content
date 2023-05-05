@@ -11,7 +11,8 @@ date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/qwuisvcM1H0iE5ov6DdkkWxuHvK.jpg
 backdrop: https://www.themoviedb.org/t/p/original/brO0acsI82ikvp7S0yszhbUupiF.jpg
 
-link:mal: https://myanimelist.net/anime/1535/Death_Note
+link:
+  MyAnimeList: https://myanimelist.net/anime/1535/Death_Note
 ---
 
 

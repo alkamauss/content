@@ -13,7 +13,8 @@ image:en: https://image.tmdb.org/t/p/original/wcNkHDbyc290hcWk7KXbBZUuXpq.jpg
 image:jp: https://image.tmdb.org/t/p/original/dAtZXhY4kC0mJt224FqmNcMUD64.jpg
 backdrop: https://image.tmdb.org/t/p/original/dlC0ed9Ugh3FzydnkBtV5lRXUu4.jpg
 
-link:mal: https://myanimelist.net/anime/578/Hotaru_no_Haka
+link:
+  MyAnimeList: https://myanimelist.net/anime/578/Hotaru_no_Haka
 ---
 
 > [The best movie that you'll only watch once.](https://www.reddit.com/r/AskReddit/comments/j3jjom/what_movie_fucked_you_straight_in_your_feelings/g7cm9qe?context=3)

@@ -13,7 +13,8 @@ image:en: https://www.themoviedb.org/t/p/original/utYAqKUQdUOVVQlM2FJBTWdONf9.jp
 image:jp: https://www.themoviedb.org/t/p/original/5YPnuuDYqRTkdmeNUzb52ZwW9JT.jpg
 backdrop: https://www.themoviedb.org/t/p/original/3X96zO7PnN0iIWubiI2tAThrhqL.jpg
 
-link:mal: https://myanimelist.net/anime/40679/243__Seiin_Koukou_Danshi_Volley-bu
+link:
+  MyAnimeList: https://myanimelist.net/anime/40679/243__Seiin_Koukou_Danshi_Volley-bu
 ---
 
 

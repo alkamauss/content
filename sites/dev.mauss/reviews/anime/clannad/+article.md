@@ -15,7 +15,8 @@ image:jp:
 
 delineation: Cry on demand
 
-link:mal: https://myanimelist.net/anime/2167/Clannad/
+link:
+  MyAnimeList: https://myanimelist.net/anime/2167/Clannad/
 ---
 
 ## Synopsis

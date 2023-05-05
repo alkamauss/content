@@ -13,7 +13,8 @@ image:en: https://image.tmdb.org/t/p/original/iERXyBf0K6DfAQ8oKEYrdjf1vIs.jpg
 image:jp: https://image.tmdb.org/t/p/original/vxlM17UMi8RMm9qHHOo1y8RjVcu.jpg
 backdrop: https://image.tmdb.org/t/p/original/gHaqtksrERg4PhDzsnrvW7dTs6z.jpg
 
-link:mal: https://myanimelist.net/anime/35839/Sora_yori_mo_Tooi_Basho
+link:
+  MyAnimeList: https://myanimelist.net/anime/35839/Sora_yori_mo_Tooi_Basho
 ---
 
 

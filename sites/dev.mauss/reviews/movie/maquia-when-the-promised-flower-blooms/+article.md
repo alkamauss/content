@@ -13,7 +13,8 @@ image:en: https://image.tmdb.org/t/p/original/hL3NqRE2ccR4Y2sYSJTrmalRjrz.jpg
 image:jp: https://image.tmdb.org/t/p/original/AknC8TjBGMF8xidSvVxoetPL0Id.jpg
 backdrop: https://image.tmdb.org/t/p/original/4AxRcsZx6RaUtmcc4nsRiAx5mWW.jpg
 
-link:mal: https://myanimelist.net/anime/35851/Sayonara_no_Asa_ni_Yakusoku_no_Hana_wo_Kazarou
+link:
+  MyAnimeList: https://myanimelist.net/anime/35851/Sayonara_no_Asa_ni_Yakusoku_no_Hana_wo_Kazarou
 ---
 
 

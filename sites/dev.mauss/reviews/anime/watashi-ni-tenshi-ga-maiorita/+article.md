@@ -12,7 +12,8 @@ image:en: https://image.tmdb.org/t/p/original/yaIs7UDJ6Vo7DbWPl4cTdv4bUw7.jpg
 image:jp: https://image.tmdb.org/t/p/original/yaIs7UDJ6Vo7DbWPl4cTdv4bUw7.jpg
 backdrop: https://image.tmdb.org/t/p/original/djKJBmJI4gS9snTn2Tzg3JO23YC.jpg
 
-link:mal: https://myanimelist.net/anime/37993/Watashi_ni_Tenshi_ga_Maiorita
+link:
+  MyAnimeList: https://myanimelist.net/anime/37993/Watashi_ni_Tenshi_ga_Maiorita
 ---
 
 ## Synopsis

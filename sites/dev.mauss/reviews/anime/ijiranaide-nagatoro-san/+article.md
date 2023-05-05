@@ -14,7 +14,8 @@ image:en: https://www.themoviedb.org/t/p/original/dHSRVAi83iapl4yazkPiyv3atQZ.jp
 image:jp: https://www.themoviedb.org/t/p/original/wpV16RDxMJsj9YEI8hqwVgEGoHb.jpg
 backdrop: https://www.themoviedb.org/t/p/original/uxmxWA4mmxeAWG8NNiUpGC7W462.jpg
 
-link:mal: https://myanimelist.net/anime/42361/Ijiranaide_Nagatoro-san
+link:
+  MyAnimeList: https://myanimelist.net/anime/42361/Ijiranaide_Nagatoro-san
 ---
 
 

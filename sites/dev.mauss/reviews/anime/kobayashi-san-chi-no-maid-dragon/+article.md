@@ -14,7 +14,8 @@ image:en: https://www.themoviedb.org/t/p/original/tNznuhcf7WKzEmPQEsIgGMrB3Az.jp
 image:jp: https://www.themoviedb.org/t/p/original/g8gof5OzYtS8Ebt5BlmpPExUjlJ.jpg
 backdrop: https://www.themoviedb.org/t/p/original/xfkOv2PSuVjehptAmRagT4MzatQ.jpg
 
-link:mal: https://myanimelist.net/anime/33206/Kobayashi-san_Chi_no_Maid_Dragon/
+link:
+  MyAnimeList: https://myanimelist.net/anime/33206/Kobayashi-san_Chi_no_Maid_Dragon/
 ---
 
 

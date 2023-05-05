@@ -13,7 +13,8 @@ date:updated: 2020
 image:en: https://image.tmdb.org/t/p/original/qmi1VpOvPFRHg02fbLuc3pVrMbt.jpg
 image:jp:
 
-link:mal: https://myanimelist.net/anime/10165/Nichijou
+link:
+  MyAnimeList: https://myanimelist.net/anime/10165/Nichijou
 ---
 
 ![Backdrop]()

@@ -14,7 +14,8 @@ image:en: https://www.themoviedb.org/t/p/original/tuFaWiqX0TXoWu7DGNcmX3UW7sT.jp
 image:jp: https://www.themoviedb.org/t/p/original/7clTvRa9RRh78c8epoC0YrNZoD6.jpg
 backdrop: https://www.themoviedb.org/t/p/original/q5HZvtyqG8Vz39Ee9uTQbLeEml.jpg
 
-link:mal: https://myanimelist.net/anime/28851/koe_no_katachi
+link:
+  MyAnimeList: https://myanimelist.net/anime/28851/koe_no_katachi
 ---
 
 

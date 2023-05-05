@@ -12,7 +12,8 @@ date:updated:
 image:en: https://image.tmdb.org/t/p/original/hC4nTxdhXqFWzgqynGvvXVMiMNp.jpg
 image:jp: https://image.tmdb.org/t/p/original/rwLuZhDcLbtC8VKW8Z2xnNKTsAJ.jpg
 
-link:mal: https://myanimelist.net/anime/36896/Boku_no_Hero_Academia_the_Movie_1__Futari_no_Hero
+link:
+  MyAnimeList: https://myanimelist.net/anime/36896/Boku_no_Hero_Academia_the_Movie_1__Futari_no_Hero
 ---
 
 ![Backdrop]()

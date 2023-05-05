@@ -13,7 +13,8 @@ image:en: https://www.themoviedb.org/t/p/original/ais8cfoSbS3URahXLP6LwlwIZ6e.jp
 image:jp: https://www.themoviedb.org/t/p/original/vwfsAOrBUdUEW4AAjRCcUlCvd4G.jpg
 backdrop: https://www.themoviedb.org/t/p/original/hI76O9slOz3vPkhQWWQoN36WyhG.jpg
 
-link:mal: https://myanimelist.net/anime/33255/Saiki_Kusuo_no_%CE%A8-nan
+link:
+  MyAnimeList: https://myanimelist.net/anime/33255/Saiki_Kusuo_no_%CE%A8-nan
 ---
 
 

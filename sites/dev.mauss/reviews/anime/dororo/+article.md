@@ -13,7 +13,8 @@ image:en: https://www.themoviedb.org/t/p/original/jyFHtqYeVvc2A9nLhFGvM49xGPg.jp
 image:jp: https://www.themoviedb.org/t/p/original/bzE0BYQL7lQbOjlNjJ171ytFpwc.jpg
 backdrop: https://www.themoviedb.org/t/p/original/wifUfM6OVSZJokNn2ZzDMmjKcvv.jpg
 
-link:mal: https://myanimelist.net/anime/37520/Dororo
+link:
+  MyAnimeList: https://myanimelist.net/anime/37520/Dororo
 ---
 
 

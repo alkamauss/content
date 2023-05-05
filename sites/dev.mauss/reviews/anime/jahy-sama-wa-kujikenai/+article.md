@@ -14,7 +14,8 @@ image:en: https://www.themoviedb.org/t/p/original/9hrlzVgSK0y2sA6Q3Nk8oSOIYUD.jp
 image:jp: https://www.themoviedb.org/t/p/original/zn0zEzK1IvfgAIsWo4SIHKLjJij.jpg
 backdrop: https://www.themoviedb.org/t/p/original/zfPtBlU7pJVXP3CbdaUwvlAkGKv.jpg
 
-link:mal: https://myanimelist.net/anime/48753/Jahy-sama_wa_Kujikenai
+link:
+  MyAnimeList: https://myanimelist.net/anime/48753/Jahy-sama_wa_Kujikenai
 ---
 
 

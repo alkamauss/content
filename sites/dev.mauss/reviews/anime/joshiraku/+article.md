@@ -11,7 +11,8 @@ date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/67zsN2RRa187v8fwYxlN8c8T19X.jpg
 backdrop: https://www.themoviedb.org/t/p/original/6qLYgjxvDtAwu5RA9fFpoyg23aX.jpg
 
-link:mal: https://myanimelist.net/anime/12679/Joshiraku
+link:
+  MyAnimeList: https://myanimelist.net/anime/12679/Joshiraku
 ---
 
 

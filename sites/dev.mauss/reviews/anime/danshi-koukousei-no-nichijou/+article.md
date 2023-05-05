@@ -13,7 +13,8 @@ image:en: https://image.tmdb.org/t/p/original/kPzPTbw3rkB66qKSsjlWtOetQWc.jpg
 image:jp: https://image.tmdb.org/t/p/original/q6OeemACDKP2Uj8yvrzpDklGOnw.jpg
 backdrop: https://image.tmdb.org/t/p/original/hBHhgVhm4NGlWiWuXQyoQFm17Pp.jpg
 
-link:mal: https://myanimelist.net/anime/11843/Danshi_Koukousei_no_Nichijou/
+link:
+  MyAnimeList: https://myanimelist.net/anime/11843/Danshi_Koukousei_no_Nichijou/
 ---
 
 

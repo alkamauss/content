@@ -14,7 +14,8 @@ image:en: https://www.themoviedb.org/t/p/original/ianYYQaLkksLGCfeisFNYJE7jIO.jp
 image:jp: https://www.themoviedb.org/t/p/original/kA6A2xTk5QctNAQXWX0TZHH6pzy.jpg
 backdrop: https://www.themoviedb.org/t/p/original/bo53Yk3OuRivHtSAB4WLRWWPHq9.jpg
 
-link:mal: https://myanimelist.net/anime/457/mushishi
+link:
+  MyAnimeList: https://myanimelist.net/anime/457/mushishi
 ---
 
 

@@ -14,7 +14,8 @@ image:en: https://www.themoviedb.org/t/p/original/wOd98jDHkoWy2LZ4gSy67X1ihv1.jp
 image:jp: https://www.themoviedb.org/t/p/original/fIOYLPOorKvP4wut9y0edpnWROz.jpg
 backdrop: https://www.themoviedb.org/t/p/original/62pIwEsYX2dtlyMJjDSM6zpDTU2.jpg
 
-link:mal: https://myanimelist.net/anime/24833/Ansatsu_Kyoushitsu
+link:
+  MyAnimeList: https://myanimelist.net/anime/24833/Ansatsu_Kyoushitsu
 ---
 
 

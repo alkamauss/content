@@ -12,7 +12,8 @@ image:en: https://www.themoviedb.org/t/p/original/zLNnCb6SL2HxyiRsDJ4t4S1mb91.jp
 image:jp: https://www.themoviedb.org/t/p/original/qYZusFwAUcXso2i9tWSg2DFCxX5.jpg
 backdrop: https://www.themoviedb.org/t/p/original/1s5LAbi8udSIIc5AghjwuKfy87i.jpg
 
-link:mal: https://myanimelist.net/anime/42897/Horimiya
+link:
+  MyAnimeList: https://myanimelist.net/anime/42897/Horimiya
 ---
 
 

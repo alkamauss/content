@@ -14,7 +14,8 @@ image:en: https://www.themoviedb.org/t/p/original/w09TpdruCEhZcIPGDMhM6sGDhg7.jp
 image:jp: https://www.themoviedb.org/t/p/original/i9TswU0pOi9MTi75qeFxKqIBwz2.jpg
 backdrop: https://www.themoviedb.org/t/p/original/jyCeRldLBa2ofS8BFztVpxl6qaN.jpg
 
-link:mal: https://myanimelist.net/anime/48736/Sono_Bisque_Doll_wa_Koi_wo_Suru
+link:
+  MyAnimeList: https://myanimelist.net/anime/48736/Sono_Bisque_Doll_wa_Koi_wo_Suru
 ---
 
 

@@ -14,7 +14,8 @@ image:en: https://www.themoviedb.org/t/p/original/eTeE1JiS2DugsL13cUSVkROXBP9.jp
 image:jp: https://www.themoviedb.org/t/p/original/52SBO3YQIp1ObRuXJLToMC1Yh8d.jpg
 backdrop: https://www.themoviedb.org/t/p/original/ee0MEplgTMVitRrOl6D0AAu3ywl.jpg
 
-link:mal: https://myanimelist.net/anime/23277/Saenai_Heroine_no_Sodatekata
+link:
+  MyAnimeList: https://myanimelist.net/anime/23277/Saenai_Heroine_no_Sodatekata
 ---
 
 

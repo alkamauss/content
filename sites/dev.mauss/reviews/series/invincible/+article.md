@@ -11,8 +11,9 @@ date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/yDWJYRAwMNKbIYT8ZB33qy84uzO.jpg
 backdrop: https://www.themoviedb.org/t/p/original/dDdXTkM2mFcIiXbbNjT1paIPYXI.jpg
 
-link:imdb: https://www.imdb.com/title/tt6741278/
-link:amazon: https://www.amazon.com/dp/B08WJMRHYZ
+link:
+  Amazon: https://www.amazon.com/dp/B08WJMRHYZ
+  IMDB: https://www.imdb.com/title/tt6741278/
 ---
 
 

@@ -12,7 +12,8 @@ date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/6iysgZr6Upm5RlAlVFo5f4D9euu.jpg
 backdrop: https://www.themoviedb.org/t/p/original/ly0tvRfOp936Zmr6vepusFeo7lp.jpg
 
-link:mal: https://myanimelist.net/anime/9253/Steins_Gate
+link:
+  MyAnimeList: https://myanimelist.net/anime/9253/Steins_Gate
 ---
 
 

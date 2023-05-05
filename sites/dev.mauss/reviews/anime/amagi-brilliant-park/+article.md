@@ -13,7 +13,8 @@ image:en: https://www.themoviedb.org/t/p/original/1ZFzedg6kYDBFjZANxcDdERsN08.jp
 image:jp: https://www.themoviedb.org/t/p/original/2oYsSLsLcP0FuvhzgvcUfDx93N8.jpg
 backdrop: https://www.themoviedb.org/t/p/original/5pl88CUfQnOgPEY7jP5wORX4Kc0.jpg
 
-link:mal: https://myanimelist.net/anime/22147/Amagi_Brilliant_Park
+link:
+  MyAnimeList: https://myanimelist.net/anime/22147/Amagi_Brilliant_Park
 ---
 
 

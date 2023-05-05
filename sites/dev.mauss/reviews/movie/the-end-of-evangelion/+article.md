@@ -12,7 +12,8 @@ date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/j6G24dqI4WgUtChhWjfnI4lnmiK.jpg
 backdrop: https://www.themoviedb.org/t/p/original/AfyuI3glMCBDFmNPj9PY6DwbgGp.jpg
 
-link:mal: https://myanimelist.net/anime/32/Neon_Genesis_Evangelion__The_End_of_Evangelion
+link:
+  MyAnimeList: https://myanimelist.net/anime/32/Neon_Genesis_Evangelion__The_End_of_Evangelion
 ---
 
 

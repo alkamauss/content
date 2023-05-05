@@ -11,7 +11,8 @@ date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/qhjAjkQibM2HhBEKiUgYWsENKux.jpg
 backdrop: https://www.themoviedb.org/t/p/original/7wBUJF6Wvx8o8AOB8BgyK0HMQdP.jpg
 
-link:mal: https://myanimelist.net/anime/33241/Honobono_Log
+link:
+  MyAnimeList: https://myanimelist.net/anime/33241/Honobono_Log
 ---
 
 

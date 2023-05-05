@@ -14,7 +14,8 @@ image:en: https://www.themoviedb.org/t/p/original/dZt1dqw0K4JGhwcqTh8yExHYK9w.jp
 image:jp: https://www.themoviedb.org/t/p/original/vUTIKSGdoMGHUOgSv0wcLnLacVf.jpg
 backdrop: https://www.themoviedb.org/t/p/original/1XNqQkRWSwWtXQ0BuQ95wjcs9SP.jpg
 
-link:mal: https://myanimelist.net/anime/6213/Toaru_Kagaku_no_Railgun
+link:
+  MyAnimeList: https://myanimelist.net/anime/6213/Toaru_Kagaku_no_Railgun
 ---
 
 

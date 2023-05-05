@@ -13,7 +13,8 @@ image:en: https://www.themoviedb.org/t/p/original/jyqi5BkDoKKIA2WAoz3HBtRHld3.jp
 image:jp: https://www.themoviedb.org/t/p/original/mZfLRVb51S0M51JDMp4i3bW6nzX.jpg
 backdrop: https://www.themoviedb.org/t/p/original/uqOcBHNHsmYPePmrvYhjraRxLdJ.jpg
 
-link:mal: https://myanimelist.net/anime/22297/Fatestaynight:UnlimitedBladeWorks
+link:
+  MyAnimeList: https://myanimelist.net/anime/22297/Fatestaynight:UnlimitedBladeWorks
 ---
 
 

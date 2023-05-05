@@ -13,7 +13,8 @@ image:en: https://image.tmdb.org/t/p/original/zLDxWMM0BLImdAsnkqGeeoqjYev.jpg
 image:jp: https://image.tmdb.org/t/p/original/qDNgM4STqdzl4IBMyqCVMIr6uUV.jpg
 backdrop: https://image.tmdb.org/t/p/original/iD3AJxGuBPUpipRfPmVuRDKVqjZ.jpg
 
-link:mal: https://myanimelist.net/anime/38671/Enen_no_Shouboutai
+link:
+  MyAnimeList: https://myanimelist.net/anime/38671/Enen_no_Shouboutai
 ---
 
 

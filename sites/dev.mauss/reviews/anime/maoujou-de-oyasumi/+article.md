@@ -13,7 +13,8 @@ image:en: https://image.tmdb.org/t/p/original/3bmu7Mg7Sc6IfHgvt98WNChaOkR.jpg
 image:jp: https://image.tmdb.org/t/p/original/3bmu7Mg7Sc6IfHgvt98WNChaOkR.jpg
 backdrop: https://image.tmdb.org/t/p/original/ya0GSNDIwlD3W0DJNCBizlf0dkf.jpg
 
-link:mal: https://myanimelist.net/anime/40397/Maoujou_de_Oyasumi
+link:
+  MyAnimeList: https://myanimelist.net/anime/40397/Maoujou_de_Oyasumi
 ---
 
 

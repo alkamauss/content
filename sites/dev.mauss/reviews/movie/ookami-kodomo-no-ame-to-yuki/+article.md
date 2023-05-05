@@ -13,7 +13,8 @@ image:en: https://www.themoviedb.org/t/p/original/nqqovhsvsWbsb7LcGaIGDRZrwgB.jp
 image:jp: https://www.themoviedb.org/t/p/original/g95ioEtHZwGg1rlNViE7NSF6lqQ.jpg
 backdrop: https://www.themoviedb.org/t/p/original/gCQklTHvnlrTSugqU8zurw0zIy2.jpg
 
-link:mal: https://myanimelist.net/anime/12355/Ookami_Kodomo_no_Ame_to_Yuki
+link:
+  MyAnimeList: https://myanimelist.net/anime/12355/Ookami_Kodomo_no_Ame_to_Yuki
 ---
 
 

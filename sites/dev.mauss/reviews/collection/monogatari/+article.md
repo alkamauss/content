@@ -11,7 +11,8 @@ date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/f1Qpd7kzhLRFt1M2WZ7aCvgbRY6.jpg
 backdrop: https://www.themoviedb.org/t/p/original/gTmCOfKDVFrQp34tOUSx9qgd6LF.jpg
 
-link:mal: https://myanimelist.net/anime/5081/Bakemonogatari
+link:
+  MyAnimeList: https://myanimelist.net/anime/5081/Bakemonogatari
 ---
 
 

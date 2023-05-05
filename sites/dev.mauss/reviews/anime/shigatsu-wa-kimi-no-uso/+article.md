@@ -12,7 +12,8 @@ date:updated: "2020-08-16"
 image:en: https://image.tmdb.org/t/p/original/nksFLYTydth9OYVpMuMbtOBkvMO.jpg
 backdrop: https://image.tmdb.org/t/p/original/3qQFa8n5sFmrxMhcjUnKdg2CCOU.jpg
 
-link:mal: https://myanimelist.net/anime/23273/Shigatsu_wa_Kimi_no_Uso
+link:
+  MyAnimeList: https://myanimelist.net/anime/23273/Shigatsu_wa_Kimi_no_Uso
 ---
 
 

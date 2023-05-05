@@ -13,7 +13,8 @@ image:en: https://www.themoviedb.org/t/p/original/3NiRdFXb9xz7ZFgmZ0RmoWjkTvz.jp
 image:jp: https://www.themoviedb.org/t/p/original/nDEcaKXVlZUKm37PRVN3Q7kiZ7Q.jpg
 backdrop: https://www.themoviedb.org/t/p/original/8fsV0aqSHQlbyvZlWyynruat0MP.jpg
 
-link:mal: https://myanimelist.net/anime/41006/Higurashi_no_Naku_Koro_ni_Gou
+link:
+  MyAnimeList: https://myanimelist.net/anime/41006/Higurashi_no_Naku_Koro_ni_Gou
 ---
 
 

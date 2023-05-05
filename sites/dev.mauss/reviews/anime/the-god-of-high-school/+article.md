@@ -12,7 +12,8 @@ image:en: https://image.tmdb.org/t/p/original/gfMBnUVzWTlal8Hr0RfgnVe6kHW.jpg
 image:jp: https://image.tmdb.org/t/p/original/l1ZUDDME1jEIEfWiA89lHTDS3OX.jpg
 backdrop: https://image.tmdb.org/t/p/original/oIpHsVYc8rKXnebc97DDIpw8KFn.jpg
 
-link:mal: https://myanimelist.net/anime/41353/The_God_of_High_School
+link:
+  MyAnimeList: https://myanimelist.net/anime/41353/The_God_of_High_School
 ---
 
 

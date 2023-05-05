@@ -12,7 +12,8 @@ date:updated: "2020"
 image:en: https://www.themoviedb.org/t/p/original/lwRNHfZyPWOI2oFNfIoaXsiwGJB.jpg
 backdrop: https://www.themoviedb.org/t/p/original/8zpgSUqiYbMP3UPMKBnNbiB32c5.jpg
 
-link:mal: https://myanimelist.net/anime/18245/White_Album_2
+link:
+  MyAnimeList: https://myanimelist.net/anime/18245/White_Album_2
 ---
 
 > Heaviest heartbreak in anime history

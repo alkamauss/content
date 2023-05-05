@@ -14,7 +14,8 @@ image:en: https://image.tmdb.org/t/p/original/2hn2gJnTrntGWwpcugUvpncsNMK.jpg
 image:jp: https://image.tmdb.org/t/p/original/syBNkb4sSD1cqMJEnlwwcQGt4Qu.jpg
 backdrop: https://image.tmdb.org/t/p/original/aP4W7Lqcc0EU5ykc03DhLDZN9uP.jpg
 
-link:mal: https://myanimelist.net/anime/38256/Magia_Record__Mahou_Shoujo_Madoka%E2%98%86Magica_Gaiden_TV
+link:
+  MyAnimeList: https://myanimelist.net/anime/38256/Magia_Record__Mahou_Shoujo_Madoka%E2%98%86Magica_Gaiden_TV
 ---
 
 

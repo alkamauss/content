@@ -12,7 +12,8 @@ image:en: https://image.tmdb.org/t/p/original/vHdVU0HyyB6k6kuYt8qjwTz9one.jpg
 image:jp: https://image.tmdb.org/t/p/original/uyXndDbzlqjo19isdVW2dcCOUy6.jpg
 backdrop: https://image.tmdb.org/t/p/original/Zzk9YZlNkuOktEZUuaf2HKNc6B.jpg
 
-link:mal: https://myanimelist.net/anime/36098/Kimi_no_Suizou_wo_Tabetai
+link:
+  MyAnimeList: https://myanimelist.net/anime/36098/Kimi_no_Suizou_wo_Tabetai
 ---
 
 > I want to cry

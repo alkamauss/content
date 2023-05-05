@@ -13,7 +13,8 @@ image:en: https://image.tmdb.org/t/p/original/zrnwS0cKsdpi0SpJxqSz1Dw2JGS.jpg
 image:jp:
 backdrop: https://image.tmdb.org/t/p/original/hQSjBpfBMeqOOHsGPLacb7Gx3aZ.jpg
 
-link:mal: https://myanimelist.net/anime/31859/Hai_to_Gensou_no_Grimgar
+link:
+  MyAnimeList: https://myanimelist.net/anime/31859/Hai_to_Gensou_no_Grimgar
 ---
 
 

@@ -11,7 +11,8 @@ date:updated: "2020"
 image:en: https://www.themoviedb.org/t/p/original/3c5BIEfAhTCWrIi4C8WMuwOl6bX.jpg
 backdrop: https://www.themoviedb.org/t/p/original/oczFTWRBhKrJ4rNNhqKgp1O1PAu.jpg
 
-link:mal: https://myanimelist.net/anime/22199/Akame_ga_Kill/
+link:
+  MyAnimeList: https://myanimelist.net/anime/22199/Akame_ga_Kill/
 ---
 
 

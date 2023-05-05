@@ -13,7 +13,8 @@ image:en: https://www.themoviedb.org/t/p/original/5rbehM5zkF8xlLce4F9kJZWhqmU.jp
 image:jp: https://www.themoviedb.org/t/p/original/ioCuc65eEnAjulwjd9i8nOuIcRV.jpg
 backdrop: https://www.themoviedb.org/t/p/original/gDlx60iOCQjTLH53ybjAPOUyVIp.jpg
 
-link:mal: https://myanimelist.net/anime/849/suzumiya_haruhi_no_yuuutsu, https://myanimelist.net/anime/4382/Suzumiya_Haruhi_no_Yuuutsu_2009/
+link:
+  MyAnimeList: https://myanimelist.net/anime/849/suzumiya_haruhi_no_yuuutsu, https://myanimelist.net/anime/4382/Suzumiya_Haruhi_no_Yuuutsu_2009/
 ---
 
 

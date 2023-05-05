@@ -14,7 +14,8 @@ date:updated: 2020
 image:en: https://image.tmdb.org/t/p/original/dA93MnalfNLHMMlDcTCfX4QJb5Q.jpg
 image:jp:
 
-link:mal: https://myanimelist.net/anime/37999/Kaguya-sama_wa_Kokurasetai__Tensai-tachi_no_Renai_Zunousen
+link:
+  MyAnimeList: https://myanimelist.net/anime/37999/Kaguya-sama_wa_Kokurasetai__Tensai-tachi_no_Renai_Zunousen
 ---
 
 ![Kaguya-sama Love is War Backdrop](https://image.tmdb.org/t/p/original/dJ8yrSokdTMnhKJw06MllSfCegb.jpg)

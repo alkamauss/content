@@ -10,7 +10,8 @@ date:published: 2020
 date:updated:
 image:en: https://image.tmdb.org/t/p/original/7LTDVXVuQKERnukKJLoBbdNzMYh.jpg
 
-link:mal: https://myanimelist.net/anime/11757/Sword_Art_Online
+link:
+  MyAnimeList: https://myanimelist.net/anime/11757/Sword_Art_Online
 ---
 
 ![SAO Main Backdrop](https://image.tmdb.org/t/p/original/pDqx7g9nQxRCGch5WFKvDFmJ87o.jpg)

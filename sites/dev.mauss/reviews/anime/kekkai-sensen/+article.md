@@ -14,7 +14,8 @@ image:en: https://www.themoviedb.org/t/p/original/1IKNrWEqu2cpOmSpwHqaCbnbIzE.jp
 image:jp: https://www.themoviedb.org/t/p/original/uOUn6sBwkUjD72e9uf4F6nVfBRv.jpg
 backdrop: https://www.themoviedb.org/t/p/original/95dwaqiPjGFND2e4X0yWIzcIjWg.jpg
 
-link:mal: https://myanimelist.net/anime/24439/Kekkai_Sensen
+link:
+  MyAnimeList: https://myanimelist.net/anime/24439/Kekkai_Sensen
 ---
 
 

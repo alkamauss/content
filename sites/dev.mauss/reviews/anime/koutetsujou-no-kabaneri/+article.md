@@ -14,7 +14,8 @@ image:en: https://www.themoviedb.org/t/p/original/uBmcAZ7BRfVzb9nMPYm1MqpvNme.jp
 image:jp: https://www.themoviedb.org/t/p/original/5Iw4PGoSxJCAoFqmOa3ZnPWS5jY.jpg
 backdrop: https://www.themoviedb.org/t/p/original/rl3cHVMuHXr6XJ7jKDoXJamoqPI.jpg
 
-link:mal: https://myanimelist.net/anime/28623/Koutetsujou_no_Kabaneri
+link:
+  MyAnimeList: https://myanimelist.net/anime/28623/Koutetsujou_no_Kabaneri
 ---
 
 

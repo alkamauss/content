@@ -13,7 +13,8 @@ image:en: https://image.tmdb.org/t/p/original/vE0GqiDa3uNZ5zXUrFtLO6BYghc.jpg
 image:jp: https://image.tmdb.org/t/p/original/rqmIaOpTuT3TpJEvGww8cBTXQlJ.jpg
 backdrop: https://image.tmdb.org/t/p/original/blLWNqVBjV45DC6mwDaJL9whfiq.jpg
 
-link:mal: https://myanimelist.net/anime/41930/Kamisama_ni_Natta_Hi
+link:
+  MyAnimeList: https://myanimelist.net/anime/41930/Kamisama_ni_Natta_Hi
 ---
 
 

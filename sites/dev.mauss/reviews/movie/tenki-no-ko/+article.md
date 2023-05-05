@@ -12,7 +12,8 @@ image:en: https://image.tmdb.org/t/p/original/qgrk7r1fV4IjuoeiGS5HOhXNdLJ.jpg
 image:jp: https://image.tmdb.org/t/p/original/sGBRqb0Y3DlUpmYXPGUsy587ofd.jpg
 backdrop: https://image.tmdb.org/t/p/original/ize3ZieqSy0TCWljmVoEiy8fSFS.jpg
 
-link:mal: https://myanimelist.net/anime/38826/Tenki_no_Ko
+link:
+  MyAnimeList: https://myanimelist.net/anime/38826/Tenki_no_Ko
 ---
 
 

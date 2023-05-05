@@ -13,7 +13,8 @@ image:en: https://www.themoviedb.org/t/p/original/v34w6s4ZFSa13Arw0B7JHo84YfG.jp
 image:jp: https://www.themoviedb.org/t/p/original/bAzjpvXMd0D84BiBFTidZVpvHAW.jpg
 backdrop: https://www.themoviedb.org/t/p/original/dmIAGZwfk9r5hN7ONpRJLDij9GN.jpg
 
-link:mal: https://myanimelist.net/anime/48849/Sonny_Boy
+link:
+  MyAnimeList: https://myanimelist.net/anime/48849/Sonny_Boy
 ---
 
 

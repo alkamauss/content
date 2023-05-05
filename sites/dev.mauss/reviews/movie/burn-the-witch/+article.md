@@ -12,7 +12,8 @@ image:en: https://www.themoviedb.org/t/p/original/ySCAoHkQZPlcmux6ZhkIiBRmEOI.jp
 image:jp: https://www.themoviedb.org/t/p/original/6MzxxctLWIyBxI3HlEDq1FMp83F.jpg
 backdrop: https://www.themoviedb.org/t/p/original/q2OgeW2ysHsKGUxQLUBHZwv2rcw.jpg
 
-link:mal: https://myanimelist.net/anime/41468/Burn_the_Witch
+link:
+  MyAnimeList: https://myanimelist.net/anime/41468/Burn_the_Witch
 ---
 
 

@@ -12,7 +12,8 @@ date:updated: "2020"
 image:en: https://www.themoviedb.org/t/p/original/ImvHbM4GsJJykarnOzhtpG6ax6.jpg
 backdrop: https://www.themoviedb.org/t/p/original/jGaGlwJbg1MqUjswCe3zxTHbo8G.jpg
 
-link:mal: https://myanimelist.net/anime/33352/Violet_Evergarden
+link:
+  MyAnimeList: https://myanimelist.net/anime/33352/Violet_Evergarden
 ---
 
 

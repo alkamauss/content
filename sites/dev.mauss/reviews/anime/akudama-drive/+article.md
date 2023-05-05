@@ -13,7 +13,8 @@ image:en: https://image.tmdb.org/t/p/original/1s3fwsH3AjuyzObYHiptiYRgFa.jpg
 image:jp: https://image.tmdb.org/t/p/original/e0xNHFFiMJbU1eGu9d1fMKFecr7.jpg
 backdrop: https://image.tmdb.org/t/p/original/iUJpT94rezsCxM57sgo4egMTOyz.jpg
 
-link:mal: https://myanimelist.net/anime/41433/Akudama_Drive/
+link:
+  MyAnimeList: https://myanimelist.net/anime/41433/Akudama_Drive/
 ---
 
 

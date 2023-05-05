@@ -14,7 +14,8 @@ image:en: https://www.themoviedb.org/t/p/original/6vvqfs1Q4lDFhlzSNO5bWY4I4S.jpg
 image:jp: https://www.themoviedb.org/t/p/original/1RMq0WmgGBsJoQS53w53VjJaYP7.jpg
 backdrop: https://www.themoviedb.org/t/p/original/fmdDkTWvjrCYyOD9Xgqc3AbQcZr.jpg
 
-link:mal: https://myanimelist.net/anime/43969/Kanojo_mo_Kanojo
+link:
+  MyAnimeList: https://myanimelist.net/anime/43969/Kanojo_mo_Kanojo
 ---
 
 

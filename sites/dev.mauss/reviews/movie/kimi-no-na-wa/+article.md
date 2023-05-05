@@ -12,7 +12,8 @@ image:en: https://image.tmdb.org/t/p/original/f7UABkINaQCWMHUOkq1XdB7SFOS.jpg
 image:jp: https://image.tmdb.org/t/p/original/iyGAE2VqsRFT2Yp0e63L90qjHwU.jpg
 backdrop: https://image.tmdb.org/t/p/original/e7TRYDKXHQD6xLcmA1b0OtVt0E0.jpg
 
-link:mal: https://myanimelist.net/anime/32281/kimi_no_na_wa
+link:
+  MyAnimeList: https://myanimelist.net/anime/32281/kimi_no_na_wa
 ---
 
 

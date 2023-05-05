@@ -12,7 +12,8 @@ date:updated:
 image:en: https://image.tmdb.org/t/p/original/zGVbrulkupqpbwgiNedkJPyQum4.jpg
 image:jp: https://image.tmdb.org/t/p/original/y56HkHAbSZQJjQaxlqCaRI3lIHu.jpg
 
-link:mal: https://myanimelist.net/anime/39565/Boku_no_Hero_Academia_the_Movie_2__Heroes_Rising
+link:
+  MyAnimeList: https://myanimelist.net/anime/39565/Boku_no_Hero_Academia_the_Movie_2__Heroes_Rising
 ---
 
 ![Backdrop]()

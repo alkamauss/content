@@ -14,7 +14,8 @@ image:en: https://www.themoviedb.org/t/p/original/8D7QUo2w4TwfLXsC6Riy7TMhyje.jp
 image:jp: https://www.themoviedb.org/t/p/original/bh3yjvHZodeVMtI8NitZIcbrIUK.jpg
 backdrop: https://www.themoviedb.org/t/p/original/py5DjCbDekHpQkauSJToeO2FWjS.jpg
 
-link:mal: https://myanimelist.net/anime/40620/Uramichi_Oniisan
+link:
+  MyAnimeList: https://myanimelist.net/anime/40620/Uramichi_Oniisan
 ---
 
 

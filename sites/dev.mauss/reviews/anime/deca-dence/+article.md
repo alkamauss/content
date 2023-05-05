@@ -12,7 +12,8 @@ date:updated: 2020
 image:en: https://image.tmdb.org/t/p/original/i0XUehTP9Brtmb8YevpJYMNEWZT.jpg
 image:jp:
 
-link:mal: https://myanimelist.net/anime/40056/Deca-Dence/
+link:
+  MyAnimeList: https://myanimelist.net/anime/40056/Deca-Dence/
 ---
 
 ![Backdrop]()

@@ -13,7 +13,8 @@ image:en: https://www.themoviedb.org/t/p/original/dS5dut05RFNi3fOCn6iO31Eag9x.jp
 image:jp: https://www.themoviedb.org/t/p/original/7QxejkPuKYDJdN0vG8nmPeugDMV.jpg
 backdrop: https://www.themoviedb.org/t/p/original/zscbGuTQ5DX7UL4Xrl9XxIVtXDN.jpg
 
-link:mal: https://myanimelist.net/anime/33731/Gabriel_DropOut
+link:
+  MyAnimeList: https://myanimelist.net/anime/33731/Gabriel_DropOut
 ---
 
 

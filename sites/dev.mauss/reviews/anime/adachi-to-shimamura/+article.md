@@ -12,7 +12,8 @@ date:updated: "2020"
 image:en: https://image.tmdb.org/t/p/original/teSwoEFkqWFdmL2EdSvGVLU6sse.jpg
 backdrop: https://image.tmdb.org/t/p/original/syhRB7HfO1SaJyvCF1RPUx3M49g.jpg
 
-link:mal: https://myanimelist.net/anime/39790/Adachi_to_Shimamura
+link:
+  MyAnimeList: https://myanimelist.net/anime/39790/Adachi_to_Shimamura
 ---
 
 

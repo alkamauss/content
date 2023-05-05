@@ -14,7 +14,8 @@ image:en: https://image.tmdb.org/t/p/original/5JtqWxw69IanadNcraJ9v6Ccj2W.jpg
 image:jp: https://image.tmdb.org/t/p/original/2bpndpu56tH2Vl02fQpmTpdOkLe.jpg
 backdrop: https://image.tmdb.org/t/p/original/cifs43XOpsUYUgEDzcsU52AvcaP.jpg
 
-link:mal: https://myanimelist.net/anime/34822/Tsuki_ga_Kirei
+link:
+  MyAnimeList: https://myanimelist.net/anime/34822/Tsuki_ga_Kirei
 ---
 
 

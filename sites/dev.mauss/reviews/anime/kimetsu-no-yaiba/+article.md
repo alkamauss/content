@@ -11,5 +11,6 @@ seen:first: [2020-04-20, 2021-10-11T23:12:10, 2021-12-22T21:44:33]
 date:published: 2020
 image:en: https://image.tmdb.org/t/p/original/wrCVHdkBlBWdJUZPvnJWcBRuhSY.jpg
 
-link:mal: https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba
+link:
+  MyAnimeList: https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba
 ---

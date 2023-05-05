@@ -11,8 +11,9 @@ date:updated: 2020
 image:en: https://upload.wikimedia.org/wikipedia/en/a/a3/Subnautica_Below_Zero_cover_art.jpg
 backdrop: https://cdn.akamai.steamstatic.com/steam/apps/848450/header.jpg
 
-link:site: https://unknownworlds.com/subnautica/
-link:steam: https://store.steampowered.com/app/848450/Subnautica_Below_Zero/
+link:
+  Website: https://unknownworlds.com/subnautica/
+  Steam: https://store.steampowered.com/app/848450/Subnautica_Below_Zero/
 ---
 
 

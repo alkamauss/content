@@ -15,7 +15,8 @@ image:en:
 image:jp:
 backdrop:
 
-link:mal:
+link:
+  MyAnimeList:
 ---
 
 

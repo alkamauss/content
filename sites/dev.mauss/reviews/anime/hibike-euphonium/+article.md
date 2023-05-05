@@ -13,7 +13,8 @@ image:en: https://www.themoviedb.org/t/p/original/l0hKrx6PjQRrHiMzK2Fanen2xbL.jp
 image:jp: https://www.themoviedb.org/t/p/original/hiYEvZ9u5b5wtBUHa7J3t8DFEzg.jpg
 backdrop: https://www.themoviedb.org/t/p/original/jG1PPk0g3lNkpmu1eOQjLVTG4ml.jpg
 
-link:mal: https://myanimelist.net/anime/27989/Hibike_Euphonium
+link:
+  MyAnimeList: https://myanimelist.net/anime/27989/Hibike_Euphonium
 ---
 
 

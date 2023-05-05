@@ -9,7 +9,8 @@ seen:first: "2020-07-25"
 date:published: 2020
 image:en: https://image.tmdb.org/t/p/original/7Ai8vNEv4zEveh12JViGikoVPVV.jpg
 
-link:mal:
+link:
+  MyAnimeList: https://myanimelist.net/anime/38329/Seishun_Buta_Yarou_wa_Yumemiru_Shoujo_no_Yume_wo_Minai
 ---
 
 ![Backdrop]()

@@ -11,7 +11,8 @@ date:published: 2020
 date:updated:
 image:en: https://image.tmdb.org/t/p/original/mlJQS0Oh9MGv7pJrh0xsVYRYpFp.jpg
 
-link:mal: https://myanimelist.net/anime/11771/Kuroko_no_Basket
+link:
+  MyAnimeList: https://myanimelist.net/anime/11771/Kuroko_no_Basket
 ---
 
 ## Season 1

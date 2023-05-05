@@ -12,7 +12,8 @@ date:updated: "2020"
 image:en: https://www.themoviedb.org/t/p/original/3pTwMUEavTzVOh6yLN0aEwR7uSy.jpg
 backdrop: https://www.themoviedb.org/t/p/original/10jVpNPcl9uzVR7W6EXKRyKLTXZ.jpg
 
-link:mal: https://myanimelist.net/anime/48561/Jujutsu_Kaisen_0_Movie
+link:
+  MyAnimeList: https://myanimelist.net/anime/48561/Jujutsu_Kaisen_0_Movie
 ---
 
 

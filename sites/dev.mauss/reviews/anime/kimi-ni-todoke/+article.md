@@ -12,7 +12,8 @@ image:en: https://www.themoviedb.org/t/p/original/2XZ0Ofg1ZUZMFrbyWJuakSJAKZz.jp
 image:jp:
 backdrop: https://www.themoviedb.org/t/p/original/1AXPzsKXFFNmMaiik6H6I4uBrLZ.jpg
 
-link:mal: https://myanimelist.net/anime/6045/Kimi_ni_Todoke
+link:
+  MyAnimeList: https://myanimelist.net/anime/6045/Kimi_ni_Todoke
 ---
 
 

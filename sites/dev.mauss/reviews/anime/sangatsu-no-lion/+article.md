@@ -14,7 +14,8 @@ image:en: https://www.themoviedb.org/t/p/original/z7XceZ0n0f032yaq8R2zSimsjVl.jp
 image:jp: https://www.themoviedb.org/t/p/original/4VljT9YV6oTG757x7yGsMc34hNs.jpg
 backdrop: https://www.themoviedb.org/t/p/original/2TGzDJb2Hjy5qVkw3W1Z5Drj19U.jpg
 
-link:mal: https://myanimelist.net/anime/31646/3-gatsu_no_Lion
+link:
+  MyAnimeList: https://myanimelist.net/anime/31646/3-gatsu_no_Lion
 ---
 
 

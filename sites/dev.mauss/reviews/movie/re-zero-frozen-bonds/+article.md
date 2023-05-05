@@ -11,7 +11,8 @@ date:published: 2020
 image:en: https://image.tmdb.org/t/p/original/4fkROBkc3zHVRbmf65A4V46pznD.jpg
 backdrop: https://image.tmdb.org/t/p/original/9K1zhrS8jZ3NFZwzc5RgtwxskLT.jpg
 
-link:mal: https://myanimelist.net/anime/38414/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_-_Hyouketsu_no_Kizuna
+link:
+  MyAnimeList: https://myanimelist.net/anime/38414/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_-_Hyouketsu_no_Kizuna
 ---
 
 ![Backdrop]()

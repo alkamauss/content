@@ -10,5 +10,6 @@ date:published: 2020
 date:updated:
 image:en: https://image.tmdb.org/t/p/original/5ZFUEOULaVml7pQuXxhpR2SmVUw.jpg
 
-link:mal: https://myanimelist.net/anime/5114/fullmetal_alchemist__brotherhood/
+link:
+  MyAnimeList: https://myanimelist.net/anime/5114/fullmetal_alchemist__brotherhood/
 ---

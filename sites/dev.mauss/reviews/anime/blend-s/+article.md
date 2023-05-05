@@ -12,7 +12,8 @@ image:en: https://www.themoviedb.org/t/p/original/mMsibXak1hJ9tsRYCF7tDYN319w.jp
 image:jp: https://www.themoviedb.org/t/p/original/tnXia9NMALayM8RVoymTsaO5VqK.jpg
 backdrop: https://www.themoviedb.org/t/p/original/olaQVzQsMGVvcOWzekUsRhMJlXJ.jpg
 
-link:mal: https://myanimelist.net/anime/34618/Blend_S
+link:
+  MyAnimeList: https://myanimelist.net/anime/34618/Blend_S
 ---
 
 

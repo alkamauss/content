@@ -9,7 +9,8 @@ seen:first: "2020-07-14"
 date:published: 2020
 image:en: https://image.tmdb.org/t/p/original/5Wf9Y6gucbu1LMe1FyqD8TQjaNM.jpg
 
-link:mal: https://myanimelist.net/anime/32182/Mob_Psycho_100
+link:
+  MyAnimeList: https://myanimelist.net/anime/32182/Mob_Psycho_100
 ---
 
 ![Backdrop]()

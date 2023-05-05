@@ -10,7 +10,8 @@ seen:first: "2020-07-14"
 date:published: 2020
 image:en: https://image.tmdb.org/t/p/original/f5KeRheRVlru6Xexp7MadGB0YEd.jpg
 
-link:mal:
+link:
+  MyAnimeList: https://myanimelist.net/anime/36286/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_-_Memory_Snow
 ---
 
 ![Backdrop]()

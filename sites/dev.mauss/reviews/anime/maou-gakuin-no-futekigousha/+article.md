@@ -14,7 +14,8 @@ image:en: https://image.tmdb.org/t/p/original/xBNR7V4s5b0qQfRCiyEvIC5PS6v.jpg
 image:jp: https://image.tmdb.org/t/p/original/kxmhwYaQS98wxV44jPmrIePUGlT.jpg
 backdrop: https://image.tmdb.org/t/p/original/bxTRLwRy5E3d97loCxXp136vDDu.jpg
 
-link:mal: https://myanimelist.net/anime/40496/Maou_Gakuin_no_Futekigousha__Shijou_Saikyou_no_Maou_no_Shiso_Tensei_shite_Shison-tachi_no_Gakkou_e
+link:
+  MyAnimeList: https://myanimelist.net/anime/40496/Maou_Gakuin_no_Futekigousha__Shijou_Saikyou_no_Maou_no_Shiso_Tensei_shite_Shison-tachi_no_Gakkou_e
 ---
 
 

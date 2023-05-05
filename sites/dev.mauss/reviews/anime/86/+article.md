@@ -12,7 +12,8 @@ date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/96mUvRlJBYOMBdbn30wtoh7QrpY.jpg
 backdrop: https://www.themoviedb.org/t/p/original/lSlL2CAPSDJ9gf2MZX0x2u2inKX.jpg
 
-link:mal: https://myanimelist.net/anime/41457/86
+link:
+  MyAnimeList: https://myanimelist.net/anime/41457/86
 ---
 
 

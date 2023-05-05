@@ -13,7 +13,8 @@ image:en: https://www.themoviedb.org/t/p/original/1RLXQqX3Lv50uBECZIzuqGW887t.jp
 image:jp: https://www.themoviedb.org/t/p/original/6Ko7FFoF8r4xj2bjAvpbyK7BAiT.jpg
 backdrop: https://www.themoviedb.org/t/p/original/nj20Lwljko9rqJfbRgfcgxPkqIC.jpg
 
-link:mal: https://myanimelist.net/anime/36296/Hinamatsuri_TV
+link:
+  MyAnimeList: https://myanimelist.net/anime/36296/Hinamatsuri_TV
 ---
 
 

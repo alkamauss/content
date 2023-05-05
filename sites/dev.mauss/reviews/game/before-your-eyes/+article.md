@@ -11,8 +11,9 @@ date:updated: 2020
 image:en: https://howlongtobeat.com/games/90830_Before_Your_Eyes.jpg
 backdrop: https://cdn.cloudflare.steamstatic.com/steam/apps/1082430/header.jpg
 
-link:site: https://www.beforeyoureyesgame.com/
-link:steam: https://store.steampowered.com/app/1082430/Before_Your_Eyes/
+link:
+  Website: https://www.beforeyoureyesgame.com/
+  Steam: https://store.steampowered.com/app/1082430/Before_Your_Eyes/
 ---
 
 

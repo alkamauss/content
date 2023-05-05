@@ -12,5 +12,6 @@ date:updated: 2020
 image:en: https://image.tmdb.org/t/p/original/vR6rPnVyWUSU7im2QcKXwSjjCXM.jpg
 image:jp:
 
-link:mal: https://myanimelist.net/anime/32901/eromanga-sensei
+link:
+  MyAnimeList: https://myanimelist.net/anime/32901/eromanga-sensei
 ---

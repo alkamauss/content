@@ -10,7 +10,8 @@ date:published: 2020
 date:updated:
 image:en: https://image.tmdb.org/t/p/original/ecQ84z2sR0XapZu435MnFuEBzD8.jpg
 
-link:mal: https://myanimelist.net/anime/20583/Haikyuu
+link:
+  MyAnimeList: https://myanimelist.net/anime/20583/Haikyuu
 ---
 
 ![Backdrop](https://image.tmdb.org/t/p/original/dlPVXJglJ4XiIwbGwEFJj5C20Sr.jpg)

@@ -9,7 +9,8 @@ seen:first: "2021-03-25"
 date:published: 2020
 image:en: https://image.tmdb.org/t/p/original/5DZa4aDH5MZGcZDf8ouTxm2kH2Y.jpg
 
-link:mal: https://myanimelist.net/anime/31240/Re_Zero_kara_Hajimeru_Isekai_Seikatsu
+link:
+  MyAnimeList: https://myanimelist.net/anime/31240/Re_Zero_kara_Hajimeru_Isekai_Seikatsu
 ---
 
 ![Backdrop]()

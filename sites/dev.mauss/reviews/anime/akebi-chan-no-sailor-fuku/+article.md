@@ -14,7 +14,8 @@ image:en: https://www.themoviedb.org/t/p/original/OYFPuwKz7rs0yH5RkaExrOKVz7.jpg
 image:jp: https://www.themoviedb.org/t/p/original/luZhX5AQnk527jAdTnSrmoHErGK.jpg
 backdrop: https://www.themoviedb.org/t/p/original/a1WoczWsA55SkWMCBmfLIO0KgGJ.jpg
 
-link:mal: https://myanimelist.net/anime/48553/Akebi-chan_no_Sailor-fuku
+link:
+  MyAnimeList: https://myanimelist.net/anime/48553/Akebi-chan_no_Sailor-fuku
 ---
 
 

@@ -13,7 +13,8 @@ image:en: https://www.themoviedb.org/t/p/original/48GLvRh3lgh5gjl0uVen60bslRM.jp
 image:jp: https://www.themoviedb.org/t/p/original/6OjjS4ED066UU0xgv2z09CHFeE3.jpg
 backdrop: https://www.themoviedb.org/t/p/original/lW2deyLDrwcYO2iHCuVpj7r1FnQ.jpg
 
-link:mal: https://myanimelist.net/anime/9756/Mahou_Shoujo_Madoka%E2%98%85Magica
+link:
+  MyAnimeList: https://myanimelist.net/anime/9756/Mahou_Shoujo_Madoka%E2%98%85Magica
 ---
 
 

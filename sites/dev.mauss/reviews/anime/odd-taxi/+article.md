@@ -14,7 +14,8 @@ image:en: https://www.themoviedb.org/t/p/original/9zLfAyCGLBYbSK7lEQpAY5BRBrc.jp
 image:jp: https://www.themoviedb.org/t/p/original/faffn2RHByUlCm40DUsahp036Nw.jpg
 backdrop: https://www.themoviedb.org/t/p/original/rhkUlX7Ahod8sagYIZa21aHpglz.jpg
 
-link:mal: https://myanimelist.net/anime/46102/Odd_Taxi
+link:
+  MyAnimeList: https://myanimelist.net/anime/46102/Odd_Taxi
 ---
 
 

@@ -12,7 +12,8 @@ date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/ehz2kV5YxoIbfD9WQnP5pkSkKUv.jpg
 backdrop: https://www.themoviedb.org/t/p/original/wpJnPlRAGBf5YRxp0b64T1hZKOM.jpg
 
-link:mal: https://myanimelist.net/anime/41694/Hataraku_Saibou_Black_TV
+link:
+  MyAnimeList: https://myanimelist.net/anime/41694/Hataraku_Saibou_Black_TV
 ---
 
 

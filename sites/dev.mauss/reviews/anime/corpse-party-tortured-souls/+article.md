@@ -13,7 +13,8 @@ image:en: https://www.themoviedb.org/t/p/original/aP72Yn8rkmZpGZB3fdzQBS3rlr6.jp
 image:jp: https://www.themoviedb.org/t/p/original/2g7s4sT5ybJENO5AMOlZ0dor4q.jpg
 backdrop: https://www.themoviedb.org/t/p/original/g2c3CmSjnNujga6jQHRmH1CwFtH.jpg
 
-link:mal: https://myanimelist.net/anime/15037/corpse_party__tortured_souls_-_bougyakusareta_tamashii_no_jukyou
+link:
+  MyAnimeList: https://myanimelist.net/anime/15037/corpse_party__tortured_souls_-_bougyakusareta_tamashii_no_jukyou
 ---
 
 ## Synopsis

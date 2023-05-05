@@ -12,7 +12,8 @@ image:en: https://www.themoviedb.org/t/p/original/g1rK2nRXSidcMwNliWDIroWWGTn.jp
 image:jp: https://www.themoviedb.org/t/p/original/ZhFzMk2UvUZMvWEsCW5lKXn9tN.jpg
 backdrop: https://www.themoviedb.org/t/p/original/8DLpbLeUylcUnE4nTlRC4b6jzNz.jpg
 
-link:mal: https://myanimelist.net/anime/40748/Jujutsu_Kaisen_TV
+link:
+  MyAnimeList: https://myanimelist.net/anime/40748/Jujutsu_Kaisen_TV
 ---
 
 

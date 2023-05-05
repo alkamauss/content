@@ -13,7 +13,8 @@ image:en: https://www.themoviedb.org/t/p/original/1WP2MrTIXJ8NI5tvqBk4ZD4ju9O.jp
 image:jp: https://www.themoviedb.org/t/p/original/6bhBDOTFQltBGya5VvkGOjJsfP5.jpg
 backdrop: https://www.themoviedb.org/t/p/original/uhbZZqqWMZ1IXyNperZY5URF9ah.jpg
 
-link:mal: https://myanimelist.net/anime/37105/Grand_Blue
+link:
+  MyAnimeList: https://myanimelist.net/anime/37105/Grand_Blue
 ---
 
 

@@ -13,7 +13,8 @@ image:en: https://image.tmdb.org/t/p/original/6XQ2F5bZLWfAmayKyJtZKxn5Tcl.jpg
 image:jp:
 backdrop: https://image.tmdb.org/t/p/original/5LR3Mu8AgaVEQmGFvYKqlzaxzTg.jpg
 
-link:mal: https://myanimelist.net/anime/13759/Sakura-sou_no_Pet_na_Kanojo
+link:
+  MyAnimeList: https://myanimelist.net/anime/13759/Sakura-sou_no_Pet_na_Kanojo
 ---
 
 

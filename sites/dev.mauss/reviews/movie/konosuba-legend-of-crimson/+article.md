@@ -13,7 +13,8 @@ image:en: https://image.tmdb.org/t/p/original/fv5BgcfkpWh3V6Pb1qVlXESBOdl.jpg
 image:jp: https://image.tmdb.org/t/p/original/53dnagcrDt8AOuT9F40BBjm7YpE.jpg
 backdrop: https://image.tmdb.org/t/p/original/bGKFAQsxS0dzRYSvyspRm0rZlfo.jpg
 
-link:mal: https://myanimelist.net/anime/38040/Kono_Subarashii_Sekai_ni_Shukufuku_wo__Kurenai_Densetsu
+link:
+  MyAnimeList: https://myanimelist.net/anime/38040/Kono_Subarashii_Sekai_ni_Shukufuku_wo__Kurenai_Densetsu
 ---
 
 > [The best movie that you'll only watch once.](https://www.reddit.com/r/AskReddit/comments/j3jjom/what_movie_fucked_you_straight_in_your_feelings/g7cm9qe?context=3)

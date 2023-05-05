@@ -12,7 +12,8 @@ date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/sGmtNIVyZHqB0MLmbleNG4GmRVV.jpg
 backdrop: https://www.themoviedb.org/t/p/original/pFlKmFYSf90lsKTSbNlqTtAQhyN.jpg
 
-link:mal: https://myanimelist.net/anime/6211/Tokyo_Magnitude_80
+link:
+  MyAnimeList: https://myanimelist.net/anime/6211/Tokyo_Magnitude_80
 ---
 
 

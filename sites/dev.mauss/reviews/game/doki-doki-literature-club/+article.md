@@ -11,9 +11,10 @@ date:updated: 2020
 image:en: https://i.redd.it/aa82mb7ipav01.png
 backdrop: https://wallpapercave.com/wp/wp2501296.jpg
 
-link:site: https://ddlc.moe/
-link:itch: https://teamsalvato.itch.io/ddlc
-link:steam: https://store.steampowered.com/app/698780/Doki_Doki_Literature_Club/
+link:
+  Website: https://ddlc.moe/
+  itch.io: https://teamsalvato.itch.io/ddlc
+  Steam: https://store.steampowered.com/app/698780/Doki_Doki_Literature_Club/
 ---
 
 
