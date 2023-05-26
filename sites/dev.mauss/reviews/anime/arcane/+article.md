@@ -13,7 +13,7 @@ image:en: https://www.themoviedb.org/t/p/original/3YBpdwJwLecxGDguVITeDBP0kTd.jp
 backdrop: https://www.themoviedb.org/t/p/original/q8eejQcg1bAqImEV8jh8RtBD4uH.jpg
 
 link: 
-  IMDB: https://www.imdb.com/title/tt11126994/
+  IMDb: https://www.imdb.com/title/tt11126994/
 ---
 
 

@@ -13,7 +13,7 @@ backdrop: https://www.themoviedb.org/t/p/original/dDdXTkM2mFcIiXbbNjT1paIPYXI.jp
 
 link:
   Amazon: https://www.amazon.com/dp/B08WJMRHYZ
-  IMDB: https://www.imdb.com/title/tt6741278/
+  IMDb: https://www.imdb.com/title/tt6741278/
 ---
 
 
