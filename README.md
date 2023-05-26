@@ -4,9 +4,7 @@ Home to all content in mauss.dev.
 
 ## Writing
 
-Contents inside `src` are structured exactly as the URL in the site.
-
-Consider each individual file as each own post or article, inside it should
+Consider each folder its own route, and the `+article.md` file as the contents of the page. There's a couple of rules to follow when writing a post:
 
 - Abide default `markdownlint` rules and [specified ones](.markdownlint.yaml)
 - Have a front matter with at least a `title` property
@@ -16,13 +14,14 @@ Use your own metadata by adding this template to the front matter when you're wr
 
 ```yaml
 ---
-author:name: Kimi no Na wa
-author:img: /assets/profile/USERNAME.(jpg|png)
-author:link: https://social.media/USERNAME
+author:
+  name: Kimi no Na wa
+  img: /assets/profile/USERNAME.(jpg|png)
+  link: https://social.media/USERNAME
 ---
 ```
 
-Replace the value of `author:name` with your own name (or the post's author if you're opening a PR for someone else). If it's your first time writing, you can add your own avatar image into [`assets/profile`](assets/profile) folder, and reference it in `author:img`. Otherwise, just reference the avatar image file again. Lastly, replace the link in `author:link` with any link you want to point readers when clicking your avatar image.
+Replace the value of `name:` with your own name (or the post's author if you're opening a PR for someone else). If it's your first time writing, you can add your own avatar image into [`assets/profile`](assets/profile) folder, and reference it in `img:`. Otherwise, just reference the avatar image file again. Finally, replace the link in `link:` with any link you want to point readers when clicking your avatar image.
 
 ***
 
