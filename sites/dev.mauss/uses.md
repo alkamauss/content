@@ -1,6 +1,6 @@
 ---
+date: "2020-06-24"
 title: Uses
-date:updated: "2020-06-24"
 ---
 
 > Unless there's a good argument, always prioritize **quality** over price, and rarely ever quantity
