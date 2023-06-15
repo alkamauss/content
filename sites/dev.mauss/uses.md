@@ -3,7 +3,7 @@ date: "2020-06-24"
 title: Uses
 ---
 
-> Unless there's a good argument, always prioritize **quality** over price, and rarely ever quantity
+> Quality > Quantity
 
 This is the rule I've always look back to when looking for something. Living off of this really saves me in a lot of aspects. Always keep in mind that there's always a tradeoff when buying something, always.
 
@@ -17,11 +17,11 @@ This might not make much sense right now, but take a look at the top item on my 
 
 ### Code & Text Editor
 
-- [VS Code](https://code.visualstudio.com/)
+- [Visual Studio Code](https://code.visualstudio.com/)
 
-This is my code editor for almost all the projects I do. I've been using this since late 2017 to early 2018, right after I've finished my first semester as a CS student. Although it is quite heavy, it's perfect for any small to big projects, especially if you tend to change languages and workflows quite frequently.
+Also known as VSCode. This is my code editor for almost all the projects I do. I've been using this since late 2017 to early 2018, right after I've finished my first semester as a CS student. Although it is quite heavy, it's perfect for any small to big projects, especially if you tend to change languages and workflows quite frequently.
 
-- [Sublime Text 3](https://www.sublimetext.com/)
+- [Sublime Text 4](https://www.sublimetext.com/)
 
 This is my alternative text editor for a quick and easy edit to a single file, something that only needs minor editing and not much time to spend on.
 
