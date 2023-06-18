@@ -18,4 +18,4 @@ jobs:
           node-version: 18
           cache: pnpm
 
-      - run: pnpm dlx markdownlint-cli src/**/*.md
+      - run: pnpm dlx markdownlint-cli **/*.md
