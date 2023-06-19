@@ -6,9 +6,10 @@ Home to all content in mauss.dev.
 
 Consider each folder its own route, and the `+article.md` file as the contents of the page. There's a couple of rules to follow when writing a post:
 
-- Abide default `markdownlint` rules and [specified ones](.markdownlint.yaml)
+- Follow [the semantics of Marqua](https://marqua.mauss.dev/#semantics)
+- Follow the [default](https://github.com/markdownlint/markdownlint/blob/main/docs/RULES.md) and [specified](.markdownlint.yaml) `markdownlint` rules
 - Have a front matter with at least a `title` property
-- Have a body with only `h2`, `h3`, or `h4` tags
+- When specifying a `date` property, use the [simplified ISO 8601](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format) format wrapped in double quotes
 
 Use your own metadata by adding this template to the front matter when you're writing your own post.
 
