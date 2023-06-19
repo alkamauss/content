@@ -43,9 +43,9 @@ I'm telling all of this, as well as my [Past](/posts/one-hundredth-of-a-light-ye
 
 I've decided to drop most of my social media some time ago, I didn't fully purge my account since it would disrupt the balance of my online analytics and presence. Lol no, I just kept it so people who needs it can still search for my account, and so that my past self is preserved as an online historical reminiscence for my future self and of course my offsprings.
 
-Dropping social medias and other time-consuming apps have had a huge impact in my life. I might make a separate dedicated post for this, but I can quite confidently say that I'm happier and my mind is more relaxed than before. I got way more time for myself, family, and those friends around me I truly care about.
+Dropping social media and other time-consuming apps have had a huge impact in my life. I might make a separate dedicated post for this, but I can quite confidently say that I'm happier and my mind is more relaxed than before. I got way more time for myself, family, and those friends around me I truly care about.
 
-Because of that, I'll probably drop some more of my online accounts, and probably never come back for good this time. So please don't take offence if I don't reply when you've sent me a message, I'll make an effort to update the list frequently about my socials in [my about section](/about/socials) when I change, drop, or add something.
+Because of that, I'll probably drop some more of my online accounts, and probably never come back for good this time. So please don't take offence if I don't reply when you've sent me a message, I'll make an effort to update the list frequently about my socials in [my about section](/about/) when I change, drop, or add something.
 
 > If you can't think of anything nice to say, don't say anything at all
 
