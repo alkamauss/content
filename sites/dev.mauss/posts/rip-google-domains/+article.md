@@ -1,5 +1,5 @@
 ---
-date: "2023-06-20T17:00:00+07:00"
+date: "2023-06-21T12:00:00+07:00"
 title: RIP Google Domains - Exploring New Digital Homes for Our Domains
 description: In the wake of Alphabet shutting down Google Domains, many of us are looking for alternatives to move our domains to, especially for our dev domains
 tags: [tech]
@@ -8,7 +8,7 @@ thumbnail: https://9to5google.com/wp-content/uploads/sites/4/2022/03/google-doma
 
 I've been critical of Google services and products ever since I knew about their [products graveyard](https://killedbygoogle.com/). I've been careful and diligent in my research before I decided to go for any of their stuff, and their registrar service was no exception. There were no hidden fees or additional cost for privacy protection, just plain and simple domain registration for X amount of whatever currency per year, it's great.
 
-Well, seems like *all good things must come to an end*, ["Alphabet selling Google Domains assets to Squarespace"](https://news.ycombinator.com/item?id=36346454). Fireship immediately made [a video about it](https://youtu.be/1GSq7Je32iw), which didn't seem to bother me at the time, until I got another semi-related email from Google just 2 days after, announcing that they're also shutting down Album Archive.
+Well, seems like *all good things must come to an end*, ["Alphabet selling Google Domains assets to Squarespace"](https://news.ycombinator.com/item?id=36346454). Fireship immediately made [a video about it](https://youtu.be/1GSq7Je32iw), which didn't seem to bother me at the time, until I got another semi-related email from Google just 2 days after, announcing that they're also [shutting down Album Archive](https://news.ycombinator.com/item?id=36366105).
 
 Quoted from [Squarespace's blog post](https://newsroom.squarespace.com/blog/googledomains), this does not comfort me at the slightest...
 
@@ -45,6 +45,7 @@ Reference(s):
 - <https://newsroom.squarespace.com/blog/googledomains>
 - <https://www.youtube.com/watch?v=1GSq7Je32iw>
 - <https://9to5google.com/2023/06/15/google-domains-squarespace/>
+- <https://news.ycombinator.com/item?id=36366105>
 - <https://9to5google.com/2023/06/16/google-album-archive-photos-delete/>
 - <https://www.namepros.com/threads/porkbun-vs-sav-looking-to-change-registrars.1288500/>
 - <https://www.reddit.com/r/Domains/comments/px3aik/is_savcom_a_legit_one/>
