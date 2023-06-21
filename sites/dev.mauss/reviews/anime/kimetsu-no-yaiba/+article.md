@@ -14,3 +14,6 @@ image:en: https://image.tmdb.org/t/p/original/wrCVHdkBlBWdJUZPvnJWcBRuhSY.jpg
 link:
   MyAnimeList: https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba
 ---
+
+Started S4 on 2023-04-10T20:46:00+07:00
+Finished S4 on 2023-06-19T13:53:00+07:00

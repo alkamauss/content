@@ -5,6 +5,7 @@ genres: [action, comedy, supernatural]
 rating: [10,9,10,10]
 verdict: pending
 
+completed: "2022-12-22T02:24:00+07:00"
 seen:first: "2020-07-14"
 date:published: 2020
 image:en: https://image.tmdb.org/t/p/original/5Wf9Y6gucbu1LMe1FyqD8TQjaNM.jpg
@@ -33,6 +34,8 @@ link:
 ### /10 | Characters
 
 ## Verdict
+
+Started S3 on 2022-10-06T23:58:00+07:00
 
 <!-- SPOILERS -->
 

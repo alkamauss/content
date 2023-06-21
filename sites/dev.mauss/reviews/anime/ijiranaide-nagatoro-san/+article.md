@@ -6,7 +6,7 @@ genres: [slice of life, comedy, romance]
 rating: [story,artwork,sound,characters]
 verdict: pending
 
-completed: "2021-06-27"
+completed: "2023-03-25T21:45:00+07:00"
 seen:first: "2021-04-11"
 date:published: 2020
 date:updated: 2020
@@ -36,6 +36,9 @@ link:
 ### !{rating:3}/10 | Characters
 
 ## Verdict
+
+Started S2 on 2023-01-15T14:39:00+07:00
+Finished S2 on 2023-03-25T21:45:00+07:00
 
 ## $SPOILERS
 
