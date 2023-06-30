@@ -7,7 +7,7 @@ verdict: pending
 
 seen:first: "2020-07-19"
 date:published: 2020
-image:en: https://fanart.tv/fanart/tv/277464/tvposter/ping-pong-54b1f27191477.jpg
+image:en: https://www.themoviedb.org/t/p/original/snzSlLQwaIizMOx6A7WJ9aty4zp.jpg
 
 link:
   MyAnimeList: https://myanimelist.net/anime/22135/Ping_Pong_the_Animation

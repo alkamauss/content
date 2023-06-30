@@ -5,6 +5,7 @@ genres: [action, adventure, fantasy, shounen, super power]
 rating: [story,artwork,sound,characters]
 verdict: pending
 
+completed: "2022-11-18T00:09:00+07:00"
 seen:first: "2021-03-14"
 date:published: 2020
 date:updated: 2020
@@ -33,6 +34,10 @@ link:
 ### !{rating:3}/10 | Characters
 
 ## Verdict
+
+Finished S2 on 2022-11-06T21:07:00+07:00
+Started S3 on 2022-11-16T20:19:00+07:00
+Finished S3E12 on 2022-11-18T00:09:00+07:00
 
 ## $SPOILERS
 
