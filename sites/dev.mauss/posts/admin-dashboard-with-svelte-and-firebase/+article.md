@@ -388,7 +388,7 @@ Inside the `<FirebaseApp>` tag, we'll handle everything including our sign-in ha
     error = '';
     const { email, password } = event.detail;
     let valids = admins.map(admin => admin.email);
-    if (!valids.includes(email)) return (error = 'You're not admin.');
+    if (!valids.includes(email)) return (error = "You're not admin.");
     auth.signInWithEmailAndPassword(email, password).catch(function(err) {
       if (err.code === 'auth/wrong-password') error = 'Wrong password.';
       else error = err.message;
