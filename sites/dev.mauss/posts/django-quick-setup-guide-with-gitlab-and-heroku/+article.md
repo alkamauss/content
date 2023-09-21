@@ -48,7 +48,7 @@ It offers multiple plans, but usually the free tier is more than enough for expe
 7. create a **deployment.sh** file
 
     ```bash
-    ~deployment.sh
+    #$ file: deployment.sh
     #!/bin/bash
     python manage.py makemigrations
     python manage.py migrate
@@ -57,14 +57,14 @@ It offers multiple plans, but usually the free tier is more than enough for expe
 8. create **Procfile** to specify executed commands by Heroku app
 
     ```
-    ~Procfile
+    #$ file: Procfile
     migrate: bash deployment.sh
     web: gunicorn your_project_name.wsgi
     ```
 
     *Note* - **Procfile** without an extension, is an essential file for your Heroku app and must be placed in the app's root directory to explicitly declare a **process type** from a variety you can choose from. For more information, visit [Heroku's article about Procfile](https://devcenter.heroku.com/articles/procfile)
 
-9. get your [**.gitignore** file](https://rebrand.ly/DjangoGitIgnore) before you commit anything
+9. get your [**.gitignore** file](https://github.com/github/gitignore/blob/main/Python.gitignore) before you commit anything
 
 ### PART B &bull; Python Virtual Environment
 
@@ -97,7 +97,7 @@ Another reason to use this is so that other people could recreate the exact envi
 6. Create a text file called **requirements** and copy all dependencies in the code block below
 
     ```
-    ~requirements.txt
+    #$ file: requirements.txt
     astroid==2.0.4
     autopep8==1.4.2
     certifi==2018.8.24
@@ -151,7 +151,7 @@ Another reason to use this is so that other people could recreate the exact envi
 3. Add and modify these lines in your project's settings file
 
     ```python
-    ~project/settings.py
+    #$ file: project/settings.py
     import os
     import dj_database_url
 
@@ -195,7 +195,7 @@ Another reason to use this is so that other people could recreate the exact envi
       - 23 &rarr; to set the global template in your root directory as a folder called 'template'
 
       ```python
-      ~project/settings.py#92
+      #$ file: project/settings.py#92
       # If Using Heroku Environment, then Use Database Setting on Heroku
       if PRODUCTION:
           DATABASES['default'] = dj_database_url.config()
@@ -204,7 +204,7 @@ Another reason to use this is so that other people could recreate the exact envi
       - Set Database to Heroku's
 
       ```python
-      ~project/settings.py#130
+      #$ file: project/settings.py#130
       PROJECT_ROOT = os.path.dirname(os.path.abspath(__file__))
 
       # Static files (CSS, JavaScript, Images)
@@ -228,7 +228,7 @@ Another reason to use this is so that other people could recreate the exact envi
 4. Add the path to your app in your project's urls file
 
     ```python
-    ~project/urls.py
+    #$ file: project/urls.py
     from django.contrib import admin
     from django.urls import include, path
 
@@ -247,7 +247,7 @@ Another reason to use this is so that other people could recreate the exact envi
 5. modify these files in your apps
 
     ```python
-    ~project/urls.py
+    #$ file: project/urls.py
     from django.urls import path
     from .views import *
 
@@ -257,7 +257,7 @@ Another reason to use this is so that other people could recreate the exact envi
     ```
 
     ```python
-    ~project/views.py
+    #$ file: project/views.py
     from django.shortcuts import render
 
     def called_name(request):
