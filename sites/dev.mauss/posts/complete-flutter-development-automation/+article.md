@@ -146,18 +146,18 @@ RUN flutter doctor -v && appcenter
 Here's the said `Dockerfile` I use to create my image. I'll be going through each line of code one by one.
 
 - `1` - Here we're saying to use the latest ubuntu image as our initial image.
-- `3-4` - We're saying we want to create a folder on root called **development** and work .inside that directory. So, all of the files we handle will be contained inside this directory.
+- `3-4` - We're saying we want to create a directory on root called **development** and work .inside that directory. So, all of the files we handle will be contained inside this directory.
 - `5` - There will be a warning when you don't set the argument variable to noninteractive, but it'll still work nonetheless, so this is optional. Using the **ARG** command will create an environment variable just for the current session and will not be carried over to the final image.
 - `6-7` - We'll run an obligatory update and upgrade command using the quiet shorthand to not clutter the terminal while building the image, and install the essential packages needed to work with our next commands.
 - `9-10` - We're setting an environment variable using the **ENV** command for our Flutter home and Dart home. This will set the environment variable and be carried over to the final image.
 - `11-12` - We're downloading the Flutter tarball as a file called **flutter-sdk.tar.xz**, and then extracting and immediately remove the tarball. At the time of making this image, we're using the stable release **v1.12.13+hotfix.8**.
-- `13-14` - We'll be appending the bin folders of Flutter and Dart to the PATH.
+- `13-14` - We'll be appending the bin directory of Flutter and Dart to the PATH.
 - `15` - This is another optional line, but run this so Flutter doesn't collect analytics when the image is used.
 - `17` - We'll be installing lcov to create a summary of our coverage.
 - `19-20` - We're setting an environment variable for our Java home and Android home.
 - `21` - We'll be installing the required packages by Android and we'll be using Java 8 since our Flutter isn't compatible with the higher versions yet.
-- `22-23` - We're downloading the CLI only sdk-tools for Linux, unzipping it to the Android folder, and immediately remove the zip file.
-- `24-27` - Same as before, we're appending the folders needed by Java and Android to our PATH.
+- `22-23` - We're downloading the CLI only sdk-tools for Linux, unzipping it to the Android directory, and immediately remove the zip file.
+- `24-27` - Same as before, we're appending the directories needed by Java and Android to our PATH.
 - `28` - We'll be accepting all the prompts using yes command to install the platform and build-tools needed by Android using sdkmanager. Since we're using the CLI tools only, it doesn't come with this.
 - `29` - There's a warning for this particular file since it doesn't exist, so we'll just create it first.
 - `30` - We'll be accepting all the prompts using yes command to accept all the licenses to prevent warnings when running **flutter doctor**
@@ -214,7 +214,7 @@ test:coverage:
     expire_in: 2 days
 ```
 
-You'll need to pass the results as an artifact for the next stage which they need to create the analysis, we'll save it in the $CI_PROJECT_DIR in the coverage folder. We'll also show the coverage in the terminal at line 5. We're going to use the artifact to create our analysis as well as send it to the server, this is the fourth stage (analysis).
+You'll need to pass the results as an artifact for the next stage which they need to create the analysis, we'll save it in the $CI_PROJECT_DIR in the coverage directory. We'll also show the coverage in the terminal at line 5. We're going to use the artifact to create our analysis as well as send it to the server, this is the fourth stage (analysis).
 
 ```yaml
 #$ file: .gitlab-ci.yml
@@ -298,7 +298,7 @@ deploy:production:
 - `5` - We're saying that this should only run when changes are made to the master branch.
 - `7-8` - Tags are there just to help differentiate each jobs and pipelines.
 - `10-11` - We'll be building our apk on release mode with the name of YOUR_APP_NAME, you should change this to your own app name.
-- `12-14` - We'll distribute the app by releasing it through App Center, the generated file is located at the build/app/outputs/apk/release folder, and the app and group is according to your own App Center configuration.
+- `12-14` - We'll distribute the app by releasing it through App Center, the generated file is located at the build/app/outputs/apk/release directory, and the app and group is according to your own App Center configuration.
 
 That's it! We have now completed our setup to fully automate flutter development using GitLab's devops specifically. All you have to is just start writing some code. Cheers!
 

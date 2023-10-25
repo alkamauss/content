@@ -69,7 +69,7 @@ Let's take a look at our previous project structure with Sapper.
 
 ![ssr-structure](./ssr-structure.png)
 
-It's quite bloated in my opinion, with repeated files in `routes` folder, it's required by Sapper to create the defined routes for the client to navigate to. Though Sapper makes it easy for us to create a path using files as routers, it's not really needed for our case here.
+It's quite bloated in my opinion, with repeated files in `routes` directory, it's required by Sapper to create the defined routes for the client to navigate to. Though Sapper makes it easy for us to create a path using files as routers, it's not really needed for our case here.
 
 Our components are no different, but all of those files serve as the foundations of our application structure. It may look like a lot of files, but it allows us to reduce our LOC (especially duplicated ones) significantly. So we'll ignore it from our comparison.
 
@@ -139,9 +139,9 @@ src
 └── store.js
 ```
 
-Our app is fully contained inside `App.svelte`, I've also separated routes that we have before into their own files in pages folder.
+Our app is fully contained inside `App.svelte`, I've also separated routes that we have before into their own files in pages directory.
 
-Because our components are self-contained too, I've literally copy and pasted the entire components folder and it will still works. The rest is migrated manually by moving the necessary code from the `routes` pages to either `App.svelte` or `pages` files. This is thanks to the results of using a component-based approach that I'm able to quickly migrate the app just in time.
+Because our components are self-contained too, I've literally copy and pasted the entire components directory and it will still works. The rest is migrated manually by moving the necessary code from the `routes` pages to either `App.svelte` or `pages` files. This is thanks to the results of using a component-based approach that I'm able to quickly migrate the app just in time.
 
 The only new component I added was `Loader.svelte` to give a more lively app for the user to see while the app is loading. You can see it for yourself or even use this for your own app. Just copy the code below and paste it to the [Svelte REPL](https://svelte.dev/repl)
 
