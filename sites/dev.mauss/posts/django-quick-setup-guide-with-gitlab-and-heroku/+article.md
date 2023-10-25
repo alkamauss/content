@@ -223,7 +223,7 @@ Another reason to use this is so that other people could recreate the exact envi
       ```
 
       - 130 &rarr; Add the project root directory
-      - 135-137 &rarr; Set your static files such as CSS, JS, and imagines inside the `assets` directory
+      - 135-137 &rarr; Set your static files such as CSS, JS, and images inside the `assets` directory
 
 4. Add the path to your app in your project's urls file
 
