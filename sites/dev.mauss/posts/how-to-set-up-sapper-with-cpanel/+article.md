@@ -28,7 +28,7 @@ Here's the explanation for each field,
 
 - Choose your Node version (I use the same as my local dev environment, you can usually just use the latest one)
 - Set the application mode to `Production`
-- Set the application root to your preferred directory (I always use the name of the domain I use, in this case just mauss.dev because it's the root/apex domain)
+- Set the application root to your preferred folder (I always use the name of the domain I use, in this case just mauss.dev because it's the root/apex domain)
 - Set the application url to your liking
   - If you want to use a subdomain, you need to set one up first before creating the Node application
   - If you want to set up an API, you can add `api` or `admin` or whatever you want in the text field, this will be you root application URL
@@ -54,7 +54,7 @@ After successfully entering the server, paste in the command from the previous b
 
 Now, there's really a lot of ways to do this, you'll need to find the one you prefer by yourself. I just happen to do this with FTP/SCP. You can easily use the file manager from cPanel and upload your files there.
 
-Using any method you know, move or copy the build result of your application to the application root directory, in my case the `mauss.dev` directory. Sapper build result is located at `__sapper__/build`, so all we need to do is copy this directory as well as our `static` directory that contains all our assets like stylesheets and images.
+Using any method you know, move or copy the build result of your application to the application root folder, in my case the `mauss.dev` folder. Sapper build result is located at `__sapper__/build`, so all we need to do is copy this folder as well as our `static` folder that contains all our assets like stylesheets and images.
 
 Finally, we'll copy our `package.json` file, focus on our SSH terminal, and run
 
@@ -107,7 +107,7 @@ pm2 restart web
 
 ## Final steps
 
-Now here comes the crucial part, because most hosting providers won't allow you to connect to a specific port, or I'll assume all of you want your users to go to your website without adding `:3000` to the end of the domain, we'll need to route the traffic using the built-in Apache proxy server with an `.htaccess` file located in our `public_html` directory. You should be able to just copy the configuration below and paste it in yours.
+Now here comes the crucial part, because most hosting providers won't allow you to connect to a specific port, or I'll assume all of you want your users to go to your website without adding `:3000` to the end of the domain, we'll need to route the traffic using the built-in Apache proxy server with an `.htaccess` file located in our `public_html` folder. You should be able to just copy the configuration below and paste it in yours.
 
 ```properties
 #$ file: .htaccess
