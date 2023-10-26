@@ -47,9 +47,9 @@ du -sh path/to/directory
 du -a path/to/start | sort -nr | head -n 10
 ```
 
-## File and folder manipulation
+## File and directory manipulation
 
-`Copy method`, it creates a hard link for the file or everything in the folder to the desired destination. Hard linking is crucial for media management so that you won't have a lot of wasted space with duplicates or multiple files with similar data and different file names.
+`Copy method`, it creates a hard link for the file or everything in the directory to the desired destination. Hard linking is crucial for media management so that you won't have a lot of wasted space with duplicates or multiple files with similar data and different file names.
 
 ```bash
 #$ file: Copy Method
@@ -57,12 +57,12 @@ du -a path/to/start | sort -nr | head -n 10
 cp -al /path/to/source /path/to/destination
 ```
 
-`Find method`, it quickly finds your desired file or folder with many additional functionalities. It could do many things such as
+`Find method`, it quickly finds your desired file or directory with many additional functionalities. It could do many things such as
 
-- Search for empty files or folders
-- Search files and folders with specific hard link counts
-- Search files and folders that belongs to a specific owner or group
-- Search and destroy files and folders with specific prefix/suffix
+- Search for empty files or directories
+- Search files and directories with specific hard link counts
+- Search files and directories that belongs to a specific owner or group
+- Search and destroy files and directories with specific prefix/suffix
 - and many more...
 
 ```bash
@@ -96,7 +96,7 @@ find . -name .unwanted -exec rm -rf {} \;
 find . -type f -perm 777 -exec chmod -x {} \;
 ```
 
-`Rename method`, it renames multiple files or folders with a specific regex pattern. One of the most useful scripts to have for media management.
+`Rename method`, it renames multiple files or directories with a specific regex pattern. One of the most useful scripts to have for media management.
 
 ```bash
 #$ file: Rename Method
@@ -108,7 +108,7 @@ sudo apt install rename
 rename 's/\[.*\]/\[replacement\]/' **/* -n  # preview changes
 rename 's/\[.*\]/\[replacement\]/' **/*     # execute rename
 
-# This recursively find and rename all folders from the start directory
+# This recursively find and rename all directories from the start directory
 rename 's/unwantedName/changedName/' path/to/start/**/* -n  # preview changes
 rename 's/unwantedName/changedName/' path/to/start/**/*     # execute rename
 

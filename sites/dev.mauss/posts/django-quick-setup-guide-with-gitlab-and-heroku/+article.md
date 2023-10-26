@@ -26,7 +26,7 @@ It offers multiple plans, but usually the free tier is more than enough for expe
     | HEROKU_APPNAME  | [your_appname] |
     | HEROKU_APP_HOST | [your_webapp]  |
 
-3. initialize git in your project root folder
+3. initialize git in your project root directory
 
     ```bash
     git init
@@ -142,7 +142,7 @@ Another reason to use this is so that other people could recreate the exact envi
     django-admin startproject your_project_name
     ```
 
-2. create new app using command inside your project folder
+2. create new app using command inside your project directory
 
     ```bash
     django-admin startapp your_app_name
@@ -192,7 +192,7 @@ Another reason to use this is so that other people could recreate the exact envi
       - 2 & 8 &rarr; for Production in Heroku
       - 12 &rarr; registering your app to the project
       - 17 &rarr; to use the WhiteNoiseMiddleware
-      - 23 &rarr; to set the global template in your root directory as a folder called 'template'
+      - 23 &rarr; to set the global template in your root directory
 
       ```python
       #$ file: project/settings.py#92
@@ -223,7 +223,7 @@ Another reason to use this is so that other people could recreate the exact envi
       ```
 
       - 130 &rarr; Add the project root directory
-      - 135-137 &rarr; Set your static files such as CSS, JS, and Images at the root directory in a folder called `assets`
+      - 135-137 &rarr; Set your static files such as CSS, JS, and images inside the `assets` directory
 
 4. Add the path to your app in your project's urls file
 
@@ -264,4 +264,4 @@ Another reason to use this is so that other people could recreate the exact envi
         return render(request, 'your_template.html')
     ```
 
-6. create folder called `templates` inside your app folder and fill it with your html files
+6. create a `templates` directory inside your app directory and fill it with your html files

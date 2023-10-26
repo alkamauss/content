@@ -4,7 +4,7 @@ Home to all content in mauss.dev.
 
 ## Writing
 
-Consider each folder its own route, and the `+article.md` file as the contents of the page. There's a couple of rules to follow when writing a post:
+Consider each directory as its own route, and the `+article.md` file as the contents of the page. There's a couple of rules to follow when writing a post:
 
 - Follow [the semantics of Marqua](https://marqua.mauss.dev/#semantics)
 - Follow the [default](https://github.com/markdownlint/markdownlint/blob/main/docs/RULES.md) and [specified](.markdownlint.yaml) `markdownlint` rules
@@ -22,7 +22,9 @@ author:
 ---
 ```
 
-Replace the value of `name:` with your own name (or the post's author if you're opening a PR for someone else). If it's your first time writing, you can add your own avatar image into [`assets/profile`](assets/profile) folder, and reference it in `img:`. Otherwise, just reference the avatar image file again. Finally, replace the link in `link:` with any link you want to point readers when clicking your avatar image.
+- `name:` is the name of the author
+- `img:` is the path to the author's avatar image in the [`assets/profile`](assets/profile) directory
+- `link:` is the link to the author's profile or any other social link
 
 ***
 
