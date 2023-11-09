@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "2011-04-15"
 title:en: "anohana: The Flower We Saw That Day"
 title:jp:
@@ -7,8 +8,6 @@ rating: [story,artwork,sound,characters]
 verdict: pending
 
 seen:first: "2020-06-08"
-date:published: "2020"
-date:updated: "2020"
 image:en: https://image.tmdb.org/t/p/original/aonsLV3L49W1zyRGopSFyTV3cOu.jpg
 
 link:

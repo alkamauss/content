@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "2021-01-10"
 title:en: Horimiya
 genres: [slice of life, romance, comedy, school, shounen]
@@ -6,8 +7,6 @@ rating: [story,artwork,sound,characters]
 verdict: pending
 
 seen:first: "2021-05-01"
-date:published: 2020
-date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/zLNnCb6SL2HxyiRsDJ4t4S1mb91.jpg
 image:jp: https://www.themoviedb.org/t/p/original/qYZusFwAUcXso2i9tWSg2DFCxX5.jpg
 backdrop: https://www.themoviedb.org/t/p/original/1s5LAbi8udSIIc5AghjwuKfy87i.jpg

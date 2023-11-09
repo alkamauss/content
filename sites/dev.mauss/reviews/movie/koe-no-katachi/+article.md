@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "2016-09-17"
 title:en: A Silent Voice
 title:jp: Koe no Katachi
@@ -8,8 +9,6 @@ verdict: pending
 
 completed: "2021-10-16T14:21:57"
 seen:first: "2021-10-16T09:00:00"
-date:published: "2020"
-date:updated: "2020"
 image:en: https://www.themoviedb.org/t/p/original/tuFaWiqX0TXoWu7DGNcmX3UW7sT.jpg
 image:jp: https://www.themoviedb.org/t/p/original/7clTvRa9RRh78c8epoC0YrNZoD6.jpg
 backdrop: https://www.themoviedb.org/t/p/original/q5HZvtyqG8Vz39Ee9uTQbLeEml.jpg

@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "2016-06-07"
 title:en: Honobono Log
 genres: [animation, slice of life, romance]
@@ -6,8 +7,6 @@ rating: [story,artwork,sound,characters]
 verdict: pending
 
 seen:first: "2020-12-20"
-date:published: 2020
-date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/qhjAjkQibM2HhBEKiUgYWsENKux.jpg
 backdrop: https://www.themoviedb.org/t/p/original/7wBUJF6Wvx8o8AOB8BgyK0HMQdP.jpg
 

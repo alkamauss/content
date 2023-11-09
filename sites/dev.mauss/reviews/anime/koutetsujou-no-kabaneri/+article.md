@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "2016-04-08"
 title:en: Kabaneri of the Iron Fortress
 title:jp: Koutetsujou no Kabaneri
@@ -8,8 +9,6 @@ verdict: pending
 
 completed: "2021-06-20"
 seen:first: "2021-02-07"
-date:published: 2020
-date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/uBmcAZ7BRfVzb9nMPYm1MqpvNme.jpg
 image:jp: https://www.themoviedb.org/t/p/original/5Iw4PGoSxJCAoFqmOa3ZnPWS5jY.jpg
 backdrop: https://www.themoviedb.org/t/p/original/rl3cHVMuHXr6XJ7jKDoXJamoqPI.jpg

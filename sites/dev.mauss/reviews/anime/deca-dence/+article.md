@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "2020-07-08"
 title:en: Deca-Dence
 genres: [action, adventure, sci-fi]
@@ -7,8 +8,6 @@ verdict: pending
 
 completed: "2021-07-03"
 seen:first: "2020-07-08"
-date:published: 2020
-date:updated: 2020
 image:en: https://image.tmdb.org/t/p/original/i0XUehTP9Brtmb8YevpJYMNEWZT.jpg
 image:jp:
 

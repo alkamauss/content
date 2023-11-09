@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "2015-01-10"
 title:en: Assassination Classroom
 title:jp: Ansatsu Kyoushitsu
@@ -8,8 +9,6 @@ verdict: pending
 
 completed: "2021-06-26"
 seen:first: "2021-03-19"
-date:published: "2020"
-date:updated: "2020"
 image:en: https://www.themoviedb.org/t/p/original/wOd98jDHkoWy2LZ4gSy67X1ihv1.jpg
 image:jp: https://www.themoviedb.org/t/p/original/fIOYLPOorKvP4wut9y0edpnWROz.jpg
 backdrop: https://www.themoviedb.org/t/p/original/62pIwEsYX2dtlyMJjDSM6zpDTU2.jpg

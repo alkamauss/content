@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "2020-10-02"
 title:short: The Journey of Elaina
 title:en: "Wandering Witch: The Journey of Elaina"
@@ -8,8 +9,6 @@ rating: [story,artwork,sound,characters]
 verdict: pending
 
 seen:first: "2020-12-20"
-date:published: 2020
-date:updated: 2020
 image:en: https://image.tmdb.org/t/p/original/z5DovowisN9CKl9JYM0HXtQX1O2.jpg
 image:jp: https://image.tmdb.org/t/p/original/4DlztdILPzMn4gOWCX4WdWa1Ur8.jpg
 backdrop: https://image.tmdb.org/t/p/original/lOO4S4gE5j0UMuld2sH5Boaausm.jpg

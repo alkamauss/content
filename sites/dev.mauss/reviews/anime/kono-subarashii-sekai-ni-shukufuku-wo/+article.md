@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "2016-01-14"
 title:short: KonoSuba
 title:en: "KonoSuba: God's Blessing on This Wonderful World!"
@@ -8,8 +9,6 @@ rating: [story,artwork,sound,characters]
 verdict: pending
 
 seen:first: "2020-09-27"
-date:published: 2020
-date:updated: 2020
 image:en: https://image.tmdb.org/t/p/original/oRaOeQlwktbGSd2T31FYAcgHZlh.jpg
 image:jp: https://image.tmdb.org/t/p/original/ekQD9ItsjglqlCvoJiXqGXJb5Jz.jpg
 backdrop: https://image.tmdb.org/t/p/original/lmZAguzTv7cxzkRMH7M4fJ0UnJl.jpg

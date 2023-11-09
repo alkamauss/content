@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "2013-10-04"
 title:short:
 title:en: Kill la Kill
@@ -8,8 +9,6 @@ rating: [story,artwork,sound,characters]
 verdict: pending
 
 seen:first: "2020-08-04"
-date:published: 2020
-date:updated: 2020
 image:en: https://image.tmdb.org/t/p/original/4F1WtP3dFIwLPOfa3u29VEVnNkf.jpg
 image:jp: https://image.tmdb.org/t/p/original/y2OuQF4oiynNvsTlnyb40jqGMdJ.jpg
 

@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "2016-07-04"
 title:en: The Disastrous Life of Saiki K.
 title:jp: Saiki Kusuo no Ψ-nan
@@ -7,8 +8,6 @@ rating: [story,artwork,sound,characters]
 verdict: pending
 
 seen:first: "2021-02-18"
-date:published: 2020
-date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/ais8cfoSbS3URahXLP6LwlwIZ6e.jpg
 image:jp: https://www.themoviedb.org/t/p/original/vwfsAOrBUdUEW4AAjRCcUlCvd4G.jpg
 backdrop: https://www.themoviedb.org/t/p/original/hI76O9slOz3vPkhQWWQoN36WyhG.jpg

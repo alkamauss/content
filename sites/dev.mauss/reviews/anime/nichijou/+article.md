@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "2011-04-03"
 title:short: Nichijou
 title:en: "Nichijou: My Ordinary Life"
@@ -8,8 +9,6 @@ rating: [10,10,10,8]
 verdict: pending
 
 seen:first: "2020-08-09"
-date:published: 2020
-date:updated: 2020
 image:en: https://image.tmdb.org/t/p/original/qmi1VpOvPFRHg02fbLuc3pVrMbt.jpg
 image:jp:
 

@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "2016-07-11"
 title:en: Mob Psycho 100
 genres: [action, comedy, supernatural]
@@ -7,7 +8,6 @@ verdict: pending
 
 completed: "2022-12-22T02:24:00+07:00"
 seen:first: "2020-07-14"
-date:published: 2020
 image:en: https://image.tmdb.org/t/p/original/5Wf9Y6gucbu1LMe1FyqD8TQjaNM.jpg
 
 link:

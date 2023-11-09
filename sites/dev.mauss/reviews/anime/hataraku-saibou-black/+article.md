@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "2021-01-10"
 title:en: Cells at Work! CODE BLACK!
 title:jp: Hataraku Saibou Black
@@ -7,8 +8,6 @@ rating: [story,artwork,sound,characters]
 verdict: pending
 
 seen:first: "2021-04-27"
-date:published: 2020
-date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/ehz2kV5YxoIbfD9WQnP5pkSkKUv.jpg
 backdrop: https://www.themoviedb.org/t/p/original/wpJnPlRAGBf5YRxp0b64T1hZKOM.jpg
 

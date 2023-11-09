@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "2017-07-07"
 title:en: Made in Abyss
 genres: [adventure, fantasy, mystery]
@@ -7,8 +8,6 @@ verdict: pending
 
 completed: "2023-02-11T00:47:00+07:00"
 seen:first: "2023-01-24T21:09:00+07:00"
-date:published: 2020
-date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/n30CBH4BoN5Z34tCpOWIPGJYOaS.jpg
 backdrop: https://www.themoviedb.org/t/p/original/faEKyqjgnPw6oZ0niowLYsjT5qD.jpg
 

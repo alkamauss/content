@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "2009-07-03"
 title:en: The Monogatari Series
 genres: [animation, mystery, supernatural, romance]
@@ -6,8 +7,6 @@ rating: [story,artwork,sound,characters]
 verdict: pending
 
 seen:first: 2020
-date:published: 2020
-date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/f1Qpd7kzhLRFt1M2WZ7aCvgbRY6.jpg
 backdrop: https://www.themoviedb.org/t/p/original/gTmCOfKDVFrQp34tOUSx9qgd6LF.jpg
 

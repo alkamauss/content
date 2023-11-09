@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "2014-04-11"
 title:en: Ping Pong the Animation
 genres: [sports, drama, seinen]
@@ -6,7 +7,6 @@ rating: [10,8,10,10]
 verdict: pending
 
 seen:first: "2020-07-19"
-date:published: 2020
 image:en: https://www.themoviedb.org/t/p/original/snzSlLQwaIizMOx6A7WJ9aty4zp.jpg
 
 link:

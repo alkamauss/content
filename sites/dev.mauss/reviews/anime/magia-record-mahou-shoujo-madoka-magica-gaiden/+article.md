@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "2020-01-05"
 title:en: "Magia Record: Puella Magi Madoka Magica Side Story"
 title:jp: "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden"
@@ -8,8 +9,6 @@ verdict: pending
 
 completed: "2021-06-29"
 seen:first: "2020-11-14"
-date:published: 2020
-date:updated: 2020
 image:en: https://image.tmdb.org/t/p/original/2hn2gJnTrntGWwpcugUvpncsNMK.jpg
 image:jp: https://image.tmdb.org/t/p/original/syBNkb4sSD1cqMJEnlwwcQGt4Qu.jpg
 backdrop: https://image.tmdb.org/t/p/original/aP4W7Lqcc0EU5ykc03DhLDZN9uP.jpg

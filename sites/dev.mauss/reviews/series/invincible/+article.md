@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "2021-03-26"
 title:en: Invincible
 genres: [animation, action, sci-fi, fantasy]
@@ -6,8 +7,6 @@ rating: [story,artwork,sound,characters]
 verdict: pending
 
 seen:first: "2021-05-15"
-date:published: 2020
-date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/yDWJYRAwMNKbIYT8ZB33qy84uzO.jpg
 backdrop: https://www.themoviedb.org/t/p/original/dDdXTkM2mFcIiXbbNjT1paIPYXI.jpg
 

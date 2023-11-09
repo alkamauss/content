@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "2019-01-10"
 title:en: The Promised Neverland
 title:jp: Yakusoku no Neverland
@@ -7,8 +8,6 @@ rating: [story,artwork,sound,characters]
 verdict: pending
 
 seen:first: "2021-01-21"
-date:published: 2020
-date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/1sKCm6vJbDq64zcfHNOY67ltLns.jpg
 image:jp: https://www.themoviedb.org/t/p/original/8RWcKSmCbwsN8porFyTOB5e2cDG.jpg
 backdrop: https://www.themoviedb.org/t/p/original/lIvlMDEKImf3pkDtLjjKZqRZ5AM.jpg

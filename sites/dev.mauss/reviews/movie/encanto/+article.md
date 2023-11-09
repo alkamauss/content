@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "2021-11-24"
 title:en: Encanto
 genres: [animation, comedy, family, fantasy, musical]
@@ -7,7 +8,6 @@ verdict: pending
 
 completed: "2022-08-13T23:08:22"
 seen:first: "2022-08-13T21:38:12"
-date:published: 2020
 image:en: https://www.themoviedb.org/t/p/original/4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg
 backdrop: https://www.themoviedb.org/t/p/original/fst9hM26nIJMF4FTkFLasUwmBC.jpg
 

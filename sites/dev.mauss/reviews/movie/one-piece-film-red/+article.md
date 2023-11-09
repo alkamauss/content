@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "2022-09-21"
 title:en: "One Piece Film: Red"
 genres: [animation, action, adventure, fantasy]
@@ -7,7 +8,6 @@ verdict: pending
 
 completed: "2022-09-24T19:53:35"
 seen:first: "2022-09-24T17:40:00"
-date:published: "2020"
 image:en: https://www.themoviedb.org/t/p/original/m80kPdrmmtEh9wlLroCp0bwUGH0.jpg
 image:jp: https://www.themoviedb.org/t/p/original/4Th8JP3S3yKpvqcrV4VS2z8c5Sp.jpg
 backdrop: https://www.themoviedb.org/t/p/original/6clQoxgYxinQJeDVw504Zn4Ff2q.jpg

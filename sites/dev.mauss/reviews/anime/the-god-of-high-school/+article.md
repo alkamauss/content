@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "2020-07-06"
 title:en: The God of High School
 genres: [action, adventure, supernatural, martial arts, fantasy, comedy]
@@ -6,8 +7,6 @@ rating: [story,artwork,sound,characters]
 verdict: pending
 
 seen:first: "2020-09-28"
-date:published: 2020
-date:updated: 2020
 image:en: https://image.tmdb.org/t/p/original/gfMBnUVzWTlal8Hr0RfgnVe6kHW.jpg
 image:jp: https://image.tmdb.org/t/p/original/l1ZUDDME1jEIEfWiA89lHTDS3OX.jpg
 backdrop: https://image.tmdb.org/t/p/original/oIpHsVYc8rKXnebc97DDIpw8KFn.jpg

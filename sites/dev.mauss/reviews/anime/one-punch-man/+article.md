@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "2015-10-05"
 title:en: One Punch Man
 genres: [action, sci-fi, comedy, super power, supernatural]
@@ -6,7 +7,6 @@ rating: [story,artwork,sound,characters]
 verdict: pending
 
 seen:first: 2020
-date:published: 2020
 image:en: https://image.tmdb.org/t/p/original/iE3s0lG5QVdEHOEZnoAxjmMtvne.jpg
 
 link:

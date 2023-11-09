@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "2020-10-03"
 title:en: "TONIKAWA: Over the Moon For You"
 title:jp: Tonikaku Kawaii
@@ -7,8 +8,6 @@ rating: [story,artwork,sound,characters]
 verdict: pending
 
 seen:first: "2020-12-19"
-date:published: 2020
-date:updated: 2020
 image:en: https://image.tmdb.org/t/p/original/6u3VZhQP5ZzK7mUBZRVfeoruhcm.jpg
 image:jp: https://image.tmdb.org/t/p/original/oeBvxDQoYlw9c5Smt4kh4OAXHdg.jpg
 backdrop: https://image.tmdb.org/t/p/original/pKAx7FPsJ41zoN9UIC5MYO4CFsH.jpg

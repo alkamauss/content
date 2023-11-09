@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "2009-07-10"
 title:en: Tokyo Magnitude 8.0
 genres: [drama]
@@ -7,8 +8,6 @@ verdict: pending
 
 completed: "2021-07-30T20:54:08"
 seen:first: "2021-02-06"
-date:published: 2020
-date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/sGmtNIVyZHqB0MLmbleNG4GmRVV.jpg
 backdrop: https://www.themoviedb.org/t/p/original/pFlKmFYSf90lsKTSbNlqTtAQhyN.jpg
 

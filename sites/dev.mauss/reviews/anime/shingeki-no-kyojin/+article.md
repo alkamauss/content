@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "2013-04-07"
 title:en: Attack on Titan
 title:jp: Shingeki no Kyojin
@@ -7,8 +8,6 @@ rating:
 verdict: pending
 
 seen:first: "2020-05-12"
-date:published: 2020
-date:updated:
 image:en: https://image.tmdb.org/t/p/original/2wxoRovckZPxxFLROZGdujJiNcC.jpg
 
 link:

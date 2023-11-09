@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "2007-03-03"
 title:en: 5 Centimeters per Second
 title:jp: Byousoku 5 Centimeter
@@ -7,7 +8,6 @@ rating: [9,10,8,8]
 verdict: pending
 
 seen:first: "2020-08-08"
-date:published: 2020
 image:en: https://image.tmdb.org/t/p/original/t0ISGhwZtghakg46TWCOWBTIflZ.jpg
 
 link:

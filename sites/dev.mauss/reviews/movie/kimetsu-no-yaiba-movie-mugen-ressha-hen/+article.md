@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "2021-01-06"
 title:en: "Demon Slayer the Movie: Mugen Train"
 title:jp: "Kimetsu no Yaiba Movie: Mugen Ressha-hen"
@@ -7,8 +8,6 @@ rating: [9,10,10,10]
 verdict: pending
 
 seen:first: "2021-01-15"
-date:published: 2020
-date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/h8Rb9gBr48ODIwYUttZNYeMWeUU.jpg
 image:jp: https://www.themoviedb.org/t/p/original/m9cn5mhW519QKr1YGpGxNWi98VJ.jpg
 backdrop: https://www.themoviedb.org/t/p/original/xoqr4dMbRJnzuhsWDF3XNHQwJ9x.jpg

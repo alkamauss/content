@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "2019-07-03"
 title:en: How Heavy Are the Dumbbells You Lift?
 title:jp: Dumbbell Nan Kilo Moteru?
@@ -8,8 +9,6 @@ verdict: pending
 
 completed: "2022-04-04T23:00:32"
 seen:first: "2022-04-02T13:36:33"
-date:published: 2020
-date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/v5KppPlKaQGTdwvCNmlVSSPvJBw.jpg
 image:jp: https://www.themoviedb.org/t/p/original/5hws6HYvW6mcWNPjvbcWtMC7KvK.jpg
 backdrop: https://www.themoviedb.org/t/p/original/f1Poy5jpwu5sRBEojO8ZWwvqXUD.jpg

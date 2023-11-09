@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "2014-04-06"
 title:en: Haikyuu!!
 genres: [comedy, sports, drama]
@@ -6,8 +7,6 @@ rating:
 verdict: pending
 
 seen:first: "2020-12-19"
-date:published: 2020
-date:updated:
 image:en: https://image.tmdb.org/t/p/original/ecQ84z2sR0XapZu435MnFuEBzD8.jpg
 
 link:

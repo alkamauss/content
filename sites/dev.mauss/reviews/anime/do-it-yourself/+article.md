@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "2022-10-06"
 title:en: Do It Yourself!!
 genres: [slice of life, school]
@@ -7,8 +8,6 @@ verdict: pending
 
 completed: "2022-12-22T02:45:00+07:00"
 seen:first: "2022-10-20T23:54:00+07:00"
-date:published: 2020
-date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/ocsJ1WzlVL2GQWHx1SzozcKHjUp.jpg
 backdrop: https://www.themoviedb.org/t/p/original/bzG9AongeMWW75U2Gn0rjoSymki.jpg
 

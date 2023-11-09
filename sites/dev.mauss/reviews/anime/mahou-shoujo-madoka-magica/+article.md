@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "2011-01-07"
 title:en: Puella Magi Madoka Magica
 title:jp: Mahou Shoujo Madoka★Magica
@@ -7,8 +8,6 @@ rating: [story,artwork,sound,characters]
 verdict: pending
 
 seen:first: "2021-04-28"
-date:published: 2020
-date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/48GLvRh3lgh5gjl0uVen60bslRM.jpg
 image:jp: https://www.themoviedb.org/t/p/original/6OjjS4ED066UU0xgv2z09CHFeE3.jpg
 backdrop: https://www.themoviedb.org/t/p/original/lW2deyLDrwcYO2iHCuVpj7r1FnQ.jpg

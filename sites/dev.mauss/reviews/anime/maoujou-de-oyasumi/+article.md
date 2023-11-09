@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "2020-10-06"
 title:en: Sleepy Princess in the Demon Castle
 title:jp: Maoujou de Oyasumi
@@ -7,8 +8,6 @@ rating: [story,artwork,sound,characters]
 verdict: pending
 
 seen:first: "2020-12-22"
-date:published: 2020
-date:updated: 2020
 image:en: https://image.tmdb.org/t/p/original/3bmu7Mg7Sc6IfHgvt98WNChaOkR.jpg
 image:jp: https://image.tmdb.org/t/p/original/3bmu7Mg7Sc6IfHgvt98WNChaOkR.jpg
 backdrop: https://image.tmdb.org/t/p/original/ya0GSNDIwlD3W0DJNCBizlf0dkf.jpg

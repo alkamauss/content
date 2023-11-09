@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "2019-08-30"
 title:short: KONOSUBA - Legend of Crimson
 title:en: KONOSUBA -God's blessing on this wonderful world!- Legend of Crimson
@@ -7,8 +8,6 @@ rating: [story,artwork,sound,characters]
 verdict: pending
 
 seen:first: "2020-11-05"
-date:published: 2020
-date:updated: 2020
 image:en: https://image.tmdb.org/t/p/original/fv5BgcfkpWh3V6Pb1qVlXESBOdl.jpg
 image:jp: https://image.tmdb.org/t/p/original/53dnagcrDt8AOuT9F40BBjm7YpE.jpg
 backdrop: https://image.tmdb.org/t/p/original/bGKFAQsxS0dzRYSvyspRm0rZlfo.jpg

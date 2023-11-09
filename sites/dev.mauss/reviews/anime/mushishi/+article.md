@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "2005-10-23"
 title:en: Mushi-Shi
 title:jp: Mushishi
@@ -8,8 +9,6 @@ verdict: pending
 
 completed: "2021-07-05"
 seen:first: "2021-02-10"
-date:published: 2020
-date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/ianYYQaLkksLGCfeisFNYJE7jIO.jpg
 image:jp: https://www.themoviedb.org/t/p/original/kA6A2xTk5QctNAQXWX0TZHH6pzy.jpg
 backdrop: https://www.themoviedb.org/t/p/original/bo53Yk3OuRivHtSAB4WLRWWPHq9.jpg

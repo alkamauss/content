@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "2019-07-06"
 title:en: Fire Force
 title:jp: Enen no Shouboutai
@@ -7,8 +8,6 @@ rating: [story,artwork,sound,characters]
 verdict: pending
 
 seen:first: "2020-12-16"
-date:published: 2020
-date:updated: 2020
 image:en: https://image.tmdb.org/t/p/original/zLDxWMM0BLImdAsnkqGeeoqjYev.jpg
 image:jp: https://image.tmdb.org/t/p/original/qDNgM4STqdzl4IBMyqCVMIr6uUV.jpg
 backdrop: https://image.tmdb.org/t/p/original/iD3AJxGuBPUpipRfPmVuRDKVqjZ.jpg
