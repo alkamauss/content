@@ -6,6 +6,7 @@ genres: [action, military, mystery, fantasy, drama, shounen]
 rating:
 verdict: pending
 
+completed: "2023-11-05T22:53:35+07:00"
 seen:first: "2020-05-12"
 date:published: 2020
 date:updated:
