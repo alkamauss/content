@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "2020-04-02"
 title:en: Tower of God
 title:jp: Kami no Tou
@@ -7,7 +8,6 @@ rating: [story,artwork,sound,characters]
 verdict: pending
 
 seen:first: "2020-07-07"
-date:published: 2020
 image:en: https://image.tmdb.org/t/p/original/fUs9KMgEJj3wYJGa75MtPSdyJXk.jpg
 image:jp: https://image.tmdb.org/t/p/original/aJdbJ37Vt2Sz1K4mUvvRp1jV5uW.jpg
 

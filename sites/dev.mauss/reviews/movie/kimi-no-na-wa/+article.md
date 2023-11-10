@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "2016-08-26"
 title:en: Your Name.
 title:jp: Kimi no Na wa.
@@ -7,7 +8,6 @@ rating: [8,10,10,10]
 verdict: pending
 
 seen:first: "2020-08-29"
-date:published: 2020
 image:en: https://image.tmdb.org/t/p/original/f7UABkINaQCWMHUOkq1XdB7SFOS.jpg
 image:jp: https://image.tmdb.org/t/p/original/iyGAE2VqsRFT2Yp0e63L90qjHwU.jpg
 backdrop: https://image.tmdb.org/t/p/original/e7TRYDKXHQD6xLcmA1b0OtVt0E0.jpg

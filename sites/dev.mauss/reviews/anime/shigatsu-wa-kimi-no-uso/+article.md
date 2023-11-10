@@ -1,4 +1,5 @@
 ---
+date: "2020-08-16"
 released: "2014-10-10"
 title:en: Your Lie in April
 title:jp: Shigatsu wa Kimi no Uso
@@ -7,8 +8,6 @@ rating: [9,8,10,8]
 verdict: recommended
 
 seen:first: "2020-08-14"
-date:published: "2020-06-20"
-date:updated: "2020-08-16"
 image:en: https://image.tmdb.org/t/p/original/nksFLYTydth9OYVpMuMbtOBkvMO.jpg
 backdrop: https://image.tmdb.org/t/p/original/3qQFa8n5sFmrxMhcjUnKdg2CCOU.jpg
 

@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "2015-01-16"
 title:en: "Saekano: How to Raise a Boring Girlfriend"
 title:jp: Saenai Heroine no Sodatekata
@@ -8,8 +9,6 @@ verdict: pending
 
 completed: [2021-11-02T23:34:42]
 seen:first: [2021-03-20]
-date:published: 2020
-date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/eTeE1JiS2DugsL13cUSVkROXBP9.jpg
 image:jp: https://www.themoviedb.org/t/p/original/52SBO3YQIp1ObRuXJLToMC1Yh8d.jpg
 backdrop: https://www.themoviedb.org/t/p/original/ee0MEplgTMVitRrOl6D0AAu3ywl.jpg

@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "2018-10-04"
 title:short: Seishun Buta Yarou / Bunny Girl Senpai
 title:en: Rascal Does Not Dream of Bunny Girl Senpai
@@ -8,8 +9,6 @@ rating: [9,9,10,9]
 verdict: pending
 
 seen:first: "2020-07-23"
-date:published: 2020
-date:updated: 2020
 image:en: https://image.tmdb.org/t/p/original/cU4jHfo1Q9AEPnFqFqtuSA74gdi.jpg
 image:jp: https://image.tmdb.org/t/p/original/lq3HcsmM005htHUVL4fcjalCUrq.jpg
 

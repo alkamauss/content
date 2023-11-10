@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "2017-04-07"
 title:en: The Moon Is Beautiful
 title:jp: Tsuki ga Kirei
@@ -8,8 +9,6 @@ verdict: pending
 
 completed: "2021-07-06"
 seen:first: "2020-12-11"
-date:published: 2020
-date:updated: 2020
 image:en: https://image.tmdb.org/t/p/original/5JtqWxw69IanadNcraJ9v6Ccj2W.jpg
 image:jp: https://image.tmdb.org/t/p/original/2bpndpu56tH2Vl02fQpmTpdOkLe.jpg
 backdrop: https://image.tmdb.org/t/p/original/cifs43XOpsUYUgEDzcsU52AvcaP.jpg

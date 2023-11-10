@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "2015-04-05"
 title:en: Blood Blockade Battlefront
 title:jp: Kekkai Sensen
@@ -8,8 +9,6 @@ verdict: pending
 
 completed: [2022-01-09T14:38:44]
 seen:first: "2021-02-07"
-date:published: 2020
-date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/1IKNrWEqu2cpOmSpwHqaCbnbIzE.jpg
 image:jp: https://www.themoviedb.org/t/p/original/uOUn6sBwkUjD72e9uf4F6nVfBRv.jpg
 backdrop: https://www.themoviedb.org/t/p/original/95dwaqiPjGFND2e4X0yWIzcIjWg.jpg

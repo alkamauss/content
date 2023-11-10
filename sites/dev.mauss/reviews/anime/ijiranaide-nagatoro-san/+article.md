@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "2021-04-11"
 title:en: Don't Toy with Me, Miss Nagatoro
 title:jp: Ijiranaide, Nagatoro-san
@@ -8,8 +9,6 @@ verdict: pending
 
 completed: "2023-03-25T21:45:00+07:00"
 seen:first: "2021-04-11"
-date:published: 2020
-date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/dHSRVAi83iapl4yazkPiyv3atQZ.jpg
 image:jp: https://www.themoviedb.org/t/p/original/wpV16RDxMJsj9YEI8hqwVgEGoHb.jpg
 backdrop: https://www.themoviedb.org/t/p/original/uxmxWA4mmxeAWG8NNiUpGC7W462.jpg

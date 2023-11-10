@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "2007-04-01"
 title:en: Gurren Lagann
 title:jp: Tengen Toppa Gurren Lagann
@@ -7,8 +8,6 @@ rating: [story,artwork,sound,characters]
 verdict: pending
 
 seen:first: "2021-01-24"
-date:published: 2020
-date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/1KNHEhMTzQoQnCco0lTOEsTYRtT.jpg
 image:jp: https://www.themoviedb.org/t/p/original/geFiRX5g4nHNaw0uvA9wHZfPWIS.jpg
 backdrop: https://www.themoviedb.org/t/p/original/9IAfHmcPcQjKEzlAwnY777iItbi.jpg

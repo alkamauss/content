@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "2018-10-07"
 title:en: "Sword Art Online: Alicization"
 genres: [action, adventure, fantasy, game]
@@ -6,8 +7,6 @@ rating: [story,artwork,sound,characters]
 verdict: pending
 
 seen:first: "2020-09-20"
-date:published: 2020
-date:updated: 2020
 image:en: https://image.tmdb.org/t/p/original/vEeTQpAJkf8ztwL56z5ACe3qd7E.jpg
 image:jp: https://image.tmdb.org/t/p/original/7SRkYdOsIdpEOchJU4iVVxktxtE.jpg
 backdrop: https://image.tmdb.org/t/p/original/z9bJdyQwQqp141eEGbaQvW1IZhR.jpg

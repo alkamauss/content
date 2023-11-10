@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "2014-10-07"
 title:en: Amagi Brilliant Park
 genres: [comedy, drama, fantasy]
@@ -7,8 +8,6 @@ verdict: pending
 
 completed: "2022-03-31T01:35:10"
 seen:first: "2022-03-29T23:52:10"
-date:published: "2020"
-date:updated: "2020"
 image:en: https://www.themoviedb.org/t/p/original/1ZFzedg6kYDBFjZANxcDdERsN08.jpg
 image:jp: https://www.themoviedb.org/t/p/original/2oYsSLsLcP0FuvhzgvcUfDx93N8.jpg
 backdrop: https://www.themoviedb.org/t/p/original/5pl88CUfQnOgPEY7jP5wORX4Kc0.jpg

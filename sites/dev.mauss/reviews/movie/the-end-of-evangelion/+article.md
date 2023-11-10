@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "1997-07-19"
 title:en: "Neon Genesis Evangelion: The End of Evangelion"
 genres: [animation, drama, mecha, psychological, sci-fi]
@@ -7,8 +8,6 @@ verdict: pending
 
 completed: "2022-11-02T00:37:00+07:00"
 seen:first: "2022-11-01T23:02:00+07:00"
-date:published: 2020
-date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/j6G24dqI4WgUtChhWjfnI4lnmiK.jpg
 backdrop: https://www.themoviedb.org/t/p/original/AfyuI3glMCBDFmNPj9PY6DwbgGp.jpg
 

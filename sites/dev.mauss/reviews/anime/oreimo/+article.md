@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "2010-10-03"
 title:short: OreImo
 title:en: My Little Sister Can't Be This Cute
@@ -8,7 +9,6 @@ rating: [6,8,5,7, 2,8,5,6]
 verdict: pending
 
 seen:first: "2020-06-23"
-date:published: 2020
 image:en: https://image.tmdb.org/t/p/original/uJFL8PETMI09hj0AJ4oCpRDWRnk.jpg
 
 link:

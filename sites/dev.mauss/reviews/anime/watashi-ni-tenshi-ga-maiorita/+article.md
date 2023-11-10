@@ -1,4 +1,5 @@
 ---
+date: "2020-08-24"
 released: "2019-01-08"
 title:en: "WATATEN!: an Angel Flew Down to Me"
 title:jp: Watashi ni Tenshi ga Maiorita!
@@ -7,7 +8,6 @@ rating: [8,10,9,9]
 verdict: recommended
 
 seen:first: "2020-08-23"
-date:published: "2020-08-24"
 image:en: https://image.tmdb.org/t/p/original/yaIs7UDJ6Vo7DbWPl4cTdv4bUw7.jpg
 image:jp: https://image.tmdb.org/t/p/original/yaIs7UDJ6Vo7DbWPl4cTdv4bUw7.jpg
 backdrop: https://image.tmdb.org/t/p/original/djKJBmJI4gS9snTn2Tzg3JO23YC.jpg

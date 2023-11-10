@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "2020-10-11"
 title:en: The Day I Become a God
 title:jp: Kamisama ni Natta Hi
@@ -7,8 +8,6 @@ rating: [story,artwork,sound,characters]
 verdict: pending
 
 seen:first: "2020-12-27"
-date:published: 2020
-date:updated: 2020
 image:en: https://image.tmdb.org/t/p/original/vE0GqiDa3uNZ5zXUrFtLO6BYghc.jpg
 image:jp: https://image.tmdb.org/t/p/original/rqmIaOpTuT3TpJEvGww8cBTXQlJ.jpg
 backdrop: https://image.tmdb.org/t/p/original/blLWNqVBjV45DC6mwDaJL9whfiq.jpg

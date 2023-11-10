@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "2018-01-02"
 title:en: A Place Further Than The Universe
 title:jp: Sora yori mo Tooi Basho
@@ -7,8 +8,6 @@ rating: [story,artwork,sound,characters]
 verdict: pending
 
 seen:first: "2020-12-25"
-date:published: 2020
-date:updated: 2020
 image:en: https://image.tmdb.org/t/p/original/iERXyBf0K6DfAQ8oKEYrdjf1vIs.jpg
 image:jp: https://image.tmdb.org/t/p/original/vxlM17UMi8RMm9qHHOo1y8RjVcu.jpg
 backdrop: https://image.tmdb.org/t/p/original/gHaqtksrERg4PhDzsnrvW7dTs6z.jpg

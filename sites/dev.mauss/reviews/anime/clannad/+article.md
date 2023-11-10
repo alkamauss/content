@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "2007-10-05"
 title:en: Clannad
 title:jp: CLANNAD
@@ -8,8 +9,6 @@ verdict: pending
 
 completed: "2021-06-14"
 seen:first: "2021-02-12"
-date:published: 2020
-date:updated: 2020
 image:en: https://image.tmdb.org/t/p/original/j8RZC51i5aH3UektH0ViKES2Ux3.jpg
 image:jp:
 

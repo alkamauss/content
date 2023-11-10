@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "2020-10-09"
 title:en: Adachi and Shimamura
 title:jp: Adachi to Shimamura
@@ -7,8 +8,6 @@ rating: [story,artwork,sound,characters]
 verdict: pending
 
 seen:first: "2020-12-27"
-date:published: "2020"
-date:updated: "2020"
 image:en: https://image.tmdb.org/t/p/original/teSwoEFkqWFdmL2EdSvGVLU6sse.jpg
 backdrop: https://image.tmdb.org/t/p/original/syhRB7HfO1SaJyvCF1RPUx3M49g.jpg
 

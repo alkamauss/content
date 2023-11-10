@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "2020-10-01"
 title:en: "Higurashi: When They Cry – Gou"
 title:jp: Higurashi no Naku Koro ni Gou
@@ -7,8 +8,6 @@ rating: [story,artwork,sound,characters]
 verdict: pending
 
 seen:first: "2020-12-01"
-date:published: 2020
-date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/3NiRdFXb9xz7ZFgmZ0RmoWjkTvz.jpg
 image:jp: https://www.themoviedb.org/t/p/original/nDEcaKXVlZUKm37PRVN3Q7kiZ7Q.jpg
 backdrop: https://www.themoviedb.org/t/p/original/8fsV0aqSHQlbyvZlWyynruat0MP.jpg

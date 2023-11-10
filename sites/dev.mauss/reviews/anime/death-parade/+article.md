@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "2015-01-10"
 title:en: Death Parade
 genres: [drama, mystery, suspense]
@@ -7,8 +8,6 @@ verdict: pending
 
 completed: "2021-11-01T22:08:08"
 seen:first: "2021-10-22T23:43:10"
-date:published: 2020
-date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/qeD9wDenN7CPA99FScSErJCvcWb.jpg
 image:jp: https://www.themoviedb.org/t/p/original/pgnHXXTn2Uy0unuNCKFKHhL7BHR.jpg
 backdrop: https://www.themoviedb.org/t/p/original/kE4DhDPgjzxvv2BJCHhs0xbdwun.jpg

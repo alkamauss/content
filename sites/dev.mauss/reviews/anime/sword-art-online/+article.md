@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "2012-07-08"
 title:en: Sword Art Online
 genres: [action, adventure, fantasy, game, romance]
@@ -6,8 +7,6 @@ rating:
 verdict: pending
 
 seen:first: "2020-04-01"
-date:published: 2020
-date:updated:
 image:en: https://image.tmdb.org/t/p/original/7LTDVXVuQKERnukKJLoBbdNzMYh.jpg
 
 link:

@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "2019-07-19"
 title:en: Weathering With You
 title:jp: Tenki no Ko
@@ -7,7 +8,6 @@ rating: [7,10,10,9]
 verdict: pending
 
 seen:first: "2020-08-30"
-date:published: 2020
 image:en: https://image.tmdb.org/t/p/original/qgrk7r1fV4IjuoeiGS5HOhXNdLJ.jpg
 image:jp: https://image.tmdb.org/t/p/original/sGBRqb0Y3DlUpmYXPGUsy587ofd.jpg
 backdrop: https://image.tmdb.org/t/p/original/ize3ZieqSy0TCWljmVoEiy8fSFS.jpg

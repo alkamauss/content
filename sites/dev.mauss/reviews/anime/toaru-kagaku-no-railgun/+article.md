@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "2009-10-03"
 title:en: A Certain Scientific Railgun
 title:jp: Toaru Kagaku no Railgun
@@ -8,8 +9,6 @@ verdict: pending
 
 completed:
 seen:first: "2021-08-10T23:28:25"
-date:published: 2020
-date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/dZt1dqw0K4JGhwcqTh8yExHYK9w.jpg
 image:jp: https://www.themoviedb.org/t/p/original/vUTIKSGdoMGHUOgSv0wcLnLacVf.jpg
 backdrop: https://www.themoviedb.org/t/p/original/1XNqQkRWSwWtXQ0BuQ95wjcs9SP.jpg

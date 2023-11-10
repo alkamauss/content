@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "2022-10-12"
 title:en: Spy x Family
 genres: [action, comedy]
@@ -7,8 +8,6 @@ verdict: pending
 
 completed: "2023-01-04T13:57:00+07:00"
 seen:first: "2022-04-10T13:00:00+07:00"
-date:published: 2020
-date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/gHZqglFWJTFwx6rnTq4vkPRnuxu.jpg
 backdrop: https://www.themoviedb.org/t/p/original/wgMxlmsqonV8vymd0JimlUvg82D.jpg
 

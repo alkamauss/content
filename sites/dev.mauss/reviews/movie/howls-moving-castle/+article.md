@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "2004-11-20"
 title:en: Howl's Moving Castle
 genres: [animation, adventure, drama, fantasy, romance]
@@ -6,8 +7,6 @@ rating: [9,10,9,9]
 verdict: pending
 
 seen:first: "2020-10-03"
-date:published: 2020
-date:updated: 2020
 image:en: https://image.tmdb.org/t/p/original/TkTPELv4kC3u1lkloush8skOjE.jpg
 backdrop: https://image.tmdb.org/t/p/original/sQSBPNPvmq8FDerPeFQsicj1faw.jpg
 

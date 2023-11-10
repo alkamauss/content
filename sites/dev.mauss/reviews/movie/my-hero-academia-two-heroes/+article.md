@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "2018-08-03"
 title:en: "My Hero Academia: Two Heroes"
 title:jp: "Boku no Hero Academia: Futari no Hero"
@@ -7,8 +8,6 @@ rating: [6,10,8,7]
 verdict: pending
 
 seen:first: "2020-07-19"
-date:published: 2020
-date:updated:
 image:en: https://image.tmdb.org/t/p/original/hC4nTxdhXqFWzgqynGvvXVMiMNp.jpg
 image:jp: https://image.tmdb.org/t/p/original/rwLuZhDcLbtC8VKW8Z2xnNKTsAJ.jpg
 

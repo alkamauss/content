@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "2021-05-14"
 title:en: "Subnautica: Below Zero"
 genres: [open world, survival]
@@ -6,8 +7,6 @@ rating: [story,artwork,sound,characters]
 verdict: pending
 
 seen:first: "2021-05-27"
-date:published: 2020
-date:updated: 2020
 image:en: https://upload.wikimedia.org/wikipedia/en/a/a3/Subnautica_Below_Zero_cover_art.jpg
 backdrop: https://cdn.akamai.steamstatic.com/steam/apps/848450/header.jpg
 

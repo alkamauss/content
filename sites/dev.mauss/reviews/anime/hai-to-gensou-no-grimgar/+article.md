@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "2016-01-11"
 title:en: "Grimgar: Ashes and Illusions"
 title:jp: Hai to Gensou no Grimgar
@@ -7,8 +8,6 @@ rating: [story,artwork,sound,characters]
 verdict: pending
 
 seen:first: "2020-11-16"
-date:published: 2020
-date:updated: 2020
 image:en: https://image.tmdb.org/t/p/original/zrnwS0cKsdpi0SpJxqSz1Dw2JGS.jpg
 image:jp:
 backdrop: https://image.tmdb.org/t/p/original/hQSjBpfBMeqOOHsGPLacb7Gx3aZ.jpg

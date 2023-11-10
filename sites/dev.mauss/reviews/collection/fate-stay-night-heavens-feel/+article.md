@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "2020-08-15"
 title:en: "Fate/stay night: Heaven's Feel Trilogy"
 genres: [animation, mystery, supernatural, romance]
@@ -7,8 +8,6 @@ verdict: pending
 
 completed: "2021-06-28"
 seen:first: "2021-06-28"
-date:published: 2020
-date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/ubSi3iHLD1CB11Wj23dnSekfTaN.jpg
 backdrop: https://www.themoviedb.org/t/p/original/uFnOcTKW9Hrv670B9EMvTfmDqJo.jpg
 

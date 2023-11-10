@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "2021-04-12"
 title:en: To Your Eternity
 title:jp: Fumetsu no Anata e
@@ -8,8 +9,6 @@ verdict: pending
 
 completed: "2022-12-24T14:28:00+07:00"
 seen:first: "2022-04-18"
-date:published: 2020
-date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/jxtLpQq0I7MF8kP99w0Q0K39UpG.jpg
 backdrop: https://www.themoviedb.org/t/p/original/qmeC99iX9YPbxi3Dwsw5VvxIbCC.jpg
 

@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "2013-07-24"
 title:en: "Corpse Party: Tortured Souls"
 genres: [horror, mystery, supernatural]
@@ -7,8 +8,6 @@ verdict: pending
 
 completed: "2022-04-01T23:25:24"
 seen:first: "2022-03-29T23:11:11"
-date:published: 2020
-date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/aP72Yn8rkmZpGZB3fdzQBS3rlr6.jpg
 image:jp: https://www.themoviedb.org/t/p/original/2g7s4sT5ybJENO5AMOlZ0dor4q.jpg
 backdrop: https://www.themoviedb.org/t/p/original/g2c3CmSjnNujga6jQHRmH1CwFtH.jpg

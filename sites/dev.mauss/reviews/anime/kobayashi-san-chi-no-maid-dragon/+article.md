@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "2017-01-12"
 title:en: Miss Kobayashi's Dragon Maid
 title:jp: Kobayashi-san Chi no Maid Dragon
@@ -8,8 +9,6 @@ verdict: pending
 
 completed: [2022-04-09T14:10:40, 2022-05-14T16:44:04]
 seen:first: [2022-04-06T21:55:05, 2022-04-09T23:14:41]
-date:published: 2020
-date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/tNznuhcf7WKzEmPQEsIgGMrB3Az.jpg
 image:jp: https://www.themoviedb.org/t/p/original/g8gof5OzYtS8Ebt5BlmpPExUjlJ.jpg
 backdrop: https://www.themoviedb.org/t/p/original/xfkOv2PSuVjehptAmRagT4MzatQ.jpg

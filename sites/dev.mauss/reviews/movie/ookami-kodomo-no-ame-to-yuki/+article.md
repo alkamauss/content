@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "2012-07-21"
 title:en: Wolf Children
 title:jp: Ookami Kodomo no Ame to Yuki
@@ -7,8 +8,6 @@ rating: [story,artwork,sound,characters]
 verdict: pending
 
 seen:first: 2020
-date:published: 2020
-date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/nqqovhsvsWbsb7LcGaIGDRZrwgB.jpg
 image:jp: https://www.themoviedb.org/t/p/original/g95ioEtHZwGg1rlNViE7NSF6lqQ.jpg
 backdrop: https://www.themoviedb.org/t/p/original/gCQklTHvnlrTSugqU8zurw0zIy2.jpg

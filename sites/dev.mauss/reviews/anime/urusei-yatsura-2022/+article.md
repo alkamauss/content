@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "2022-10-14"
 title:en: Urusei Yatsura (2022)
 genres: [comedy, romance, sci-fi]
@@ -7,8 +8,6 @@ verdict: pending
 
 completed: "2023-04-29T14:30:00+07:00"
 seen:first: "2022-10-28T17:39:00+07:00"
-date:published: 2020
-date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/gIvkC2kshTTF310fXMG1esFmVBA.jpg
 backdrop: https://www.themoviedb.org/t/p/original/hi3i7S1RAKHtDhCijAPw1eYdL8N.jpg
 

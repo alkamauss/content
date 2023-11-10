@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "2021-12-24"
 title:en: Jujutsu Kaisen 0
 genres: [animation]
@@ -7,8 +8,6 @@ verdict: pending
 
 completed: "2022-03-14T18:04:00"
 seen:first: "2022-03-14T16:26:00"
-date:published: "2020"
-date:updated: "2020"
 image:en: https://www.themoviedb.org/t/p/original/3pTwMUEavTzVOh6yLN0aEwR7uSy.jpg
 backdrop: https://www.themoviedb.org/t/p/original/10jVpNPcl9uzVR7W6EXKRyKLTXZ.jpg
 

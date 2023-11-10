@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "2011-04-06"
 title:en: Steins;Gate
 genres: [drama, sci-fi, suspense, psychological]
@@ -7,8 +8,6 @@ verdict: pending
 
 completed: "2022-08-05T23:58:40"
 seen:first: "2022-08-04T17:14:20"
-date:published: 2020
-date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/6iysgZr6Upm5RlAlVFo5f4D9euu.jpg
 backdrop: https://www.themoviedb.org/t/p/original/ly0tvRfOp936Zmr6vepusFeo7lp.jpg
 

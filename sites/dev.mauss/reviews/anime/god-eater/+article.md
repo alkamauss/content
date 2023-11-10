@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "2015-07-12"
 title:en: God Eater
 genres: [action, sci-fi, military, fantasy]
@@ -7,8 +8,6 @@ verdict: pending
 
 completed: "2021-06-27"
 seen:first: "2021-03-14"
-date:published: 2020
-date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/5H2XJUqkuLdhoYAxUOpa3NYLo8T.jpg
 image:jp: https://www.themoviedb.org/t/p/original/sBtOc2W3FDDQlWEMD2QvGc6hUDU.jpg
 backdrop: https://www.themoviedb.org/t/p/original/ptiSlEK0UhqUGQxeOlS3rn5FBSn.jpg

@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "2019-01-12"
 title:short: "Kaguya-sama: Love is War"
 title:en: "Kaguya-sama: Love is War"
@@ -9,8 +10,6 @@ verdict: pending
 
 completed: "2022-07-10T23:30:00"
 seen:first: "2020-07-21"
-date:published: 2020
-date:updated: 2020
 image:en: https://image.tmdb.org/t/p/original/dA93MnalfNLHMMlDcTCfX4QJb5Q.jpg
 image:jp:
 

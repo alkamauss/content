@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "2006-04-03"
 title:en: The Melancholy of Haruhi Suzumiya
 title:jp: Suzumiya Haruhi no Yuuutsu
@@ -7,8 +8,6 @@ rating: [story,artwork,sound,characters]
 verdict: pending
 
 seen:first: "2021-02-17"
-date:published: 2020
-date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/5rbehM5zkF8xlLce4F9kJZWhqmU.jpg
 image:jp: https://www.themoviedb.org/t/p/original/ioCuc65eEnAjulwjd9i8nOuIcRV.jpg
 backdrop: https://www.themoviedb.org/t/p/original/gDlx60iOCQjTLH53ybjAPOUyVIp.jpg

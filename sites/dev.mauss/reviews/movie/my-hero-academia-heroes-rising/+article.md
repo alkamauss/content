@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "2019-12-20"
 title:en: "My Hero Academia: Heroes Rising"
 title:jp: "Boku no Hero Academia: Heroes:Rising"
@@ -7,8 +8,6 @@ rating: [5,10,9,8]
 verdict: pending
 
 seen:first: "2020-07-12"
-date:published: 2020
-date:updated:
 image:en: https://image.tmdb.org/t/p/original/zGVbrulkupqpbwgiNedkJPyQum4.jpg
 image:jp: https://image.tmdb.org/t/p/original/y56HkHAbSZQJjQaxlqCaRI3lIHu.jpg
 

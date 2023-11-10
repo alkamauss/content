@@ -1,4 +1,5 @@
 ---
+date: "2020-06-25"
 released: "2010-10-04"
 title:short: Yosuga no Sora
 title:en: "Yosuga no Sora: In Solitude, Where We Are Least Alone"
@@ -7,8 +8,6 @@ rating: [4,7,10,5]
 verdict: contextual
 
 seen:first: "2020-06-06"
-date:published: "2020-06-18"
-date:updated: "2020-06-25"
 image:en: https://image.tmdb.org/t/p/original/9F80WGUD6WYfoEDMImf988NlXhC.jpg
 backdrop: https://image.tmdb.org/t/p/original/sY7HH2gbcTa9fTvyxopvo1Wiqbr.jpg
 

@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "2014-10-12"
 title:en: Fate/stay night [Unlimited Blade Works]
 title:jp: "Fate/stay night: Unlimited Blade Works"
@@ -7,8 +8,6 @@ rating: [story,artwork,sound,characters]
 verdict: pending
 
 seen:first: "2021-06-13"
-date:published: 2020
-date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/jyqi5BkDoKKIA2WAoz3HBtRHld3.jpg
 image:jp: https://www.themoviedb.org/t/p/original/mZfLRVb51S0M51JDMp4i3bW6nzX.jpg
 backdrop: https://www.themoviedb.org/t/p/original/uqOcBHNHsmYPePmrvYhjraRxLdJ.jpg

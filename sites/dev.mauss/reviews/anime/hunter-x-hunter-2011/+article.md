@@ -1,4 +1,5 @@
 ---
+date: "2020"
 released: "2011-10-02"
 title:en: Hunter x Hunter (2011)
 genres: [action, adventure, fantasy, shounen, super power]
@@ -7,8 +8,6 @@ verdict: pending
 
 completed: "2022-11-18T00:09:00+07:00"
 seen:first: "2021-03-14"
-date:published: 2020
-date:updated: 2020
 image:en: https://www.themoviedb.org/t/p/original/tolQj5yffSxkEGXusPwNcvYrbph.jpg
 backdrop: https://www.themoviedb.org/t/p/original/A702KA1gXlI3hB33hdhwPM708pY.jpg
 
