@@ -45,8 +45,6 @@ I've decided to drop most of my social media some time ago, I didn't fully purge
 
 Dropping social media and other time-consuming apps have had a huge impact in my life. I might make a separate dedicated post for this, but I can quite confidently say that I'm happier and my mind is more relaxed than before. I got way more time for myself, family, and those friends around me I truly care about.
 
-Because of that, I'll probably drop some more of my online accounts, and probably never come back for good this time. So please don't take offence if I don't reply when you've sent me a message, I'll make an effort to update the list frequently about my socials in [my about section](/about/) when I change, drop, or add something.
-
 > If you can't think of anything nice to say, don't say anything at all
 
 This was something I learned some years ago, have kept in mind, and will continue to do so. A closing quote I would want more people to know about. It has helped me in a lot of ways and I hope it does change the way some of you think too.
