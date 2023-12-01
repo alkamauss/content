@@ -112,5 +112,5 @@ rename 's/\[.*\]/\[replacement\]/' **/*     # execute rename
 rename 's/unwantedName/changedName/' path/to/start/**/* -n  # preview changes
 rename 's/unwantedName/changedName/' path/to/start/**/*     # execute rename
 
-# ('s/{}/{}/') is just regex so it's limited to just your knowledge
+# ('s/{}/{}/') is a regular expression so it's limited to your knowledge on it
 ```
