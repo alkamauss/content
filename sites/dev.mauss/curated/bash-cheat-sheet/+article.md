@@ -1,9 +1,9 @@
 ---
 date: "2021-02-21"
-title: Complete Bash Utility Cheat Sheet
+title: Bash Utility Cheat Sheet
 ---
 
-These are my goto scripts to manage my home media server. I'll be compiling all that I remember here so I won't forget it and could quickly search for a reference in the future. I hope most of it would be beneficial to you too.
+These are my scripts that I use to manage my home media server. I'm not a bash expert so I'm sure there are better ways to do this, but this is what I have so far.
 
 ## Using Nano Editor
 
