@@ -37,7 +37,7 @@ All of us already have a lot to think about in our mind. The truth is, nobody re
 
 Don't be a people pleaser, make yourself the highest priority of stuff you should care about the most. You're the only person that would be by your side till the end, not even your partner would be able to be with you all the time till the end.
 
-I'm telling all of this, as well as my [Past](/posts/one-hundredth-of-a-light-year-across-the-milky-way#past) beforehand, is because I'm genuinely glad that I'm able to keep my integrity after all these years. Even though I've mentioned previously that I forget most of the things I said, I'm happy that this is ingrained in my subconscious mind.
+I'm telling all of this, as well as my [Past](#past) beforehand, is because I'm genuinely glad that I'm able to keep my integrity after all these years. Even though I've mentioned previously that I forget most of the things I said, I'm happy that this is ingrained in my subconscious mind.
 
 ## Future
 
