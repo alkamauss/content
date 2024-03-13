@@ -1,5 +1,5 @@
 ---
-title: (Spoilers)
+title: Spoilers
 ---
 
 There's not much to break down here since they pretty much explains everything in the final episode. But, that doesn't mean there's nothing left to discuss. Here's some of the things I find quite interesting and worth to talk about.

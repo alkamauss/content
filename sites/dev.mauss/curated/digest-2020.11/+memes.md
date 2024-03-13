@@ -1,5 +1,5 @@
 ---
-title: November 2020 Memes
+title: Memes
 ---
 
 ![fear of covid#d#f](https://preview.redd.it/l2xq1qn1qkw51.jpg?width=640&crop=smart&auto=webp&s=7858c549eebafe636a0789c328468fe9b9bdf6e3 "[[Reddit](https://www.reddit.com/r/memes/comments/jlxzsh/everyone_on_earth_relates/)] Everyone on Earth relates")

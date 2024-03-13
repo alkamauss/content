@@ -1,5 +1,5 @@
 ---
-title: September 2020 Memes
+title: Memes
 ---
 
 ![optimistic developer vs. end user#d#f](https://i.redd.it/1h04vk2fjmk51.jpg "[[Reddit](https://www.reddit.com/r/ProgrammerHumor/comments/ikvx3d/ooooof/)] optimistic developer vs. end user")

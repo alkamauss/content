@@ -1,5 +1,5 @@
 ---
-title: November 2020 Calendar
+title: Calendar
 ---
 
 ## 02

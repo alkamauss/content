@@ -1,5 +1,5 @@
 ---
-title: February 2021 Memes
+title: Memes
 ---
 
 ![feeling your iq dropping with every word#d#f](https://preview.redd.it/umcs2t9c7ye61.jpg?width=960&crop=smart&auto=webp&s=0a3a163fe02961affbba5de1577fcd05fb5db0bb "[[Reddit](https://www.reddit.com/r/memes/comments/lah3ty/my_iqs_going_doown/)] Arguing with someone talking nonsense")

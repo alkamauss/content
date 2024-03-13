@@ -1,5 +1,5 @@
 ---
-title: January 2021 Memes
+title: Memes
 ---
 
 ![why is the bible written so weirdly#d#f](https://preview.redd.it/p1cypwqsw8c61.png?width=640&crop=smart&auto=webp&s=8720089c15d394b70beee1e0ef5cca6a7021bc43 "[[Reddit](https://www.reddit.com/r/Animemes/comments/l0fb1j/daily_erwin_meme_1083/)] \"Have you ever wondered\", you asked yourself, son of your mother")

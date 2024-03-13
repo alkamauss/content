@@ -1,5 +1,5 @@
 ---
-title: April 2021 Memes
+title: Memes
 ---
 
 ![humans prefer giant bugs living underwater#d#f](https://preview.redd.it/huq15fm8kfr61.jpg?width=960&crop=smart&auto=webp&s=b4bd74427702668bb5ad7a80e85ca3e9f6c4ee2a "[[Reddit](https://www.reddit.com/r/memes/comments/mkwkfq/is_it_the_color/)] Is it the color?")

@@ -1,5 +1,5 @@
 ---
-title: December 2020 Memes
+title: Memes
 ---
 
 ![cute couple#d#f](https://preview.redd.it/ghtmmaxx8q261.jpg?width=640&crop=smart&auto=webp&s=e37802bd6e3a5a80dc894baac84dbcf6ef25f090 "[[Reddit](https://www.reddit.com/r/wholesomeanimemes/comments/k54x2c/goodbye_kiss_karakai_jouzu_no_takagisan/)] Goodbye kiss [Karakai Jouzu No Takagi-san]")

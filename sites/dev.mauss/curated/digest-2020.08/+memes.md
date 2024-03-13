@@ -1,5 +1,5 @@
 ---
-title: August 2020 Memes
+title: Memes
 ---
 
 ![!Video#d#f](https://preview.redd.it/ngwg54komaf51.gif?width=592&format=mp4&s=547dbebdc6ebd92a605a0761471a07c340d852a2 "[[Reddit](https://www.reddit.com/r/ProgrammerHumor/comments/i4jdyf/when_client_says_the_product_sucks/)] When client says the product sucks")

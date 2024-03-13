@@ -1,5 +1,5 @@
 ---
-title: (Spoilers)
+title: Spoilers
 ---
 
 There's not much to discuss here, but one thing I'd like to point out is

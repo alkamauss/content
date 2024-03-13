@@ -1,5 +1,5 @@
 ---
-title: (Spoilers)
+title: Spoilers
 ---
 
 As you've already decided to open this section, I'm sure you know what's coming. We'll be discussing more on Sora's arc as it felt like the true ending to the show. But, before that...
