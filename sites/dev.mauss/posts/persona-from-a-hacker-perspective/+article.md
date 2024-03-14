@@ -15,6 +15,8 @@ Our target audience for Advokasimu project is the people, advocates, and the ove
 
 The people is the one who will be using our application the most. They're the ones with the problems that we're going to help. Advocates is the groups who's going to help them through our app, and the overseers make sure everything stays in order.
 
+## Target Audience
+
 Our targets are categorized by their behavior, their needs, and of course their personal information.
 
 ![Persona Target 1](./persona-nadine.png)

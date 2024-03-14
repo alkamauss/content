@@ -13,11 +13,11 @@ There's a lot of definitions on what is actually *wasteful* means, here's what G
 
 Personally, *redundant* fits closer to what I actually feel, I'll explain this on the next section. But, wasteful still holds true in some aspects of it. Before I continue, I'm going to state the next sentences as a disclaimer. I am, by no means, saying that the teams or individuals working on these projects are "bad" per se, in fact it's amazing that they're able to build such software used by people around the world. Then again, just like anything in the world, it's not meant as a one-size-fits-all type, and **it's definitely not my type**.
 
-### The Good?
+## The Good?
 
 Let's start of by discussing the good, advantages that you and/or your team would get by using a CSS framework. A definite answer is of course a smoother experience in the developer experience (DX) as there's no need for someone to maintain and make sure the styles and class names stays consistent between each person working on the project. Not to mention, you can even work on different projects with absolutely no correlation whatsoever, and would still understand and could replicate or write the same style rules because your organization uses one CSS framework.
 
-### The Other
+## The Other
 
 There's probably a lot more advantages that you think should be mentioned here, but really, I can't think of any other reason to use a framework other than that, with the exception of organization with legacy projects that is already using one. Other than that, I could never imagine using one, especially if it's a new (modern) project.
 

@@ -13,7 +13,7 @@ Though saying all that, the thought still comes across my mind once in a while, 
 
 That is what I really felt this time, a couple of days earlier. I have never in my life ever thought of any of "those" things, until now. Last month was perhaps one of the worst weeks / days of my life (so far). I truly can't think straight at the time, my mind is going places, and a lot of things came into my mind to the point that I've *thought* of doing those things.
 
-### Tipping point
+## Tipping point
 
 It was a burnout. I was mentally exhausted and emotionally drained, I felt numb, and nothing seems to matter anymore. I train my body everyday, be physically strong, and none of it would matter, my mind is still weak and it affects everything I do too.
 
@@ -25,7 +25,7 @@ All the things that happens to me might seem insignificant or exaggerated for so
 
 Knowing that, you can't really judge how others react to the same problems as you do. You might be able to grief for only a couple of days and some might take months or years to do the same. The same goes for everything we do and experience in life too.
 
-### The comeback
+## The comeback
 
 To be honest, I didn't even think I could make it through that last week of October. It was truly a nightmare and I might suffer from PTSD just by thinking back to those days, but I did it, I actually live through it and I've gained experience from it. Let me share how I managed through all of it.
 

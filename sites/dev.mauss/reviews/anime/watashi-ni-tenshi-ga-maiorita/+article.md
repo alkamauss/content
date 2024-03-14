@@ -18,7 +18,7 @@ link:
 
 ## Synopsis
 
-Miyako "Mya-nee" Hoshino is a NEET... *ahem*, timid person that spends most of her time inside her house. You'll either find her making cosplay outfits in her room or baking and cooking sweets in the kitchen. With literally no friends and lacking social skills, she lives her life in the comfort of home.
+Miyako "Mya-nee" Hoshino is a ~~NEET~~ timid person that spends most of her time inside her house. You'll either find her making cosplay outfits in her room or baking and cooking sweets in the kitchen. With literally no friends and lacking social skills, she lives her life in the comfort of home.
 
 Hinata, her younger sister just started fifth grade and decided to bring her classmate home one day. Instantly captivated by Hana Shirosaki cuteness at first glance, Miyako panicked and didn't get to introduce herself properly. She later decided she wants to be friends with Hana and tried to do various things to her, it gives Hana a bad first impression, but Miyako would do anything to get closer to her and become her friend.
 
@@ -67,18 +67,6 @@ Perhaps my one and only complaint is Hana. Even as cute and incompetent as she i
 I know most of you agrees with me, even after the first episode, that Miyako is actually a fun but just socially awkward person. The more you get to know her, the more you'll understand why she acts the way she does and the more you'll love her. I can't say much more before spoiling some stuff you'll get to enjoy discovering for yourself, but I can say for certain that she's my favorite character from the whole show. Hinata is second, and last is Noa, perhaps because she reminds me of Elf Yamada from [Eromanga-sensei](/reviews?q=eromanga+sensei) so much.
 
 My verdict is definitely **recommended**. This show is just a relaxing and wholesome show you'll definitely love to watch in your free time. There's no one thing that fits everyone, and I'm not forcing you to watch this either. I'm just saying you won't regret watching this. Even if you're the type that *only* watches action themed anime and thought that a show full of kids and girls reduces your testosterone&mdash;feel free to think so, I'm not one to talk about how you should live your life&mdash;I'm still certain you'll get a laugh or two out of this.
-
-## $SPOILERS
-
-There's not much to discuss here, but one thing I'd like to point out is
-
-> It's okay. As long as everyone's smiling...
-
-You know she's a genuinely good person deep down, despite the fact that she's acting like a huge creep at first towards Hana. She's just a little awkward and no friends to channel all of her hobbies. But, she's trying her best and forces herself to get out of her comfort zone for something she loves is something to be commended.
-
-Aside from that, despite being inside all the time, Miyako is really talented. She can cook, bake, make clothes, does her tasks extremely well, and most importantly, be a good sister. This is why I like her the most. Hinata, on the other hand, is just the cutest out of all the kids.
-
-## $CLOSING
 
 ## Soundtracks
 

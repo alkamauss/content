@@ -1,5 +1,5 @@
 ---
-title: October 2020 Memes
+title: Memes
 ---
 
 ![clickbait commit messages#d#f](https://external-preview.redd.it/Ta9nQP5kN9NLTDOJ8KV-8ITguvcweoUK8eXxmx5DGSc.jpg?auto=webp&s=ff8e4200dcc8207c60eb7c7cab243d12af9858f4 "[[Reddit](https://www.reddit.com/r/ProgrammerHumor/comments/j3h53k/this_cto_got_his_staff_to_pay_attention_to_his/)] This CTO got his staff to pay attention to his commit messages! You won't believe how he did it!")

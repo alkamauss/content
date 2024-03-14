@@ -9,7 +9,7 @@ Three days ago, on Thursday night, I forced myself to schedule a routine on my c
 
 It's been two days and yes, I was thinking about saying *only*, but two consecutive days of sticking to your planned schedule is already a great feat on its own. Well, even just creating the schedule itself is a worthy achievement. Yes, I'm basically praising myself for what I've done, but that's not the point I'm trying to make. The thing is, don't undermine your efforts that you've done for yourself. Praise yourself more, congratulate yourself and even celebrate it if you can with your close ones. These little things are as important as creating and sticking to your schedule.
 
-### Focus on goals, not on activities... or is it?
+## Focus on goals, not on activities... or is it?
 
 I've started working out again on a regular basis, forced myself to have some me-time, do some self-care, and of course not to forget to do some chores. These little things are the stuff we can probably do while we have "the time" or "motivation". You might've heard that when planning out your schedule, we need to focus more on the goal rather than the activities themselves. While it's true to a certain degree, it only works when you already have a predetermined priority list that you need to do. It works as a cram method to finish your tasks, but the same doesn't apply for disciplining yourself.
 
@@ -17,7 +17,7 @@ When it comes to discipline, it doesn't matter what you do (the end goal of it).
 
 Again, it doesn't matter how small the end result is, when you finish doing it, you completed *something* that day, you're making progress to your day. If you picture your day to day tasks as a to-do list you need to complete every day, you've already done and immediately checked off one thing to do from your list the first thing in the morning. That achievement will boost your day and (hopefully) create a snowball effect that gets bigger as you complete more things.
 
-### Remove constraints, think lightly and just do it
+## Remove constraints, think lightly and just do it
 
 I feel really nice about myself when I've managed to stick to my planned schedule, even after only completing a task. The trick is to not think about it too hard, you've planned your schedule from yesterday for the day, whatever happens, try your hardest to stick and follow through it. Even better if you can make it a weekly schedule instead of only for a day, that way you'll have an easier time making it a habit.
 
@@ -27,7 +27,7 @@ After doing chores early in the morning, it was quite satisfying, but the differ
 
 There's of course a lot more I planned out and everything is more or less as vague as "Workout" or "Me-Time", I didn't specify the details because that would take a lot more time and I wanted this to be a weekly routine, so I thought it's better to just come up with the details on the day so it's more flexible on what I will and can do. These actions and routines might seem tiny and insignificant, but don't underestimate the boost it can give to yourself, mentally and emotionally. The boost you get is way more fulfilling than relying on external stuff.
 
-### Progress is progress
+## Progress is progress
 
 Don't think too hard about the goals, perfect your systems and create the optimal condition for yourself to work and improve. Find your own way to do stuff and complete them, never compare with other people with the intent to make yourself feel bad. Competition and having someone to look up to as motivation is a good thing, but remember that everyone progress on a different pace, we live on our own time and only that.
 

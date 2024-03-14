@@ -1,5 +1,5 @@
 ---
-title: January 2021 Calendar
+title: Calendar
 ---
 
 ## 07

@@ -1,5 +1,5 @@
 ---
-title: September 2020 Calendar
+title: Calendar
 ---
 
 ## 01
