@@ -4,7 +4,7 @@ title: Get Rid of Un-mappable Character for Encoding Cp1252 when Compiling Java
 tags: [tutorial, coding]
 ---
 
-### 2 ways to get rid of it
+There are 2 ways to get rid of it
 
 1. Add the encoding option on compile command
 
