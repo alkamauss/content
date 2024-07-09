@@ -7,7 +7,7 @@ genres: [comedy, shounen]
 rating: [story,artwork,sound,characters]
 verdict: pending
 
-completed: [2021-07-04]
+completed: "2021-07-04"
 seen:first: [2021-02-10, 2021-10-17T17:31:13]
 image:en: https://www.themoviedb.org/t/p/original/sgwwEGvNy7vCJN8IVnl44tuVlMZ.jpg
 backdrop: https://www.themoviedb.org/t/p/original/znwEvECDz94pc3ZWML4OettkPto.jpg

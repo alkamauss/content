@@ -7,7 +7,7 @@ genres: [action, super power, supernatural, comedy, vampire, fantasy, shounen]
 rating: [story,artwork,sound,characters]
 verdict: pending
 
-completed: [2022-01-09T14:38:44]
+completed: "2022-01-09T14:38:44"
 seen:first: "2021-02-07"
 image:en: https://www.themoviedb.org/t/p/original/1IKNrWEqu2cpOmSpwHqaCbnbIzE.jpg
 image:jp: https://www.themoviedb.org/t/p/original/uOUn6sBwkUjD72e9uf4F6nVfBRv.jpg
