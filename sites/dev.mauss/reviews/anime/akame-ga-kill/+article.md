@@ -6,12 +6,15 @@ genres: [action, adventure, drama, fantasy, shounen]
 rating: [story,artwork,sound,characters]
 verdict: pending
 
-seen:first: "2020"
+completed: "2023-10-07T21:26:00+07:00"
+seen:first: "2023-09-27T14:54:00+07:00"
 image:en: https://www.themoviedb.org/t/p/original/3c5BIEfAhTCWrIi4C8WMuwOl6bX.jpg
 backdrop: https://www.themoviedb.org/t/p/original/oczFTWRBhKrJ4rNNhqKgp1O1PAu.jpg
 
 link:
+  IMDb: https://www.imdb.com/title/tt3742982/
   MyAnimeList: https://myanimelist.net/anime/22199/Akame_ga_Kill/
+  TMDB: https://www.themoviedb.org/tv/61223
 ---
 
 
