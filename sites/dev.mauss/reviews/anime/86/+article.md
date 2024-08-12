@@ -4,12 +4,15 @@ released: "2021-04-11"
 title:en: "86: Eighty Six"
 genres: [action, drama, sci-fi]
 rating: [story,artwork,sound,characters]
+completed: 23/23
 verdict: pending
 
-completed: "2022-10-07T20:50:00+07:00"
-seen:first: "2022-10-06T17:58:00+07:00"
-image:en: https://www.themoviedb.org/t/p/original/96mUvRlJBYOMBdbn30wtoh7QrpY.jpg
 backdrop: https://www.themoviedb.org/t/p/original/lSlL2CAPSDJ9gf2MZX0x2u2inKX.jpg
+image:en: https://www.themoviedb.org/t/p/original/96mUvRlJBYOMBdbn30wtoh7QrpY.jpg
+
+seen:
+  first: "2022-10-06T17:58:00+07:00"
+  last: "2022-10-07T20:50:00+07:00"
 
 link:
   MyAnimeList: https://myanimelist.net/anime/41457/86

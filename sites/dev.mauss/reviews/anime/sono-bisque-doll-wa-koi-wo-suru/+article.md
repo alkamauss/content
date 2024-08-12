@@ -1,20 +1,26 @@
 ---
 date: "2020"
 released: "2022-01-09"
-title:en: My Dress-Up Darling
-title:jp: Sono Bisque Doll wa Koi wo Suru
+title:
+  en: My Dress-Up Darling
+  jp: Sono Bisque Doll wa Koi wo Suru
 genres: [romance, slice of life]
 rating: [story,artwork,sound,characters]
+completed: 12/12
 verdict: pending
 
-completed: "2022-03-27T09:04:10"
-seen:first: "2022-02-16T21:36:16"
-image:en: https://www.themoviedb.org/t/p/original/w09TpdruCEhZcIPGDMhM6sGDhg7.jpg
-image:jp: https://www.themoviedb.org/t/p/original/i9TswU0pOi9MTi75qeFxKqIBwz2.jpg
 backdrop: https://www.themoviedb.org/t/p/original/jyCeRldLBa2ofS8BFztVpxl6qaN.jpg
+image:
+  en: https://www.themoviedb.org/t/p/original/w09TpdruCEhZcIPGDMhM6sGDhg7.jpg
+  jp: https://www.themoviedb.org/t/p/original/i9TswU0pOi9MTi75qeFxKqIBwz2.jpg
+
+seen:
+  first: "2022-02-16T21:36:16"
+  last: "2022-03-27T09:04:10"
 
 link:
   MyAnimeList: https://myanimelist.net/anime/48736/Sono_Bisque_Doll_wa_Koi_wo_Suru
+  TMDB: https://www.themoviedb.org/tv/123249
 ---
 
 

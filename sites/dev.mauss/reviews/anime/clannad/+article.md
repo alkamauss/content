@@ -5,17 +5,23 @@ title:en: Clannad
 title:jp: CLANNAD
 genres: [comedy, drama, romance, school, slice of life, supernatural]
 rating: [story,artwork,sound,characters]
+completed: 44/44
 verdict: pending
 
-completed: "2021-06-14"
-seen:first: "2021-02-12"
-image:en: https://image.tmdb.org/t/p/original/j8RZC51i5aH3UektH0ViKES2Ux3.jpg
-image:jp:
+backdrop: https://image.tmdb.org/t/p/original/h9nAWM6TF59g39l3fDzqTgW7ap2.jpg
+image:
+  en: https://image.tmdb.org/t/p/original/j8RZC51i5aH3UektH0ViKES2Ux3.jpg
+  jp: https://image.tmdb.org/t/p/original/1TcBv4nM2eI39HMcanEmyaiaJX9.jpg
+
+seen:
+  first: "2021-02-12"
+  last: "2021-06-14"
 
 delineation: Cry on demand
 
 link:
   MyAnimeList: https://myanimelist.net/anime/2167/Clannad/
+  TMDB: https://www.themoviedb.org/tv/24835
 ---
 
 ## Synopsis

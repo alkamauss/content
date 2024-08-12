@@ -4,15 +4,19 @@ released: "2009-07-10"
 title:en: Tokyo Magnitude 8.0
 genres: [drama]
 rating: [story,artwork,sound,characters]
+completed: 11/11
 verdict: pending
 
-completed: "2021-07-30T20:54:08"
-seen:first: "2021-02-06"
-image:en: https://www.themoviedb.org/t/p/original/sGmtNIVyZHqB0MLmbleNG4GmRVV.jpg
 backdrop: https://www.themoviedb.org/t/p/original/pFlKmFYSf90lsKTSbNlqTtAQhyN.jpg
+image:en: https://www.themoviedb.org/t/p/original/sGmtNIVyZHqB0MLmbleNG4GmRVV.jpg
+
+seen:
+  first: "2021-02-06"
+  last: "2021-07-30T20:54:08"
 
 link:
   MyAnimeList: https://myanimelist.net/anime/6211/Tokyo_Magnitude_80
+  TMDB: https://www.themoviedb.org/tv/37866-tokyo-magnitude-8-0
 ---
 
 

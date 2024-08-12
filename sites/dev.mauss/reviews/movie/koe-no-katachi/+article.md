@@ -1,20 +1,25 @@
 ---
 date: "2020"
 released: "2016-09-17"
-title:en: A Silent Voice
-title:jp: Koe no Katachi
+title:
+  en: A Silent Voice
+  jp: Koe no Katachi
 genres: [animation, drama]
 rating: [story,artwork,sound,characters]
 verdict: pending
 
-completed: "2021-10-16T14:21:57"
-seen:first: "2021-10-16T09:00:00"
-image:en: https://www.themoviedb.org/t/p/original/tuFaWiqX0TXoWu7DGNcmX3UW7sT.jpg
-image:jp: https://www.themoviedb.org/t/p/original/7clTvRa9RRh78c8epoC0YrNZoD6.jpg
 backdrop: https://www.themoviedb.org/t/p/original/q5HZvtyqG8Vz39Ee9uTQbLeEml.jpg
+image:
+  en: https://www.themoviedb.org/t/p/original/tuFaWiqX0TXoWu7DGNcmX3UW7sT.jpg
+  jp: https://www.themoviedb.org/t/p/original/7clTvRa9RRh78c8epoC0YrNZoD6.jpg
+
+seen:
+  first: "2021-10-16T09:00:00"
+  last: "2021-10-16T14:21:57"
 
 link:
   MyAnimeList: https://myanimelist.net/anime/28851/koe_no_katachi
+  TMDB: https://www.themoviedb.org/movie/378064
 ---
 
 

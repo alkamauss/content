@@ -1,20 +1,26 @@
 ---
 date: "2020"
 released: "2021-04-11"
-title:en: Don't Toy with Me, Miss Nagatoro
-title:jp: Ijiranaide, Nagatoro-san
+title:
+  en: Don't Toy with Me, Miss Nagatoro
+  jp: Ijiranaide, Nagatoro-san
 genres: [slice of life, comedy, romance]
 rating: [story,artwork,sound,characters]
+completed: 24/24
 verdict: pending
 
-completed: "2023-03-25T21:45:00+07:00"
-seen:first: "2021-04-11"
-image:en: https://www.themoviedb.org/t/p/original/dHSRVAi83iapl4yazkPiyv3atQZ.jpg
-image:jp: https://www.themoviedb.org/t/p/original/wpV16RDxMJsj9YEI8hqwVgEGoHb.jpg
 backdrop: https://www.themoviedb.org/t/p/original/uxmxWA4mmxeAWG8NNiUpGC7W462.jpg
+image:
+  en: https://www.themoviedb.org/t/p/original/dHSRVAi83iapl4yazkPiyv3atQZ.jpg
+  jp: https://www.themoviedb.org/t/p/original/wpV16RDxMJsj9YEI8hqwVgEGoHb.jpg
+
+seen:
+  first: "2021-04-11"
+  last: "2023-03-25T21:45:00+07:00"
 
 link:
   MyAnimeList: https://myanimelist.net/anime/42361/Ijiranaide_Nagatoro-san
+  TMDB: https://www.themoviedb.org/tv/105556
 ---
 
 

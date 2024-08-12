@@ -4,15 +4,19 @@ released: "2021-11-06"
 title:en: Arcane
 genres: [animation, action, adventure, drama, sci-fi, steampunk]
 rating: [story,artwork,sound,characters]
+completed: 9/9
 verdict: pending
 
-completed: "2022-09-03T23:09:00+07:00"
-seen:first: "2022-09-03T17:01:00+07:00"
-image:en: https://www.themoviedb.org/t/p/original/3YBpdwJwLecxGDguVITeDBP0kTd.jpg
 backdrop: https://www.themoviedb.org/t/p/original/q8eejQcg1bAqImEV8jh8RtBD4uH.jpg
+image:en: https://www.themoviedb.org/t/p/original/3YBpdwJwLecxGDguVITeDBP0kTd.jpg
+
+seen:
+  first: "2022-09-03T17:01:00+07:00"
+  last: "2022-09-03T23:09:00+07:00"
 
 link: 
   IMDb: https://www.imdb.com/title/tt11126994/
+  TMDB: https://www.themoviedb.org/tv/94605-arcane
 ---
 
 

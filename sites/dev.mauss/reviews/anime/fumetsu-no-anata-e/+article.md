@@ -1,16 +1,20 @@
 ---
 date: "2020"
 released: "2021-04-12"
-title:en: To Your Eternity
-title:jp: Fumetsu no Anata e
+title:
+  en: To Your Eternity
+  jp: Fumetsu no Anata e
 genres: [adventure, drama, supernatural]
 rating: [story,artwork,sound,characters]
+completed: 21/40
 verdict: pending
 
-completed: "2022-12-24T14:28:00+07:00"
-seen:first: "2022-04-18"
-image:en: https://www.themoviedb.org/t/p/original/jxtLpQq0I7MF8kP99w0Q0K39UpG.jpg
 backdrop: https://www.themoviedb.org/t/p/original/qmeC99iX9YPbxi3Dwsw5VvxIbCC.jpg
+image:en: https://www.themoviedb.org/t/p/original/jxtLpQq0I7MF8kP99w0Q0K39UpG.jpg
+
+seen:
+  first: "2022-04-18"
+  last: "2022-12-24T14:28:00+07:00"
 
 link:
   IMDb: https://www.imdb.com/title/tt12063450/

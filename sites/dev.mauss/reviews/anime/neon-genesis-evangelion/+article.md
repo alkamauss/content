@@ -4,15 +4,19 @@ released: "1995-10-04"
 title:en: Neon Genesis Evangelion
 genres: [action, drama, mecha, psychological, sci-fi, suspense]
 rating: [story,artwork,sound,characters]
+completed: 26/26
 verdict: pending
 
-completed: "2022-10-31T00:34:00+07:00"
-seen:first: "2022-10-09T17:42:00+07:00"
-image:en: https://www.themoviedb.org/t/p/original/bpH2zhPWFmN4HyssSPV7ji7Pj6A.jpg
 backdrop: https://www.themoviedb.org/t/p/original/qtmlwuXj0VyJnCjnrvdpDjo15vI.jpg
+image:en: https://www.themoviedb.org/t/p/original/bpH2zhPWFmN4HyssSPV7ji7Pj6A.jpg
+
+seen:
+  first: "2022-10-09T17:42:00+07:00"
+  last: "2022-10-31T00:34:00+07:00"
 
 link:
   MyAnimeList: https://myanimelist.net/anime/30/Neon_Genesis_Evangelion
+  TMDB: https://www.themoviedb.org/tv/890-neon-genesis-evangelion
 ---
 
 
