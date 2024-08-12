@@ -7,7 +7,7 @@ genres: [action, sci-fi, super power]
 rating: [story,artwork,sound,characters]
 verdict: pending
 
-completed:
+completed: 1/73
 seen:first: "2021-08-10T23:28:25"
 image:en: https://www.themoviedb.org/t/p/original/dZt1dqw0K4JGhwcqTh8yExHYK9w.jpg
 image:jp: https://www.themoviedb.org/t/p/original/vUTIKSGdoMGHUOgSv0wcLnLacVf.jpg
