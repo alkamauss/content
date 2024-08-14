@@ -1,20 +1,26 @@
 ---
 date: "2020"
 released: "2017-01-12"
-title:en: Miss Kobayashi's Dragon Maid
-title:jp: Kobayashi-san Chi no Maid Dragon
+title:
+  en: Miss Kobayashi's Dragon Maid
+  jp: Kobayashi-san Chi no Maid Dragon
 genres: [fantasy, slice of life]
 rating: [story,artwork,sound,characters]
+completed: 25/25
 verdict: pending
 
-completed: [2022-04-09T14:10:40, 2022-05-14T16:44:04]
-seen:first: [2022-04-06T21:55:05, 2022-04-09T23:14:41]
-image:en: https://www.themoviedb.org/t/p/original/tNznuhcf7WKzEmPQEsIgGMrB3Az.jpg
-image:jp: https://www.themoviedb.org/t/p/original/g8gof5OzYtS8Ebt5BlmpPExUjlJ.jpg
 backdrop: https://www.themoviedb.org/t/p/original/xfkOv2PSuVjehptAmRagT4MzatQ.jpg
+image:
+  en: https://www.themoviedb.org/t/p/original/tNznuhcf7WKzEmPQEsIgGMrB3Az.jpg
+  jp: https://www.themoviedb.org/t/p/original/g8gof5OzYtS8Ebt5BlmpPExUjlJ.jpg
+
+seen:
+  first: [2022-04-06T21:55:05, 2022-04-09T23:14:41]
+  last: [2022-04-09T14:10:40, 2022-05-14T16:44:04]
 
 link:
   MyAnimeList: https://myanimelist.net/anime/33206/Kobayashi-san_Chi_no_Maid_Dragon/
+  TMDB: https://www.themoviedb.org/tv/69291-kobayashi-san-chi-no-maid-dragon
 ---
 
 

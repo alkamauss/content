@@ -6,13 +6,16 @@ genres: [animation, comedy, family, fantasy, musical]
 rating: [story,artwork,sound,characters]
 verdict: pending
 
-completed: "2022-08-13T23:08:22"
-seen:first: "2022-08-13T21:38:12"
-image:en: https://www.themoviedb.org/t/p/original/4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg
 backdrop: https://www.themoviedb.org/t/p/original/fst9hM26nIJMF4FTkFLasUwmBC.jpg
+image:en: https://www.themoviedb.org/t/p/original/4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg
+
+seen:
+  first: "2022-08-13T21:38:12"
+  last: "2022-08-13T23:08:22"
 
 link:
   IMDb: https://www.imdb.com/title/tt2953050/
+  TMDB: https://www.themoviedb.org/movie/568124-encanto
 ---
 
 

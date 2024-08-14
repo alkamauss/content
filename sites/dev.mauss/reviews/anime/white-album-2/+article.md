@@ -4,15 +4,19 @@ released: "2013-10-06"
 title:en: White Album 2
 genres: [drama, music, romance, slice of life]
 rating: [story,artwork,sound,characters]
+completed: 13/13
 verdict: pending
 
-completed: "2022-03-10T14:12:18"
-seen:first: "2021-07-31T22:30:40"
-image:en: https://www.themoviedb.org/t/p/original/lwRNHfZyPWOI2oFNfIoaXsiwGJB.jpg
 backdrop: https://www.themoviedb.org/t/p/original/8zpgSUqiYbMP3UPMKBnNbiB32c5.jpg
+image:en: https://www.themoviedb.org/t/p/original/lwRNHfZyPWOI2oFNfIoaXsiwGJB.jpg
+
+seen:
+  first: "2021-07-31T22:30:40"
+  last: "2022-03-10T14:12:18"
 
 link:
   MyAnimeList: https://myanimelist.net/anime/18245/White_Album_2
+  TMDB: https://www.themoviedb.org/tv/70072-2
 ---
 
 > Heaviest heartbreak in anime history

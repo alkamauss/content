@@ -1,19 +1,24 @@
 ---
 date: "2020"
 released: "2018-07-08"
-title:en: Cells at Work!
-title:jp: Hataraku Saibou
+title:
+  en: Cells at Work!
+  jp: Hataraku Saibou
 genres: [comedy, shounen]
 rating: [story,artwork,sound,characters]
+completed: 14/21
 verdict: pending
 
-completed: "2021-07-04"
-seen:first: [2021-02-10, 2021-10-17T17:31:13]
-image:en: https://www.themoviedb.org/t/p/original/sgwwEGvNy7vCJN8IVnl44tuVlMZ.jpg
 backdrop: https://www.themoviedb.org/t/p/original/znwEvECDz94pc3ZWML4OettkPto.jpg
+image:en: https://www.themoviedb.org/t/p/original/sgwwEGvNy7vCJN8IVnl44tuVlMZ.jpg
+
+seen:
+  first: [2021-02-10, 2021-10-17T17:31:13]
+  last: "2021-07-04"
 
 link:
   MyAnimeList: https://myanimelist.net/anime/37141/Hataraku_Saibou_TV/
+  TMDB: https://www.themoviedb.org/tv/80671
 ---
 
 

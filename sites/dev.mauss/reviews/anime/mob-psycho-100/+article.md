@@ -4,14 +4,19 @@ released: "2016-07-11"
 title:en: Mob Psycho 100
 genres: [action, comedy, supernatural]
 rating: [10,9,10,10]
+completed: 37/37
 verdict: pending
 
-completed: "2022-12-22T02:24:00+07:00"
-seen:first: "2020-07-14"
+backdrop: 
 image:en: https://image.tmdb.org/t/p/original/5Wf9Y6gucbu1LMe1FyqD8TQjaNM.jpg
+
+seen:
+  first: "2020-07-14"
+  last: "2022-12-22T02:24:00+07:00"
 
 link:
   MyAnimeList: https://myanimelist.net/anime/32182/Mob_Psycho_100
+  TMDB: https://www.themoviedb.org/tv/67075-100
 ---
 
 ![Backdrop]()

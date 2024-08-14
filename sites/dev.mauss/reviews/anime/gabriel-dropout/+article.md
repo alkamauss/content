@@ -4,16 +4,21 @@ released: "2017-01-09"
 title:en: Gabriel DropOut
 genres: [comedy, supernatural]
 rating: [story,artwork,sound,characters]
+completed: 12/12
 verdict: pending
 
-completed: "2022-03-29T00:32:30"
-seen:first: "2022-03-20T11:13:20"
-image:en: https://www.themoviedb.org/t/p/original/dS5dut05RFNi3fOCn6iO31Eag9x.jpg
-image:jp: https://www.themoviedb.org/t/p/original/7QxejkPuKYDJdN0vG8nmPeugDMV.jpg
 backdrop: https://www.themoviedb.org/t/p/original/zscbGuTQ5DX7UL4Xrl9XxIVtXDN.jpg
+image:
+  en: https://www.themoviedb.org/t/p/original/dS5dut05RFNi3fOCn6iO31Eag9x.jpg
+  jp: https://www.themoviedb.org/t/p/original/7QxejkPuKYDJdN0vG8nmPeugDMV.jpg
+
+seen:
+  first: "2022-03-20T11:13:20"
+  last: "2022-03-29T00:32:30"
 
 link:
   MyAnimeList: https://myanimelist.net/anime/33731/Gabriel_DropOut
+  TMDB: https://www.themoviedb.org/tv/69285-gabriel-dropout
 ---
 
 
